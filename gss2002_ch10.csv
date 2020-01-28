@@ -1,0 +1,2766 @@
+id,hrs1,wrkslf,age,educ,paeduc,maeduc,sex,polviews,sei,pasei,masei
+1,40,someone else,25,14,12,12,female,conservative,57.099998,36.5,
+2,72,someone else,43,16,12,12,male,conservative,48.5,26.5,
+3,40,someone else,30,13,12,,female,,68.099998,33.299999,
+4,60,someone else,55,2,8,8,female,,73.199997,37.299999,
+5,40,someone else,37,7,16,10,male,,44.700001,38.200001,26.700001
+6,42,someone else,47,12,8,8,male,conservative,47.599998,35.099998,33.099998
+7,,someone else,57,16,16,12,female,,78.5,48.5,
+8,,someone else,71,12,,,female,,34.599998,,
+9,40,someone else,46,14,20,12,male,conservative,63.5,84.199997,73.199997
+10,14,someone else,19,13,,18,female,,38.400002,,80.900002
+11,45,someone else,52,14,12,11,male,,61.900002,60.5,
+12,50,self-employed,48,11,10,12,male,,63.5,63.5,
+13,30,self-employed,49,18,16,12,male,,63.5,62.5,17.1
+14,24,someone else,71,12,12,16,female,slghtly conservative,38.400002,64.099998,
+15,,someone else,30,12,0,0,female,,73.199997,50.700001,
+16,,someone else,35,12,12,12,female,,31.4,36.5,39.400002
+17,,someone else,51,12,16,12,female,slghtly conservative,53.5,86,
+18,50,someone else,37,15,,12,male,slghtly conservative,26.4,,63.5
+19,88,someone else,35,13,12,18,male,slghtly conservative,48.900002,29.5,73.199997
+20,55,someone else,28,15,15,,male,,63.5,50.700001,
+21,54,someone else,34,13,,12,female,,50.700001,,26.4
+22,60,someone else,23,12,12,14,male,moderate,29.5,,50.700001
+23,70,someone else,33,16,16,16,male,liberal,50.700001,76.400002,
+24,,someone else,46,16,12,12,female,,38.5,31.5,73.199997
+25,40,someone else,61,14,14,12,male,,61.900002,37.400002,
+26,,someone else,81,12,8,11,female,,29.299999,37.299999,
+27,,self-employed,69,14,8,8,female,slightly liberal,62,63.5,
+28,36,self-employed,36,17,19,10,female,,60.5,83.699997,38.400002
+29,24,someone else,23,12,,,female,,32.400002,37.299999,
+30,6,someone else,28,9,,8,female,,29.1,,22.700001
+31,40,someone else,52,14,4,,female,,60.5,27.700001,
+32,40,someone else,57,16,12,12,male,moderate,66.099998,50.700001,63.200001
+33,65,someone else,42,16,16,18,female,slightly liberal,75.199997,62.5,73.199997
+34,44,someone else,63,17,12,12,male,slghtly conservative,80.900002,50.700001,
+35,40,self-employed,55,16,8,16,male,,75.900002,37.299999,71.599998
+36,,someone else,77,8,8,9,male,moderate,75.199997,45.799999,
+37,46,someone else,26,14,,12,female,slightly liberal,64.199997,,38.400002
+38,70,someone else,51,20,11,14,female,moderate,62.5,31.5,17.1
+39,35,self-employed,43,14,18,14,male,,82.699997,87.400002,85.099998
+40,60,someone else,56,13,12,9,male,,48.900002,31.5,63.5
+41,,someone else,76,16,8,8,female,conservative,68.099998,63.5,37.700001
+42,37,someone else,27,10,9,9,female,,29,32.700001,29
+43,50,someone else,60,17,13,13,female,moderate,85.099998,31.5,63.5
+44,50,someone else,31,14,9,14,female,,83.699997,31.5,25.5
+45,,someone else,50,13,16,12,female,,85.099998,93.300003,73.199997
+46,40,someone else,21,10,12,12,male,slightly liberal,45.400002,35.099998,38.400002
+47,,someone else,20,9,,11,male,extremely liberal,38.900002,,
+48,,,71,14,,6,male,moderate,,,
+49,42,someone else,48,12,9,11,female,,57.099998,49.599998,32.400002
+50,,someone else,21,12,,16,female,,38.900002,,63.200001
+51,,someone else,66,12,9,8,female,slghtly conservative,38.400002,36.5,22.700001
+52,,someone else,69,15,3,11,male,slghtly conservative,65.199997,50.5,
+53,25,self-employed,53,13,8,16,male,moderate,30,30,
+54,40,someone else,25,17,,12,female,,80.300003,,57.099998
+55,40,someone else,48,20,6,12,male,,72,43.200001,69.699997
+56,40,someone else,45,13,14,18,male,moderate,62.099998,84.699997,78.5
+57,,someone else,75,13,12,12,female,moderate,25.200001,48.5,
+58,50,someone else,40,16,17,13,female,,80.300003,86.599998,56.599998
+59,,someone else,69,12,10,7,female,moderate,34.400002,34.200001,71.599998
+60,,someone else,31,14,10,12,female,,37.700001,36.5,28.4
+61,40,someone else,49,18,12,10,male,,83.699997,39.400002,26.700001
+62,50,someone else,27,14,12,12,female,,63.5,64.199997,36.700001
+63,60,someone else,64,19,10,12,female,moderate,69.199997,26.5,37.700001
+64,40,someone else,48,12,10,,female,slightly liberal,38.400002,50.700001,33.099998
+65,40,someone else,62,8,3,7,male,conservative,38.5,29.200001,
+66,,self-employed,76,12,,,male,,32.299999,37.299999,
+67,2,someone else,49,11,,7,female,moderate,29.299999,,29.299999
+68,,,71,5,,,female,,,,22.5
+69,,someone else,78,9,0,,male,,28.4,24.6,
+70,,someone else,84,9,,,female,,29.299999,29.200001,
+71,,someone else,74,13,10,,female,moderate,37.900002,36.400002,
+72,,someone else,89,11,8,8,female,moderate,37.700001,29.799999,22.5
+73,,someone else,85,11,,,female,,38.900002,37.299999,
+74,40,someone else,29,11,,,male,,29.200001,,
+75,45,someone else,49,15,,,female,moderate,63.5,,
+76,,someone else,77,13,8,8,male,slghtly conservative,44.700001,29.299999,
+77,68,someone else,38,14,12,12,male,,38.200001,45.900002,69.199997
+78,74,someone else,28,15,14,12,male,slghtly conservative,44.700001,48.5,
+79,,someone else,46,13,10,12,female,moderate,36.5,31.5,
+80,40,someone else,44,13,8,14,male,,29.6,45.900002,
+81,40,someone else,44,11,11,12,male,,49.599998,31.4,
+82,32,someone else,38,14,16,12,female,moderate,59.900002,78,33.099998
+83,,someone else,48,13,10,12,female,moderate,29,43.200001,29.299999
+84,45,someone else,38,12,,,male,,34.200001,,32.400002
+85,,,78,12,8,10,female,slightly liberal,,63.200001,
+86,,someone else,76,,11,11,female,,27.299999,,
+87,,someone else,70,18,3,3,female,,78.5,37.799999,
+88,,someone else,74,7,8,6,male,,28.4,63.5,63.5
+89,,someone else,83,14,16,14,female,conservative,37.700001,76.400002,
+90,,someone else,89,12,12,12,female,,60.599998,42.400002,
+91,,someone else,77,12,12,12,male,,29.6,25.5,21.200001
+92,,someone else,32,12,,12,female,,29.4,64.099998,38.400002
+93,40,someone else,23,15,10,12,female,moderate,37.700001,28.6,58.099998
+94,40,someone else,33,16,18,16,male,liberal,84.699997,80.300003,80.300003
+95,10,someone else,58,16,13,12,female,,78.5,63.5,
+96,40,someone else,53,17,12,12,female,liberal,64.400002,29.299999,38.900002
+97,50,someone else,50,14,12,12,male,slghtly conservative,63.5,32.299999,
+98,40,someone else,20,12,13,12,female,,64.099998,50.700001,57.099998
+99,,someone else,54,16,3,16,female,moderate,80.300003,63.5,73.199997
+100,40,someone else,44,13,12,12,female,moderate,43.5,28.6,22.5
+101,,someone else,21,13,20,18,male,moderate,32.400002,64.199997,78.5
+102,40,someone else,56,13,18,14,female,,37.700001,36.5,62.5
+103,51,someone else,50,14,12,13,male,,31.5,34.200001,38.900002
+104,40,someone else,52,13,14,12,female,,51.900002,42.299999,38.900002
+105,,someone else,21,11,12,12,male,,29.200001,,32.400002
+106,,someone else,25,17,12,12,female,,34.799999,70.5,53.099998
+107,,someone else,70,12,12,8,male,,28.4,63.200001,
+108,40,someone else,34,12,,,female,moderate,29.299999,,33.099998
+109,,self-employed,68,14,10,11,male,moderate,33.900002,63.5,
+110,,someone else,24,11,,12,female,,33.099998,,
+111,35,someone else,27,12,,12,male,conservative,29.5,32.299999,
+112,40,self-employed,38,2,,17,male,,45.900002,,84.699997
+113,,someone else,56,11,,7,female,,28.4,,32.700001
+114,36,someone else,47,12,16,12,female,slightly liberal,73.199997,64.099998,73.199997
+115,,someone else,78,15,10,11,female,,60.5,39,
+116,40,someone else,30,11,,11,male,moderate,28.4,,62.5
+117,35,someone else,59,12,,12,female,,36.900002,,31.4
+118,,someone else,71,12,8,8,female,,48.5,27.700001,29.1
+119,,someone else,89,12,,3,female,,73.199997,37.299999,
+120,,self-employed,55,12,,8,male,moderate,33.200001,,26.700001
+121,,someone else,76,11,0,0,female,conservative,37.700001,29.200001,25.5
+122,,someone else,84,11,8,8,female,,33.099998,29.799999,22.700001
+123,,someone else,68,12,6,12,male,,36.900002,37.299999,
+124,,someone else,78,12,,,male,slightly liberal,28.4,,
+125,,someone else,71,2,,,female,moderate,30.700001,,
+126,,someone else,65,15,12,10,female,slghtly conservative,68.099998,27.700001,17.1
+127,40,someone else,26,15,12,13,female,,50.5,32.299999,51.900002
+128,20,self-employed,43,16,16,12,male,,39.400002,86,38.900002
+129,,,19,12,12,14,male,moderate,,57.099998,38.400002
+130,,someone else,83,17,8,8,male,slightly liberal,63.5,37.200001,
+131,50,someone else,35,20,17,14,male,,92.300003,92.800003,38.400002
+132,40,someone else,31,16,12,12,female,,64.099998,45.400002,60.599998
+133,45,someone else,38,13,12,12,female,moderate,68.099998,44.700001,19.4
+134,,someone else,,12,12,11,female,moderate,36.900002,29.4,33.900002
+135,60,self-employed,30,12,16,12,male,,62.099998,62.099998,38.400002
+136,18,someone else,44,14,16,14,female,moderate,38.400002,92.800003,73.199997
+137,40,someone else,51,13,12,8,female,,32,38,
+138,,someone else,64,10,6,12,male,moderate,37.799999,36.400002,
+139,,someone else,57,15,16,9,male,conservative,28.6,86,
+140,,someone else,62,16,,16,female,liberal,36.900002,,32.400002
+141,,someone else,52,14,12,12,female,,38.400002,44.700001,
+142,66,someone else,41,12,8,12,male,,36.5,42.400002,
+143,,someone else,66,16,,16,female,conservative,80.300003,,27.700001
+144,,someone else,79,12,6,12,female,,30.700001,34.200001,
+145,40,someone else,34,12,11,,female,,44.700001,32.299999,
+146,,someone else,63,12,12,12,female,,38.400002,48.5,
+147,10,someone else,63,12,12,10,female,slghtly conservative,36.5,44.700001,
+148,,self-employed,38,12,11,10,female,,38.400002,27.700001,32.400002
+149,,someone else,74,14,8,8,male,,78,36.400002,
+150,,someone else,71,12,8,6,female,conservative,27.5,27.700001,
+151,20,someone else,24,14,8,12,female,,32.400002,63.5,33.900002
+152,50,someone else,24,17,12,12,male,slghtly conservative,50.5,30.1,
+153,,someone else,50,18,14,14,male,conservative,83.699997,32.299999,
+154,40,someone else,54,16,12,12,male,slightly liberal,64.099998,45.299999,38.400002
+155,,someone else,70,13,12,12,female,,37.700001,63.5,
+156,,someone else,81,12,8,0,male,,38.200001,52.299999,
+157,40,someone else,38,12,,,male,,32.299999,,
+158,,someone else,36,12,,15,female,moderate,22.700001,,43.700001
+159,60,someone else,43,13,10,12,male,slghtly conservative,43.200001,45.900002,27.5
+160,45,someone else,39,12,12,12,male,moderate,28.4,28.4,38.400002
+161,62,someone else,27,12,1,1,male,,28.6,37.299999,
+162,48,someone else,34,15,12,12,male,,34.200001,27.200001,37
+163,,,79,12,10,9,female,,,36.5,27.5
+164,,,84,12,8,8,female,moderate,,73.300003,
+165,,someone else,71,15,,,male,moderate,48.5,36.5,
+166,,someone else,22,9,12,,male,,31.299999,31.299999,
+167,40,self-employed,36,16,12,14,female,,64.099998,32,36.5
+168,40,someone else,44,12,8,16,female,liberal,41.599998,63.5,73.199997
+169,,someone else,74,12,0,0,male,moderate,38.200001,42.200001,
+170,37,someone else,63,16,12,3,male,conservative,37.700001,39.700001,
+171,32,someone else,48,12,14,11,female,,68.099998,45.400002,
+172,60,self-employed,39,16,16,17,male,,63.5,82.699997,78.5
+173,18,someone else,40,14,12,14,female,,38.5,48.5,29.1
+174,40,someone else,30,14,14,16,male,moderate,80,35.400002,
+175,,someone else,36,12,,12,female,slghtly conservative,73.599998,,
+176,52,someone else,42,15,12,14,female,moderate,63.5,54.5,73.199997
+177,,someone else,70,16,13,12,female,,37.900002,63.5,
+178,45,someone else,50,16,12,12,female,,50.700001,53.900002,63.5
+179,40,someone else,38,16,,12,female,,73.199997,,38.400002
+180,10,self-employed,53,20,10,12,female,extrmly conservative,82.699997,49.599998,
+181,,someone else,36,18,,12,male,,59,,
+182,56,someone else,45,14,15,16,male,moderate,50.299999,75.199997,
+183,58,someone else,,17,18,18,female,moderate,37.400002,62.200001,37.700001
+184,,someone else,22,12,12,14,male,slightly liberal,37.700001,27.5,73.199997
+185,12,self-employed,70,16,16,13,female,slightly liberal,63.200001,73.800003,
+186,,someone else,24,11,12,,male,moderate,29.1,28.6,
+187,,someone else,,12,,,female,liberal,34.299999,,
+188,,someone else,68,13,,13,female,slightly liberal,18.5,,27.700001
+189,4,someone else,19,10,0,8,female,,,37.700001,
+190,,someone else,24,13,12,13,female,,59,63.5,63.5
+191,20,someone else,48,14,12,12,female,extremely liberal,22.5,27.5,38
+192,,someone else,55,15,8,8,female,moderate,32.299999,26.5,25.4
+193,40,someone else,51,16,12,12,male,,78.699997,28.4,
+194,,someone else,71,16,13,12,male,,69.699997,32.700001,73.699997
+195,70,someone else,45,13,,12,female,slightly liberal,44.200001,,73.300003
+196,,someone else,82,13,12,16,male,,86.599998,63.5,27.5
+197,50,someone else,46,12,10,12,female,,53.299999,31.5,38
+198,60,someone else,35,13,,12,male,,31.5,,66.099998
+199,24,self-employed,18,14,,15,male,,39.400002,,73.599998
+200,,someone else,57,20,16,16,female,slghtly conservative,50.700001,80.300003,80.300003
+201,30,someone else,23,2,,12,female,,38.400002,,33.099998
+202,40,someone else,32,12,13,12,male,moderate,50.299999,,32.400002
+203,64,someone else,28,18,18,16,female,liberal,84.699997,63.5,63.5
+204,40,someone else,48,14,13,12,female,,63.200001,62,38.900002
+205,60,someone else,39,17,9,9,male,,83.699997,38.200001,30.700001
+206,16,someone else,27,16,,18,female,,78.5,,80.300003
+207,20,someone else,,12,,,female,moderate,27.5,,
+208,,someone else,57,14,,,male,moderate,32.299999,,32.400002
+209,40,someone else,35,10,,,male,moderate,22.9,,
+210,30,self-employed,29,16,18,18,female,,34.400002,76.400002,73.199997
+211,40,someone else,33,9,12,13,male,,28.6,37.599998,66.099998
+212,40,someone else,45,14,,10,female,liberal,42.299999,,29.299999
+213,,someone else,74,13,,12,male,,49.900002,63.5,
+214,,someone else,43,13,12,11,female,,33.299999,48.5,
+215,40,someone else,46,14,16,14,female,,69.199997,52.5,
+216,38,someone else,57,14,12,12,female,,32.400002,44.700001,50.700001
+217,30,self-employed,40,14,15,15,female,moderate,76.300003,29.4,32.299999
+218,,someone else,43,16,16,10,female,,73.300003,,
+219,,self-employed,41,14,5,6,female,,83.699997,29.4,32.299999
+220,40,self-employed,37,16,,16,male,conservative,63.5,,
+221,55,someone else,22,14,12,12,male,,32.400002,63.5,38.400002
+222,60,self-employed,50,15,18,13,male,,67,86.599998,
+223,32,someone else,40,12,12,12,male,liberal,31.299999,29.200001,
+224,40,someone else,32,11,12,12,male,moderate,50.700001,49.599998,73.199997
+225,40,someone else,33,13,12,9,male,,43.400002,37.599998,22.5
+226,27,self-employed,34,12,12,12,male,,44.700001,44.700001,
+227,40,self-employed,57,14,6,6,male,slghtly conservative,29,37.299999,26.5
+228,60,someone else,53,12,15,12,female,slightly liberal,68.800003,64.099998,46.200001
+229,,someone else,82,12,12,12,female,moderate,30.700001,30.6,32.400002
+230,40,someone else,33,14,18,18,female,,73.199997,62.200001,69.199997
+231,,someone else,67,16,8,9,female,,,73.900002,38.900002
+232,,someone else,29,20,16,12,male,,32.400002,59,64.199997
+233,,self-employed,72,20,12,,female,,62.5,37.700001,23.299999
+234,,self-employed,76,12,9,12,female,,64.199997,33.900002,
+235,32,someone else,55,16,12,12,female,slightly liberal,61.400002,37.299999,73.199997
+236,,self-employed,89,2,,,male,moderate,38.200001,,
+237,27,someone else,21,14,13,12,female,,26.700001,63.200001,39
+238,44,someone else,33,14,12,12,female,,74.400002,45.900002,
+239,28,someone else,24,12,18,16,female,moderate,42.5,87,80.300003
+240,60,someone else,40,12,,12,male,,28.6,,17.1
+241,40,someone else,25,12,,10,male,slightly liberal,34.299999,,37.599998
+242,70,someone else,32,13,10,12,male,slightly liberal,52.400002,31.5,33.099998
+243,70,someone else,23,14,,13,male,moderate,34.299999,,34.599998
+244,45,someone else,26,9,,12,male,,39,,38.400002
+245,,,67,10,6,6,female,,,29.200001,29.200001
+246,40,someone else,24,11,,9,male,moderate,60.5,,41.599998
+247,40,someone else,53,18,18,13,female,,80.300003,67,
+248,,someone else,50,14,,10,female,conservative,36.5,,22.9
+249,20,someone else,54,14,9,12,male,moderate,76.400002,37.799999,25.200001
+250,89,someone else,28,12,,12,male,conservative,50.5,,73.199997
+251,20,someone else,62,9,,,female,,23.299999,,
+252,24,someone else,39,12,3,4,female,slightly liberal,29,50.700001,33.099998
+253,42,someone else,46,13,12,12,female,,41.599998,26.700001,
+254,40,someone else,45,9,9,0,female,,38.200001,86.800003,
+255,,self-employed,28,16,16,12,female,,34.400002,76.400002,38.400002
+256,,someone else,42,14,8,9,male,extremely liberal,50.700001,63.5,63.5
+257,40,someone else,25,16,,14,female,liberal,81,,61.900002
+258,,someone else,30,11,,10,female,,21.200001,,53.700001
+259,40,someone else,53,14,8,12,female,moderate,33.099998,29.200001,
+260,,someone else,25,14,,12,female,liberal,37.700001,,29.299999
+261,,someone else,32,15,14,12,female,slghtly conservative,33.599998,29.200001,47
+262,40,someone else,41,12,,12,male,,21.200001,,69.199997
+263,30,someone else,26,12,11,14,female,,53.700001,29.4,68.099998
+264,,,68,5,0,0,female,,,32.299999,
+265,40,someone else,43,14,14,14,male,,83.699997,32.299999,73.199997
+266,,someone else,35,13,,,female,slightly liberal,28.4,,
+267,20,someone else,26,16,10,12,female,extremely liberal,36.5,32.299999,32.400002
+268,,someone else,24,11,,12,female,extrmly conservative,33.099998,,29.799999
+269,,someone else,48,14,4,9,female,,29.200001,29.200001,32.400002
+270,,someone else,72,11,,13,female,,27.5,,29.299999
+271,62,someone else,31,12,12,12,female,,48.900002,45.799999,33.099998
+272,,someone else,25,11,,11,female,slghtly conservative,29.4,,
+273,,someone else,23,16,12,12,female,slightly liberal,57.099998,28.4,26.4
+274,,someone else,58,16,12,9,male,,63.5,31.5,26.700001
+275,40,self-employed,63,13,20,14,female,,33.099998,96,74.099998
+276,60,someone else,56,18,12,13,female,slghtly conservative,85.099998,52.5,38.400002
+277,25,someone else,72,15,12,12,female,,,64.099998,
+278,60,someone else,26,16,20,12,male,,80.300003,85.099998,68.099998
+279,50,self-employed,61,16,10,12,male,extremely liberal,60.599998,35.400002,25.200001
+280,,self-employed,62,11,8,10,male,moderate,63.5,50.700001,33.099998
+281,25,someone else,43,12,12,12,female,conservative,63.5,44.700001,37.599998
+282,70,self-employed,33,20,,13,female,slightly liberal,97.199997,,27.700001
+283,55,someone else,47,16,14,12,female,,38,36.5,38.900002
+284,18,someone else,49,18,16,11,male,liberal,80.900002,37.400002,38.900002
+285,38,someone else,58,10,,,female,,33.099998,,
+286,,someone else,42,18,14,12,female,,86.5,54.900002,38.400002
+287,50,someone else,40,19,14,12,male,liberal,78.5,58.099998,38.900002
+288,30,someone else,43,16,12,13,female,slightly liberal,78.5,53.700001,60.599998
+289,45,someone else,48,17,13,13,female,,61.900002,50.5,38.5
+290,40,someone else,48,6,0,2,female,conservative,25.200001,37.299999,
+291,40,self-employed,42,14,,12,female,moderate,64.199997,,
+292,55,someone else,29,13,12,12,male,,38.400002,63.5,36.900002
+293,40,someone else,26,15,17,16,male,,26.6,63.5,36.700001
+294,,someone else,76,15,7,12,male,moderate,35.400002,44.200001,27.5
+295,,someone else,32,12,15,14,female,liberal,57.099998,92.800003,
+296,,someone else,63,18,14,14,male,slghtly conservative,61.900002,52.5,38.400002
+297,45,someone else,46,13,12,12,female,,61.900002,45.900002,29.799999
+298,48,self-employed,41,13,12,12,female,,26.4,73.300003,63.200001
+299,,someone else,29,14,14,11,male,moderate,39,28,
+300,36,someone else,58,14,13,12,female,,63.5,44.400002,
+301,31,someone else,42,14,11,12,female,,63.5,63.5,
+302,60,someone else,49,14,12,,female,,51,44.700001,
+303,,someone else,70,13,8,8,male,moderate,34.200001,28.6,
+304,,someone else,66,16,9,10,male,slghtly conservative,86.599998,48.5,26.700001
+305,,someone else,43,15,14,12,female,,39.599998,37.299999,
+306,49,someone else,37,12,,11,male,,39,,35.200001
+307,,someone else,58,12,,8,female,,38.400002,,32.400002
+308,34,someone else,23,12,12,12,female,conservative,38.900002,34.200001,28.4
+309,40,someone else,48,18,17,15,female,slghtly conservative,80.300003,65.199997,73.199997
+310,15,someone else,44,12,12,12,female,,37.400002,48.5,
+311,40,someone else,45,14,13,12,female,,86.599998,76.400002,38.400002
+312,50,someone else,44,12,12,11,male,moderate,31.5,52.400002,
+313,38,someone else,27,16,13,12,female,slghtly conservative,76.400002,44.700001,
+314,,someone else,72,16,6,6,male,moderate,31.200001,27.700001,
+315,,self-employed,76,14,8,8,female,slghtly conservative,26.4,31.5,
+316,,self-employed,68,18,20,12,male,slightly liberal,38.900002,92.300003,
+317,50,someone else,47,16,,18,male,,72.5,,97.199997
+318,,someone else,75,12,16,11,female,moderate,36.5,53.400002,
+319,89,someone else,28,18,20,16,male,,50.700001,97.199997,64.199997
+320,60,someone else,51,17,20,16,male,liberal,72.5,69.699997,63.5
+321,42,someone else,30,18,14,14,male,moderate,75.199997,63.5,71.599998
+322,13,someone else,38,16,,6,female,slghtly conservative,38.400002,,21.200001
+323,40,someone else,33,12,3,16,male,,97.199997,30.1,74.400002
+324,40,someone else,34,12,,,female,,42.299999,,
+325,40,someone else,27,12,3,6,female,slightly liberal,36.5,26.5,26.700001
+326,,someone else,53,16,14,16,female,,88.800003,50.700001,73.199997
+327,40,someone else,40,12,20,19,female,liberal,38.5,62.5,92.300003
+328,,someone else,74,12,6,12,female,,41.599998,29.799999,
+329,20,someone else,19,12,14,14,female,liberal,33.099998,37.599998,73.199997
+330,40,someone else,33,16,16,6,male,,62.5,47.900002,28.4
+331,48,self-employed,29,16,12,12,male,,63.5,31.299999,
+332,40,someone else,26,15,,18,male,extremely liberal,69.199997,,83.699997
+333,,someone else,23,14,13,12,female,liberal,33.099998,63.5,38.400002
+334,36,someone else,56,16,12,12,male,slightly liberal,38.200001,73.300003,34.599998
+335,45,someone else,40,18,12,13,female,,80.900002,64.099998,
+336,40,someone else,55,14,14,13,male,,50.700001,65.800003,
+337,55,someone else,35,14,,18,male,slightly liberal,62.5,,78.5
+338,45,someone else,33,16,,12,male,moderate,50.700001,,56.599998
+339,40,someone else,37,20,16,18,female,moderate,86.800003,86,78.5
+340,40,someone else,65,19,6,7,male,conservative,97.199997,63.5,
+341,32,self-employed,45,16,20,14,female,slghtly conservative,63.5,93.300003,38.400002
+342,10,someone else,28,11,,,female,,52.5,,
+343,43,someone else,24,16,,20,male,,72.5,,80.300003
+344,40,someone else,32,16,16,12,female,slightly liberal,64.099998,76.400002,64.099998
+345,40,someone else,47,15,1,1,female,,21.200001,52.299999,
+346,55,someone else,61,8,,12,male,,85.099998,,38.400002
+347,,self-employed,52,5,,,female,conservative,25.5,,
+348,,someone else,24,13,12,12,female,extremely liberal,68.099998,63.5,38.900002
+349,40,someone else,30,17,12,12,male,slghtly conservative,37.700001,63.5,68.099998
+350,45,someone else,33,14,,,male,,76.400002,,
+351,,,49,12,12,12,male,,,48.5,
+352,,self-employed,49,9,,5,female,,38.400002,34.200001,50.700001
+353,40,someone else,35,16,16,16,male,,73.699997,69.699997,
+354,45,someone else,37,14,20,16,female,liberal,38,97.199997,73.199997
+355,20,someone else,22,13,,9,female,,40.200001,,22.5
+356,32,someone else,49,12,,12,female,,22.5,,25.5
+357,,someone else,27,13,12,13,female,,32.400002,64.099998,37.400002
+358,40,someone else,26,12,0,6,female,moderate,37.700001,31.4,28.4
+359,,someone else,51,2,,,female,liberal,26.700001,,
+360,33,someone else,59,14,4,12,female,moderate,59.900002,32.700001,
+361,,someone else,60,13,12,13,female,,36.5,48.900002,
+362,,someone else,38,16,17,14,female,,84.699997,73.300003,68.099998
+363,40,someone else,40,16,16,15,male,conservative,64,80,
+364,25,someone else,42,14,9,1,female,,38.400002,28,28.4
+365,40,someone else,47,14,12,14,female,conservative,63.5,59.299999,
+366,89,someone else,44,17,16,17,male,slghtly conservative,52.400002,76.400002,80.300003
+367,28,someone else,47,12,8,8,female,,29,38.200001,29.299999
+368,,self-employed,70,18,,,male,,63.5,,
+369,,someone else,75,17,,14,male,liberal,83.900002,,56.5
+370,,someone else,87,18,8,12,male,slghtly conservative,63.200001,37.299999,78.5
+371,,someone else,71,16,8,10,male,,80,,38.900002
+372,48,someone else,48,15,12,9,female,,38.900002,38.200001,25.5
+373,,someone else,46,16,17,16,female,conservative,73.300003,80.300003,80.300003
+374,40,someone else,22,12,12,16,male,,63.5,63.5,73.199997
+375,20,self-employed,62,19,16,15,male,,83.699997,69.699997,78.5
+376,,someone else,23,16,12,12,female,,38.900002,34.200001,26.700001
+377,,someone else,57,14,,3,male,moderate,62.200001,,26.5
+378,40,someone else,36,12,5,7,male,,26.700001,26.5,
+379,,,21,14,14,16,male,,,73.300003,
+380,40,self-employed,66,12,12,10,male,moderate,38.400002,31.5,26.700001
+381,20,someone else,23,12,,,female,slghtly conservative,29,,
+382,40,self-employed,30,15,2,4,female,,30.799999,38.799999,
+383,,someone else,89,14,,14,female,,64.400002,,27.5
+384,50,someone else,32,16,12,,male,conservative,63.5,63.5,
+385,40,someone else,46,15,12,12,male,moderate,32.299999,26.700001,28.4
+386,40,someone else,46,12,9,12,female,moderate,33.099998,38.799999,
+387,38,someone else,32,12,,12,male,moderate,63.5,,68.099998
+388,40,someone else,35,20,18,14,female,slightly liberal,87,78.5,38.400002
+389,,someone else,65,8,,,male,,28.4,,
+390,,someone else,37,11,12,12,male,,36.5,50.700001,
+391,40,self-employed,31,9,6,6,female,,22.5,37.299999,
+392,,someone else,67,12,5,12,female,conservative,42.200001,37.299999,
+393,40,someone else,35,11,,,male,,36.5,,27.5
+394,,someone else,70,14,,6,male,,28.4,,
+395,,someone else,84,12,13,3,male,extrmly conservative,63.5,64.099998,
+396,30,someone else,39,12,12,12,male,,37.599998,64.199997,32.400002
+397,,someone else,43,13,12,,male,conservative,69.199997,26.700001,
+398,40,someone else,36,12,,,male,moderate,35.099998,,
+399,60,someone else,55,14,8,12,male,,64.099998,35.400002,22.5
+400,,someone else,33,14,,14,male,,50.700001,28.6,73.199997
+401,,someone else,73,12,6,6,male,extremely liberal,76.400002,32,
+402,41,someone else,38,12,10,12,female,moderate,53.299999,54.200001,38.900002
+403,40,someone else,40,12,,13,male,,29.4,,38
+404,40,someone else,29,12,,12,female,,36.5,,38
+405,45,someone else,49,12,,,female,conservative,41.599998,,
+406,60,someone else,26,13,16,13,male,moderate,44.700001,53.099998,63.5
+407,40,someone else,30,13,6,9,female,,36.5,29.200001,29.200001
+408,65,self-employed,54,14,12,12,female,conservative,26.4,48.5,32.400002
+409,,someone else,27,14,6,14,male,slightly liberal,65.800003,50.700001,43.700001
+410,,someone else,40,14,6,8,female,,33.099998,26.5,
+411,,someone else,30,18,20,16,male,,48.599998,,63.5
+412,40,someone else,45,20,12,12,female,conservative,82.699997,37.299999,
+413,45,someone else,22,13,14,14,female,moderate,65.800003,65.800003,38.400002
+414,60,someone else,32,12,,0,male,slightly liberal,27.5,,26.700001
+415,,someone else,24,12,12,14,female,,33.099998,31.5,38
+416,30,someone else,35,13,12,14,female,moderate,38.400002,49.599998,65.800003
+417,45,someone else,32,16,14,9,male,moderate,83.699997,64.099998,26.700001
+418,40,someone else,31,17,12,13,female,moderate,78.5,50.700001,38.900002
+419,45,someone else,65,17,8,12,male,,86.599998,30.1,
+420,55,someone else,60,16,6,6,female,,29.4,37.299999,
+421,,someone else,33,14,12,5,female,slghtly conservative,38.700001,53.900002,29.299999
+422,40,someone else,24,14,,10,female,moderate,38.400002,,
+423,63,someone else,34,6,,6,male,,48.900002,37.299999,
+424,,someone else,30,15,,12,male,moderate,83.699997,,
+425,35,someone else,36,15,,12,female,,73.199997,,17.1
+426,40,someone else,38,14,,12,female,,38.400002,,33.099998
+427,,someone else,28,16,,10,female,conservative,38.900002,,63.200001
+428,,someone else,42,16,,20,female,liberal,62.099998,,
+429,,,24,,,,female,,,,
+430,8,self-employed,38,18,12,9,female,,84.699997,32.299999,50.700001
+431,35,someone else,40,16,14,16,male,slightly liberal,75.199997,31.4,
+432,60,self-employed,31,16,18,,female,liberal,60.599998,50.700001,
+433,80,someone else,26,16,12,12,male,moderate,63.5,63.5,
+434,45,someone else,33,18,18,16,male,,73.599998,86.5,
+435,,someone else,67,12,3,3,male,slghtly conservative,37.299999,38,26.4
+436,35,self-employed,45,19,,12,male,extremely liberal,69.699997,,50.700001
+437,50,self-employed,60,19,18,16,male,extremely liberal,63.5,75.199997,
+438,40,someone else,24,13,11,10,female,,37.700001,39.400002,
+439,,someone else,34,11,12,12,female,,44.299999,,50.5
+440,40,someone else,51,16,16,12,female,,85.099998,,
+441,,self-employed,33,18,14,16,female,liberal,72.5,63.5,78.5
+442,36,self-employed,43,11,,,female,,29.299999,48.799999,50.700001
+443,68,someone else,26,12,,,female,,36.5,32.299999,26.4
+444,48,someone else,65,14,12,,female,slghtly conservative,29.299999,50.700001,
+445,45,someone else,41,12,16,12,male,moderate,39.400002,63.200001,
+446,,someone else,56,14,,3,female,,,,
+447,40,someone else,55,6,,,female,,33.099998,,22.5
+448,40,someone else,47,,,0,male,moderate,28.4,,
+449,50,someone else,47,20,17,17,female,moderate,92.300003,92.300003,86.800003
+450,,someone else,89,17,,,female,liberal,80.300003,50.700001,
+451,,someone else,54,19,20,20,female,,85.099998,87.400002,
+452,35,someone else,43,16,20,16,female,slightly liberal,63.5,92.300003,
+453,65,someone else,37,16,,12,male,slghtly conservative,50.700001,,
+454,,someone else,83,20,12,12,female,liberal,82.699997,63.5,
+455,60,self-employed,62,16,12,13,female,,75.199997,45.900002,62.5
+456,47,self-employed,48,20,12,12,female,slightly liberal,86.900002,42.900002,
+457,40,someone else,63,16,19,16,male,,92.300003,80.300003,56.599998
+458,20,someone else,38,16,16,12,male,,38,63.5,63.5
+459,,someone else,83,6,,,female,,22.5,,22.5
+460,,someone else,87,9,2,3,female,conservative,33.099998,37.299999,29.200001
+461,,someone else,26,12,,,male,,39.400002,,
+462,,someone else,44,15,,,male,moderate,21.299999,28.4,22.5
+463,,someone else,78,14,12,12,female,slightly liberal,54.200001,34.299999,
+464,,someone else,67,,,,female,moderate,38.900002,29,
+465,,someone else,63,14,,,female,,29.299999,,
+466,40,someone else,21,13,12,16,female,slightly liberal,32.400002,33.200001,
+467,40,someone else,42,14,5,,female,,36.5,52.400002,
+468,,someone else,53,12,,8,male,,35.099998,,33.099998
+469,,self-employed,55,6,6,,male,moderate,28.6,28.6,
+470,,someone else,73,12,8,4,male,conservative,36.5,29.200001,
+471,40,someone else,33,16,16,16,male,moderate,38.900002,80.300003,
+472,,,24,14,16,16,female,moderate,,86,76.400002
+473,,,52,14,12,,female,,,63.200001,
+474,,someone else,70,18,9,12,female,,80.300003,,
+475,,someone else,85,11,,,female,,38.400002,17.1,
+476,24,someone else,72,14,,12,male,extremely liberal,57.099998,50.700001,
+477,45,someone else,,12,,,female,,33.099998,29.200001,
+478,,someone else,75,18,8,,male,,86,38.900002,
+479,,self-employed,51,14,,,female,moderate,63.5,,
+480,40,someone else,37,17,,12,female,,80.300003,,38.400002
+481,,,67,8,,,female,,,,17.1
+482,,someone else,64,18,8,6,male,liberal,39.400002,37.299999,
+483,40,someone else,33,14,,12,female,moderate,29.299999,,
+484,35,someone else,49,12,,,female,,83.900002,31.4,
+485,55,someone else,47,12,,8,female,,29.299999,,
+486,32,someone else,45,12,,8,female,,27.5,,
+487,40,someone else,25,9,,,male,moderate,31.5,,
+488,,self-employed,49,11,,,male,moderate,28.4,34.299999,
+489,,,76,8,2,5,female,moderate,,37.299999,
+490,,someone else,28,13,20,16,female,,38.400002,87,
+491,,someone else,62,12,14,6,female,conservative,41.599998,64.099998,38
+492,,someone else,43,12,,,female,moderate,25.299999,53.900002,38.900002
+493,40,someone else,31,18,13,14,male,liberal,73.699997,50.700001,38.400002
+494,40,self-employed,59,16,10,8,female,moderate,63.5,54.200001,
+495,,someone else,67,13,14,13,female,moderate,64.800003,66.099998,38
+496,,someone else,41,18,16,15,male,,63.5,63.5,
+497,30,someone else,37,18,16,16,female,,81,63.5,
+498,40,someone else,37,16,13,12,male,,67,50.700001,38.400002
+499,17,someone else,35,16,16,14,female,conservative,64.199997,64.199997,35.400002
+500,30,someone else,54,18,18,16,male,slghtly conservative,67,87.900002,53.299999
+501,50,someone else,39,17,16,14,male,slghtly conservative,73.300003,64.099998,64.199997
+502,20,someone else,47,12,16,12,female,slghtly conservative,71.599998,34.299999,
+503,,someone else,35,14,,6,female,,33.099998,,27.700001
+504,32,someone else,42,12,7,7,male,conservative,22.700001,50.700001,
+505,35,someone else,48,16,,12,female,,69.199997,38.400002,22.5
+506,40,someone else,31,12,3,3,male,extremely liberal,31.4,34.200001,27.700001
+507,,someone else,37,13,,16,male,liberal,28.6,,37.700001
+508,,someone else,40,14,12,12,female,,33.099998,76.400002,78.5
+509,35,someone else,41,13,12,12,female,,60.599998,34.200001,50.700001
+510,,someone else,55,15,12,5,male,slghtly conservative,53.900002,27.5,22.5
+511,,someone else,51,14,4,8,male,liberal,34.299999,29.200001,25.299999
+512,40,someone else,36,14,8,8,male,slghtly conservative,54.200001,28.6,54.200001
+513,16,self-employed,63,12,12,10,female,,38.900002,32.299999,
+514,,someone else,42,11,,5,female,liberal,33.599998,,37.299999
+515,,someone else,39,11,8,8,female,,27.700001,27.700001,27.700001
+516,43,someone else,33,14,12,12,female,,39.400002,53.400002,73.199997
+517,,someone else,21,12,,8,female,moderate,33.099998,,
+518,,self-employed,34,16,12,12,female,,84.699997,27.5,17.1
+519,52,someone else,58,15,11,11,male,,48.599998,37.299999,
+520,20,self-employed,62,16,8,2,male,slghtly conservative,82.699997,50.700001,
+521,40,someone else,39,16,16,14,female,moderate,76.400002,92.800003,
+522,40,someone else,61,20,8,14,male,slghtly conservative,85.099998,31.5,38.400002
+523,60,someone else,28,16,,18,male,,63.5,,76.300003
+524,60,someone else,34,19,,9,male,,92.300003,,29.299999
+525,,someone else,53,19,12,16,female,,69.199997,50.700001,
+526,35,someone else,50,16,,13,female,slightly liberal,69.199997,28.4,27.700001
+527,12,someone else,43,20,12,12,male,,97.199997,63.5,50.700001
+528,20,someone else,35,12,,12,female,,59,,
+529,48,someone else,32,12,12,12,male,moderate,42.400002,33.099998,
+530,40,someone else,55,18,10,12,female,,56.599998,63.5,
+531,56,someone else,49,15,16,12,female,,73.199997,69.699997,29.299999
+532,55,someone else,41,12,11,12,male,slghtly conservative,62.5,31.5,29.299999
+533,,someone else,40,12,11,12,female,,35.400002,63.200001,38.400002
+534,30,someone else,42,12,16,12,male,,34.200001,86.599998,
+535,40,someone else,37,15,16,13,male,moderate,63.200001,63.5,36.5
+536,44,someone else,36,14,12,12,male,conservative,45.799999,45.400002,
+537,60,someone else,59,15,14,14,male,conservative,73.300003,73.300003,
+538,72,someone else,50,16,9,18,male,,48.5,51,38.400002
+539,,someone else,66,12,,8,female,liberal,26.700001,,22.5
+540,42,someone else,32,12,,4,female,,69.199997,,
+541,,someone else,37,18,,13,female,,33.099998,,38.400002
+542,40,someone else,32,15,16,14,female,,63.200001,63.5,
+543,30,self-employed,60,14,,12,male,,63.5,,63.5
+544,50,someone else,32,14,14,12,male,,35.400002,63.5,36.5
+545,40,someone else,45,18,12,12,female,liberal,38,30.200001,29.799999
+546,60,someone else,37,19,12,12,male,liberal,92.300003,83.699997,38.900002
+547,12,someone else,78,13,,,female,,38.400002,,
+548,4,someone else,63,14,,,female,,33.099998,38.400002,
+549,40,someone else,41,12,,0,female,conservative,52.400002,,
+550,40,someone else,32,11,,12,male,moderate,37.5,,26.4
+551,50,self-employed,55,18,9,12,male,,82.699997,63.5,
+552,,someone else,70,20,8,12,male,,85.099998,50.700001,
+553,55,someone else,60,13,12,12,female,moderate,65.800003,51.900002,
+554,,someone else,46,16,12,12,female,,63.5,64.099998,
+555,20,someone else,63,16,,12,female,,38,26.700001,
+556,44,someone else,53,15,12,16,male,,86.599998,50.700001,78.5
+557,,someone else,43,13,16,12,female,liberal,32.400002,50.700001,38.900002
+558,50,someone else,33,16,16,12,male,slghtly conservative,73.800003,73.599998,
+559,70,someone else,30,13,12,12,male,,,63.200001,35.400002
+560,60,someone else,35,12,,12,female,,63.200001,,57.099998
+561,,someone else,40,12,,,female,conservative,38.900002,,
+562,40,self-employed,34,12,12,12,female,,33.099998,64.099998,81
+563,,someone else,28,14,16,,male,,29.299999,81,
+564,40,self-employed,76,12,10,12,female,moderate,33.099998,38.099998,
+565,45,someone else,47,12,12,12,female,moderate,36.099998,37.299999,50.700001
+566,35,someone else,24,14,,12,female,,39.599998,,26.4
+567,,someone else,65,12,9,,male,,32.700001,32.700001,22.9
+568,,someone else,50,12,10,12,female,extremely liberal,38.400002,31.5,
+569,55,someone else,44,9,16,10,female,,34.799999,86.5,29.799999
+570,,someone else,79,12,,12,female,,50.700001,38.099998,44.299999
+571,40,someone else,28,14,8,12,female,,27.700001,28.6,38.5
+572,,someone else,64,12,,10,male,slightly liberal,64.199997,,28.4
+573,40,someone else,23,13,5,,male,,33.599998,,
+574,40,someone else,37,12,,12,male,,59.099998,,38.400002
+575,50,someone else,48,14,12,12,male,,32.299999,33.299999,26.700001
+576,40,someone else,39,15,12,12,male,,37.200001,62.5,78.5
+577,,someone else,77,9,,8,female,liberal,37.700001,,22.5
+578,40,someone else,35,8,,,male,,35.099998,,
+579,40,someone else,48,16,12,10,male,,63.5,39.400002,21.200001
+580,40,someone else,50,12,8,12,female,liberal,64.099998,26.5,26.700001
+581,54,someone else,48,12,12,12,female,,82.699997,36.5,36.5
+582,,someone else,75,12,8,8,male,,45.400002,45.400002,60.599998
+583,,someone else,25,12,,14,female,slghtly conservative,38.400002,,38.900002
+584,42,someone else,45,12,8,12,male,,52.5,29.799999,37.700001
+585,,someone else,62,12,,,female,,21.200001,45.900002,30.700001
+586,,someone else,57,14,12,12,female,,31.4,63.200001,54.200001
+587,44,someone else,30,12,3,4,male,conservative,31.5,27.5,27.700001
+588,,someone else,32,14,,13,female,moderate,73.199997,,38
+589,,someone else,67,6,4,4,male,,,37.299999,
+590,,someone else,54,11,,,male,,21.200001,,
+591,,someone else,62,14,10,10,female,moderate,36.5,,37.700001
+592,40,someone else,33,12,,12,male,extremely liberal,29.4,36.5,
+593,,someone else,67,12,12,,male,moderate,63.5,86.800003,
+594,40,someone else,48,2,12,12,male,moderate,63.200001,52.400002,30.700001
+595,30,someone else,24,12,,12,female,extrmly conservative,26.4,,43.700001
+596,25,someone else,29,12,13,13,female,,41.599998,33.299999,26.4
+597,,self-employed,73,16,12,,male,,63.200001,31.5,
+598,,someone else,30,11,12,12,female,,33.099998,44.700001,
+599,40,someone else,43,12,12,12,male,moderate,28.6,50.700001,58.099998
+600,20,someone else,53,12,9,8,female,conservative,38.400002,32.299999,
+601,2,someone else,59,16,8,8,male,conservative,54.200001,37.299999,
+602,40,someone else,33,17,12,12,female,moderate,78.5,32.299999,74.400002
+603,,someone else,48,12,6,6,female,slghtly conservative,62.200001,26.5,
+604,,,67,12,12,11,female,,,37.299999,
+605,50,someone else,56,18,12,13,male,conservative,90.099998,49.900002,
+606,,someone else,66,12,3,11,female,,38.400002,37.299999,
+607,50,someone else,54,18,16,14,male,,69.699997,,55.099998
+608,,someone else,61,7,6,6,male,moderate,,37.299999,
+609,,someone else,35,12,,12,female,,29.299999,,38.400002
+610,,someone else,85,11,,12,female,,29.299999,38.5,22.700001
+611,40,self-employed,73,12,,,female,,30.799999,37.299999,
+612,,someone else,73,18,12,12,female,conservative,78.5,39.400002,22.5
+613,45,someone else,46,18,12,12,female,moderate,82.699997,45.799999,38.400002
+614,40,someone else,48,12,8,,male,moderate,29.4,29.4,
+615,,someone else,31,12,0,0,female,,21.200001,28.6,
+616,80,someone else,44,12,12,12,male,,31.5,37.299999,
+617,75,someone else,37,15,14,13,male,slghtly conservative,50.700001,49.599998,54.200001
+618,45,someone else,40,12,12,12,female,slightly liberal,62.5,44.700001,34.799999
+619,45,self-employed,23,14,12,14,male,,26.5,37.299999,65.800003
+620,,someone else,72,8,8,8,male,moderate,63.5,34.200001,
+621,25,someone else,61,12,3,12,female,conservative,34.799999,37.299999,
+622,,self-employed,56,11,12,12,female,moderate,31.5,37.299999,73.199997
+623,45,someone else,30,12,11,14,male,,28.4,33.099998,
+624,40,someone else,69,12,8,13,female,,63.5,50.700001,38.900002
+625,42,someone else,48,12,8,,female,moderate,44.5,31.5,
+626,50,someone else,22,12,14,14,male,,31.700001,65.800003,
+627,20,someone else,27,16,,16,male,slightly liberal,33.900002,,73.199997
+628,,someone else,20,10,,,male,conservative,37.599998,32.299999,
+629,51,someone else,23,13,,12,male,,31.5,,33.099998
+630,,someone else,25,9,,12,female,,37.400002,,63.5
+631,,someone else,23,13,,16,male,moderate,,,39.599998
+632,41,someone else,37,15,12,12,female,slightly liberal,27.5,78,53.299999
+633,,self-employed,75,11,,8,male,,50.700001,,63.5
+634,40,someone else,54,12,,5,female,,58.299999,,27.5
+635,40,someone else,34,12,12,12,male,moderate,33.599998,33.900002,33.900002
+636,44,someone else,61,16,12,12,female,moderate,37.400002,50.700001,50.700001
+637,,someone else,80,13,12,,female,moderate,38.900002,65.800003,
+638,,someone else,61,16,10,12,female,,73.199997,31.5,53.900002
+639,,someone else,64,12,16,12,female,,30.700001,32.299999,
+640,,someone else,29,13,14,14,female,,53.299999,32.299999,64.400002
+641,,someone else,88,8,4,10,female,moderate,33.099998,37.299999,
+642,40,someone else,46,2,,8,male,liberal,28.6,36.5,
+643,66,someone else,25,9,12,,male,,37.900002,,
+644,30,someone else,22,10,12,11,female,,33.099998,,32.400002
+645,38,someone else,35,14,,8,female,,61.900002,,37.700001
+646,,someone else,40,12,8,9,female,,63.200001,26.6,
+647,,someone else,50,18,8,3,female,slghtly conservative,73.199997,48.5,
+648,,someone else,50,4,,,male,,28.4,,
+649,40,someone else,33,14,16,12,female,,29.299999,61.400002,33.099998
+650,,someone else,66,9,2,3,female,,27.5,29.4,
+651,50,self-employed,48,16,6,12,female,slghtly conservative,63.5,37.299999,
+652,,someone else,73,12,,,female,,37.700001,37.299999,
+653,20,someone else,48,12,12,12,female,,63.5,31.5,24.799999
+654,45,someone else,46,12,16,12,male,moderate,39.5,85.099998,38.400002
+655,,someone else,66,15,,10,female,,36.900002,,38.400002
+656,,someone else,76,20,16,12,male,slghtly conservative,85.699997,87.400002,
+657,40,someone else,24,16,20,16,male,slghtly conservative,86.5,85.099998,78.5
+658,23,someone else,19,12,,14,male,,40,,73.199997
+659,,someone else,66,12,8,8,female,,29.299999,63.5,29.299999
+660,,someone else,75,14,8,8,female,moderate,71.599998,37.299999,26.700001
+661,,someone else,80,8,3,7,male,moderate,63.5,37.299999,
+662,,someone else,71,12,8,9,male,conservative,32.700001,34.200001,
+663,,someone else,76,9,,,female,,32.400002,37.299999,
+664,,,72,12,4,8,female,conservative,,29.4,
+665,40,someone else,45,12,7,12,male,moderate,63.5,31.5,32.400002
+666,,someone else,76,17,5,9,female,,80.300003,37.299999,38.400002
+667,,someone else,76,16,8,0,male,,85.099998,29.200001,
+668,,someone else,67,12,2,,female,liberal,38,37.299999,
+669,40,someone else,49,18,12,8,female,moderate,64.400002,28.4,38.900002
+670,,someone else,41,12,8,12,male,slightly liberal,29.200001,50.700001,
+671,89,self-employed,35,14,,12,male,slghtly conservative,35.400002,37.299999,
+672,30,someone else,59,12,12,12,female,slghtly conservative,33.099998,66.099998,
+673,,someone else,67,12,8,12,male,slghtly conservative,31.5,26.5,
+674,,,24,14,16,,male,,,80,33.099998
+675,60,someone else,52,15,18,18,male,,73.300003,78.5,78.5
+676,30,self-employed,40,16,12,15,female,,74.099998,49.900002,54.700001
+677,,someone else,88,12,8,2,female,liberal,30.700001,40,
+678,,someone else,78,12,6,6,male,slghtly conservative,61.900002,30.4,
+679,30,someone else,24,15,16,,male,,58.299999,26.9,60.599998
+680,45,self-employed,41,12,12,12,male,,50.700001,34.200001,
+681,,someone else,46,14,18,18,female,,63.5,80.300003,64.400002
+682,,someone else,68,16,12,12,female,conservative,73.199997,68.800003,73.199997
+683,20,self-employed,56,16,14,12,female,,64.400002,64.099998,63.5
+684,,someone else,57,18,12,12,female,,78.5,64.099998,
+685,30,self-employed,48,20,16,16,male,liberal,97.199997,63.5,64.199997
+686,40,someone else,45,16,11,12,female,slightly liberal,86.800003,65.800003,71.599998
+687,40,someone else,39,16,12,12,female,slightly liberal,63.5,63.5,32.400002
+688,50,someone else,51,14,10,12,male,conservative,32,35.099998,
+689,24,someone else,24,12,16,,female,,41.599998,76.300003,
+690,,someone else,23,13,10,11,female,,38.400002,26.5,33.099998
+691,32,someone else,21,8,,,female,slightly liberal,37.400002,,
+692,,someone else,65,12,,12,female,moderate,29.299999,63.5,
+693,40,someone else,22,12,12,8,female,,54.700001,,
+694,,someone else,57,14,18,12,female,moderate,28.4,,
+695,,someone else,39,9,,,male,,40,,33.900002
+696,50,someone else,25,16,16,16,male,moderate,50.700001,63.5,38.900002
+697,50,someone else,46,13,12,13,male,moderate,62,53.400002,63.5
+698,25,someone else,49,12,12,12,female,,33.900002,50.700001,
+699,,someone else,71,11,,,female,,33.099998,26.5,
+700,30,someone else,33,13,10,10,female,moderate,27.5,37.299999,
+701,30,self-employed,44,14,6,8,female,,38,37.299999,
+702,,someone else,78,2,,,male,,26.5,,
+703,40,someone else,36,18,14,12,female,,80.300003,26.5,26.4
+704,23,someone else,25,14,15,15,female,slightly liberal,29.1,27.700001,36.5
+705,38,someone else,30,12,,12,male,conservative,36.5,34.200001,
+706,40,someone else,34,12,0,0,male,,28.6,37.299999,
+707,50,someone else,41,15,14,9,female,,73.599998,38.200001,32
+708,48,someone else,43,12,8,8,male,,29.4,26.5,
+709,20,someone else,35,12,,8,female,moderate,57.099998,32.299999,29.299999
+710,40,someone else,21,13,12,10,male,extrmly conservative,29.200001,29.200001,29.4
+711,39,someone else,60,14,,12,female,,62.5,,73.199997
+712,20,someone else,33,12,,6,female,extremely liberal,42.299999,,29.299999
+713,60,someone else,42,14,12,12,male,slghtly conservative,80.300003,63.5,38
+714,50,someone else,35,16,7,13,male,moderate,63.5,64.099998,36.900002
+715,36,someone else,44,12,6,10,female,,27.700001,30,33.099998
+716,,someone else,22,13,12,12,female,,30.799999,33.200001,76.400002
+717,,someone else,34,18,12,12,female,,56.599998,38.099998,38.400002
+718,35,someone else,23,12,,13,female,moderate,33.099998,,29
+719,50,someone else,35,14,16,12,female,,47,76.300003,27.5
+720,,someone else,83,12,12,,female,,22.9,38.200001,
+721,40,someone else,31,16,,13,male,,61.900002,,38.400002
+722,40,someone else,34,20,16,8,female,,66.099998,38,
+723,3,someone else,70,18,12,12,male,,78.5,63.5,
+724,,someone else,55,16,,20,male,slghtly conservative,65.800003,,85.099998
+725,25,someone else,44,13,16,14,female,,37.400002,65.800003,
+726,48,someone else,41,15,8,8,male,,83.699997,63.5,
+727,,,84,11,,,female,moderate,,,
+728,39,someone else,25,14,,18,male,,60.5,,64.400002
+729,,someone else,52,11,8,8,male,,31.5,50.200001,26.700001
+730,,someone else,75,11,,,female,,32,,
+731,,someone else,67,14,,12,female,moderate,38.900002,20.1,30.700001
+732,25,someone else,86,11,0,8,male,moderate,37.599998,50.700001,
+733,,,40,12,8,8,female,,,25.200001,25.200001
+734,30,someone else,20,13,6,12,female,slghtly conservative,32.400002,31.5,34.799999
+735,40,someone else,22,12,12,12,female,slightly liberal,,,
+736,40,someone else,47,14,,,male,,45.799999,,27.5
+737,40,someone else,29,14,12,12,female,,54.200001,34.200001,
+738,56,someone else,57,14,10,11,female,conservative,68.099998,32.299999,29.299999
+739,38,someone else,23,13,,9,female,,82.699997,,27.5
+740,3,someone else,65,9,,,male,,28.6,37.299999,22.5
+741,,someone else,62,13,,,male,,44.700001,,
+742,52,someone else,39,13,6,9,male,liberal,44.700001,,17.1
+743,5,self-employed,76,6,,,female,,22.5,,
+744,40,someone else,62,14,9,10,female,conservative,63.5,28.6,
+745,,someone else,60,12,12,12,female,,78,,
+746,29,someone else,32,13,12,11,female,,27.5,26.700001,
+747,38,someone else,27,10,12,8,female,slghtly conservative,33.099998,36.5,17.1
+748,40,someone else,,13,,12,female,moderate,,,
+749,48,someone else,36,12,8,6,male,slightly liberal,26.700001,32.299999,29.799999
+750,28,someone else,30,14,12,18,female,,36.5,44.700001,80.300003
+751,,someone else,75,6,,0,female,,22.5,,22.5
+752,70,self-employed,53,16,,,male,liberal,63.200001,,
+753,48,someone else,51,13,12,12,female,extrmly conservative,50.700001,50.700001,29
+754,4,someone else,67,14,5,9,female,,22.5,28.4,
+755,50,someone else,70,10,6,7,male,slghtly conservative,28.4,,25.299999
+756,84,self-employed,46,14,16,18,female,,47,,73.199997
+757,,someone else,68,16,12,16,female,moderate,78.5,85.099998,
+758,65,someone else,53,14,8,12,male,,64.099998,76.400002,64.199997
+759,,someone else,83,12,8,8,female,conservative,38.400002,35.099998,
+760,40,someone else,65,16,16,16,female,extrmly conservative,85.099998,37.299999,
+761,,someone else,75,15,8,8,female,,73.199997,37.299999,
+762,,self-employed,84,16,16,2,male,,96,88.800003,
+763,,someone else,64,15,16,16,female,,63.5,50.700001,
+764,40,self-employed,38,16,16,16,male,slghtly conservative,64.099998,50.700001,
+765,,self-employed,71,12,,8,female,moderate,26.4,,
+766,,self-employed,84,2,11,13,female,slghtly conservative,92.300003,65.800003,
+767,48,someone else,33,16,12,14,male,,64.099998,43.400002,38.400002
+768,,someone else,75,17,4,12,female,,55.099998,73.300003,
+769,34,someone else,35,16,,12,female,slghtly conservative,38.400002,,38.400002
+770,,someone else,77,14,11,14,female,,63.5,37.299999,78.5
+771,,someone else,27,16,12,13,female,conservative,57.099998,48.5,33.299999
+772,,someone else,80,16,9,9,male,moderate,28.6,34.200001,
+773,40,someone else,54,20,10,12,female,,64.400002,50.700001,40
+774,,someone else,43,18,12,12,male,,63.5,63.5,
+775,,someone else,65,16,8,8,male,,62.099998,37.299999,
+776,35,someone else,50,16,16,18,female,liberal,38.900002,50.700001,78.5
+777,38,someone else,57,18,12,16,female,slightly liberal,36.900002,45.799999,56.599998
+778,40,someone else,50,13,6,14,female,,27.700001,42.5,43.700001
+779,25,someone else,73,12,12,12,male,,35.099998,33.099998,
+780,,someone else,71,12,,,female,,38.400002,34.200001,
+781,,someone else,76,12,7,,female,conservative,40.099998,48.5,
+782,55,someone else,46,9,8,,male,moderate,38.200001,35.700001,
+783,45,someone else,32,9,12,10,male,,38.200001,72,29.299999
+784,,someone else,62,14,8,8,male,,,36.400002,28.4
+785,,someone else,71,12,16,13,female,liberal,33.299999,73.900002,37.299999
+786,,someone else,71,12,,7,male,extremely liberal,33.599998,,27.700001
+787,,someone else,71,15,6,6,female,,73.199997,50.700001,
+788,,someone else,60,18,8,13,male,,63.5,26.5,38
+789,,someone else,50,12,,12,female,,29.799999,,27.5
+790,42,someone else,36,12,,12,female,moderate,54.200001,,32.400002
+791,,someone else,25,13,12,13,female,,29.299999,29.4,48.5
+792,22,someone else,21,11,12,12,female,,32.400002,48.5,
+793,,someone else,64,14,0,0,male,conservative,21.1,26.5,
+794,,someone else,73,6,,12,female,extremely liberal,18.5,50.200001,27.5
+795,,self-employed,80,12,,8,female,,64.199997,38,
+796,,someone else,71,13,,4,female,slghtly conservative,63.5,45.900002,22.5
+797,,someone else,83,12,,,female,moderate,32,,29.299999
+798,,someone else,89,11,,,female,,27.200001,34.200001,
+799,,someone else,87,17,6,8,female,,27.5,29.200001,29.200001
+800,,,67,12,9,11,female,,,31.5,
+801,,someone else,73,12,8,,male,slghtly conservative,37.200001,37.299999,
+802,50,someone else,49,19,12,13,female,,80.900002,27.700001,
+803,,someone else,64,12,9,11,female,,50.700001,29.4,20.1
+804,46,someone else,41,10,8,10,male,,48.5,37.299999,
+805,,someone else,76,8,0,6,male,moderate,26.5,37.299999,17.1
+806,16,someone else,46,18,8,12,male,moderate,85.699997,50.700001,27.5
+807,44,someone else,34,14,12,12,male,,31.5,31.5,27.5
+808,20,self-employed,50,14,16,14,male,extrmly conservative,31.4,62.5,38.400002
+809,55,someone else,44,13,14,14,female,moderate,63.5,50.700001,38.400002
+810,70,someone else,31,12,10,11,male,,36.5,31.5,32.400002
+811,40,someone else,52,20,5,,female,slghtly conservative,69.199997,26.5,
+812,20,someone else,70,12,,6,male,slghtly conservative,36.200001,,32
+813,66,someone else,36,14,8,10,female,,62.200001,33.099998,21.200001
+814,,someone else,52,10,,0,female,,48.5,,
+815,,someone else,89,7,,0,female,moderate,26.700001,,26.5
+816,27,someone else,28,13,14,12,female,moderate,26.700001,,33.099998
+817,30,someone else,46,9,5,6,male,moderate,48.5,26.9,
+818,45,someone else,56,12,7,9,female,,26.700001,36.5,
+819,34,someone else,33,9,,,male,conservative,26.700001,,
+820,60,self-employed,31,12,,,male,,28.6,,
+821,49,someone else,42,10,,4,female,moderate,28.200001,,
+822,40,someone else,59,12,10,10,male,conservative,41.599998,29.200001,33.099998
+823,,,23,10,12,9,female,,,29.4,27.5
+824,48,someone else,53,11,12,12,male,,36.5,26.5,20.1
+825,53,someone else,21,14,14,12,male,slightly liberal,63.200001,73.199997,38.400002
+826,,someone else,25,17,12,13,female,conservative,38.400002,30,29.299999
+827,,someone else,38,12,10,8,male,conservative,17.1,36.5,32
+828,60,someone else,54,16,12,14,male,,72,36.5,76.400002
+829,,self-employed,34,19,,16,male,,29.200001,,88.699997
+830,44,someone else,27,12,,9,male,moderate,62.200001,,32.400002
+831,,self-employed,53,8,,7,male,,31.4,,
+832,40,someone else,54,12,5,5,male,,29.200001,29.4,
+833,60,self-employed,49,16,,,female,,76.400002,,
+834,56,someone else,50,12,6,,female,slghtly conservative,26.700001,26.5,
+835,40,someone else,31,11,12,12,male,liberal,45.200001,48.5,48.5
+836,,someone else,64,12,8,8,female,,63.5,34.200001,27.700001
+837,38,self-employed,37,12,4,12,male,slightly liberal,34.200001,63.5,17.1
+838,,someone else,67,14,10,12,male,slghtly conservative,63.5,31.5,
+839,45,someone else,55,10,,5,female,,29.4,,19.4
+840,,someone else,33,10,,9,female,moderate,32.400002,,32.400002
+841,20,someone else,23,16,10,12,female,,31.200001,29.200001,26.700001
+842,40,someone else,37,14,10,14,male,,52.5,27.5,33.099998
+843,45,someone else,30,11,,11,male,liberal,31.5,,33.099998
+844,40,self-employed,28,13,6,11,female,conservative,33.099998,34.200001,25.299999
+845,,someone else,60,15,12,5,female,moderate,63.200001,29.799999,17.1
+846,,someone else,57,20,12,12,female,,78.5,34.200001,
+847,40,someone else,57,17,,8,female,slightly liberal,64.199997,,
+848,32,someone else,56,14,12,13,female,slghtly conservative,69.699997,50.700001,29.299999
+849,30,someone else,54,12,12,8,male,,35.400002,,38.900002
+850,,someone else,42,6,2,12,female,,33.099998,33.200001,36.900002
+851,89,self-employed,43,15,9,12,female,,63.5,49.599998,
+852,,someone else,57,14,,,male,conservative,63.5,,
+853,,someone else,33,14,,,male,moderate,32.799999,,
+854,40,someone else,39,8,,,female,,68.800003,,
+855,64,someone else,41,12,,,male,conservative,28.200001,,32.400002
+856,40,someone else,27,12,,12,female,moderate,39.400002,,32.400002
+857,,self-employed,43,16,10,12,female,,38,37.299999,22.6
+858,40,someone else,27,19,20,20,male,,66.099998,82.699997,
+859,10,self-employed,36,16,18,16,male,,28.6,50.700001,
+860,,someone else,51,16,16,14,female,moderate,65.800003,37.299999,38.900002
+861,40,someone else,59,13,16,8,female,liberal,50.5,73.599998,38
+862,10,self-employed,45,16,12,12,female,conservative,64.199997,38.099998,22.700001
+863,80,someone else,44,17,17,12,male,,63.5,93.300003,73.199997
+864,40,self-employed,41,15,16,15,male,liberal,63.5,49.900002,
+865,61,someone else,20,12,18,16,female,,29.299999,74.400002,73.199997
+866,25,someone else,28,20,20,20,male,,87,97.199997,87
+867,30,self-employed,51,15,13,14,male,liberal,63.5,32.299999,
+868,60,self-employed,32,15,9,12,male,,63.5,63.200001,
+869,,someone else,34,18,20,16,male,,74.400002,90.300003,38.400002
+870,44,someone else,49,14,12,11,female,,45.400002,53.900002,
+871,,someone else,59,14,14,12,female,,69.699997,76.400002,38.400002
+872,,someone else,69,8,8,8,male,moderate,31.5,37.299999,
+873,37,someone else,34,8,,,male,slghtly conservative,28.4,,
+874,40,someone else,50,16,16,13,female,,33.099998,85.099998,
+875,40,someone else,48,13,14,12,female,,73.300003,63.5,73.199997
+876,35,someone else,46,12,12,12,male,slghtly conservative,26.700001,63.5,50.700001
+877,15,someone else,22,12,12,16,female,,34.799999,76.400002,73.199997
+878,11,self-employed,34,12,,15,female,slghtly conservative,22.5,,22.5
+879,42,someone else,28,13,13,16,male,slghtly conservative,63.5,50.700001,73.900002
+880,45,someone else,31,13,20,12,male,,63.5,63.5,38.400002
+881,,someone else,80,8,8,8,female,,29.299999,37.299999,
+882,50,someone else,52,13,12,13,male,moderate,34.299999,37.299999,38.400002
+883,40,someone else,47,16,10,12,female,moderate,73.199997,35.400002,38.900002
+884,,someone else,62,18,13,14,female,,71.599998,63.5,
+885,45,self-employed,62,12,8,12,male,,30.4,38.099998,
+886,85,someone else,48,20,18,18,male,slghtly conservative,97.199997,64.199997,64.199997
+887,,,19,11,12,13,male,liberal,,32.299999,30.700001
+888,,self-employed,39,18,12,16,male,,83.699997,54.200001,73.199997
+889,50,someone else,38,16,18,16,male,,87.900002,83.699997,69.199997
+890,40,someone else,52,16,,12,female,,29.200001,,29.299999
+891,40,someone else,52,12,16,16,male,slightly liberal,64.099998,64.099998,38.900002
+892,20,someone else,41,12,8,11,female,liberal,64.099998,29.5,38.900002
+893,40,someone else,43,13,12,12,male,,35.099998,38.200001,32
+894,60,someone else,62,12,12,8,female,liberal,63.5,50.700001,38.900002
+895,,someone else,81,12,5,12,female,moderate,38.400002,22.700001,
+896,,,42,12,12,12,female,,,35.400002,38.400002
+897,40,someone else,47,12,12,9,male,,31.5,44.700001,
+898,40,someone else,49,12,12,12,male,slightly liberal,36.5,36.5,37.900002
+899,,someone else,74,,3,20,female,moderate,29.6,42.200001,
+900,40,someone else,55,19,12,10,female,slghtly conservative,78.5,37.299999,
+901,45,someone else,44,12,12,12,male,,34,34,36.099998
+902,42,someone else,46,14,14,10,female,conservative,27.5,27.700001,27.700001
+903,16,someone else,74,6,8,8,male,moderate,28.4,37.299999,
+904,,someone else,19,12,,12,female,,32.400002,,64.099998
+905,40,someone else,31,12,12,,female,,26.700001,44.700001,
+906,48,someone else,26,12,15,16,male,moderate,29.4,67,76.400002
+907,,someone else,69,12,12,12,female,moderate,34.599998,76.400002,
+908,40,self-employed,71,12,8,10,female,,29.299999,37.299999,
+909,50,someone else,35,12,10,11,male,,76.400002,31.5,38.900002
+910,,someone else,44,2,8,10,female,slightly liberal,62.5,27.700001,34.799999
+911,40,someone else,19,12,11,15,female,,63.5,39.700001,33.099998
+912,14,someone else,44,17,18,12,female,moderate,56.599998,85.099998,
+913,,someone else,28,12,12,12,male,moderate,50.700001,63.200001,45.799999
+914,,someone else,53,18,14,14,female,,80.900002,63.5,37.700001
+915,45,self-employed,59,12,16,18,male,,31.4,73.900002,38.400002
+916,,,72,12,7,8,female,,,35.099998,26.5
+917,40,someone else,59,18,10,10,male,,63.200001,34.200001,
+918,40,someone else,39,14,12,,male,,36.5,48.5,
+919,20,someone else,22,11,,,male,slightly liberal,31.299999,,
+920,35,someone else,31,15,12,10,male,moderate,37.299999,62.099998,28.4
+921,72,someone else,66,12,,,male,,29.299999,,
+922,,someone else,76,13,6,8,female,,37,38,
+923,50,someone else,43,12,9,12,male,liberal,33.599998,30.1,25.299999
+924,,someone else,76,8,,,female,,26.5,37.799999,22.5
+925,16,self-employed,61,12,2,2,female,,50.700001,37.299999,
+926,,someone else,30,12,,,female,,62.099998,,
+927,,,50,12,,8,female,slghtly conservative,,63.5,
+928,42,self-employed,54,12,11,16,female,,22.5,48.799999,33.099998
+929,,someone else,47,12,10,12,male,liberal,31.5,31.5,26.4
+930,6,someone else,36,8,,12,male,,26.5,26.5,26.700001
+931,,someone else,70,12,12,12,female,,29.299999,63.5,
+932,,someone else,26,12,,,male,,38.099998,38.900002,
+933,27,someone else,54,11,,,female,,21.200001,,
+934,48,someone else,43,14,12,16,female,moderate,62.200001,,38.900002
+935,45,someone else,52,20,16,10,female,,85.099998,76.400002,40
+936,40,someone else,43,12,6,12,male,,48.5,32.700001,27.5
+937,40,someone else,37,12,11,12,female,moderate,31.4,33.099998,29.299999
+938,,someone else,51,13,3,6,female,,32.400002,26.5,32.400002
+939,50,someone else,35,14,16,12,female,,62.5,63.5,37.900002
+940,,someone else,35,15,,12,female,,33.099998,,37.900002
+941,,someone else,25,14,,14,male,liberal,41.599998,,38
+942,,someone else,87,6,5,5,female,,27.5,37.299999,
+943,,someone else,81,5,,,male,moderate,27.5,,
+944,42,someone else,62,12,8,8,male,slghtly conservative,48.5,32.799999,
+945,37,someone else,40,12,5,5,female,,35.200001,31.5,22.5
+946,41,someone else,45,12,2,8,female,,68.800003,47.900002,
+947,28,someone else,21,12,12,7,male,liberal,27.5,34.200001,29
+948,,,43,12,,,female,moderate,,,
+949,,,67,6,1,4,female,moderate,,26.5,
+950,,someone else,35,12,12,8,female,,33.099998,,32.400002
+951,,someone else,51,20,,,male,,62,,
+952,50,someone else,43,15,,3,female,,31.700001,,
+953,35,someone else,80,12,3,,female,moderate,76.400002,37.299999,
+954,60,someone else,48,15,12,16,female,slightly liberal,85.099998,62.5,78.5
+955,86,someone else,43,14,20,12,male,,60.5,69.699997,50.700001
+956,50,someone else,48,14,8,12,female,moderate,63.5,37.299999,50.5
+957,,someone else,75,18,,8,male,slightly liberal,63.200001,,
+958,40,self-employed,68,18,6,13,male,,50.700001,29.4,29.4
+959,,someone else,69,17,10,17,male,,86.800003,32.400002,
+960,52,someone else,48,12,,,male,moderate,44.700001,,22.9
+961,45,self-employed,24,14,14,14,male,,83.699997,36.5,63.5
+962,43,someone else,31,14,16,16,male,slightly liberal,83.699997,73.900002,62.5
+963,40,someone else,54,14,12,12,female,slightly liberal,36.5,50.700001,37.700001
+964,,someone else,64,14,,,female,moderate,45.400002,31.5,
+965,50,someone else,22,13,16,14,male,slghtly conservative,50.700001,63.5,36.900002
+966,42,someone else,37,16,9,14,female,,76.300003,34,38.400002
+967,,someone else,47,18,16,18,male,,35.099998,87.900002,78.5
+968,30,self-employed,26,12,12,11,female,moderate,28.4,37.299999,49.299999
+969,10,someone else,29,13,12,12,female,slghtly conservative,38.900002,63.5,38.900002
+970,40,self-employed,38,10,10,12,male,,30.1,38.200001,27.700001
+971,49,someone else,26,12,12,18,male,moderate,39,26.700001,33.099998
+972,37,someone else,27,12,10,12,female,slghtly conservative,33.299999,63.5,27.700001
+973,37,someone else,55,12,12,12,female,,27.5,34.299999,33.900002
+974,45,someone else,26,17,12,12,male,,48.5,48.5,29.5
+975,40,someone else,22,14,16,14,female,,68.099998,64.099998,73.199997
+976,,someone else,26,12,8,16,male,slightly liberal,26.700001,28.4,73.199997
+977,32,someone else,23,12,12,16,male,moderate,34.299999,52.400002,36.5
+978,40,someone else,48,12,,2,male,,29.200001,,25.5
+979,,someone else,64,16,14,12,female,,78.5,44.200001,38.400002
+980,,self-employed,68,12,10,12,male,slightly liberal,29.299999,29.299999,38.400002
+981,37,someone else,21,12,,8,female,moderate,57.099998,,
+982,40,someone else,27,13,12,10,male,,50.299999,29.200001,50.700001
+983,39,someone else,21,13,12,16,female,,41.599998,28.4,37.599998
+984,30,someone else,28,12,,14,female,,38,,73.699997
+985,40,someone else,56,15,10,12,male,,62.5,37.299999,
+986,,someone else,63,12,12,12,female,,29.200001,45.799999,
+987,,self-employed,48,14,13,11,male,slightly liberal,63.5,39.400002,29.799999
+988,30,someone else,44,12,8,12,female,,27.5,29.4,
+989,,someone else,20,12,20,16,male,slghtly conservative,28.4,73.900002,69.199997
+990,40,someone else,62,12,13,12,female,extrmly conservative,38,86,
+991,16,someone else,60,12,11,10,female,conservative,36.900002,34.200001,22.5
+992,30,someone else,22,14,12,16,male,,37.299999,37.299999,76.400002
+993,40,someone else,24,16,12,10,male,,32.400002,29.200001,
+994,36,someone else,41,15,12,8,female,moderate,73.199997,27.700001,27.700001
+995,,someone else,44,12,10,12,female,slghtly conservative,36.5,42.900002,17.1
+996,,someone else,58,12,5,8,female,conservative,32,37.299999,
+997,,someone else,77,10,,,female,,32,36.700001,
+998,50,someone else,40,12,12,12,male,slightly liberal,50.700001,29.200001,29.799999
+999,12,self-employed,27,12,12,12,male,moderate,34.200001,44.700001,32.400002
+1000,60,someone else,30,13,,11,male,moderate,76.300003,,26.700001
+1001,25,someone else,23,15,12,12,female,,78.5,27.700001,33.099998
+1002,,someone else,37,10,12,,female,slghtly conservative,33.099998,27.700001,
+1003,,someone else,65,12,,5,female,,29.799999,29.4,
+1004,,someone else,22,12,12,12,female,moderate,38.900002,44.700001,50.700001
+1005,,someone else,40,15,20,12,female,,50.700001,73.300003,38.900002
+1006,,someone else,85,12,8,8,female,,48.5,37.299999,
+1007,20,someone else,66,8,6,7,female,moderate,36.5,32.299999,
+1008,50,someone else,27,14,12,14,male,,29.200001,44.299999,
+1009,,someone else,84,15,8,8,female,,68.800003,48.5,
+1010,,someone else,69,8,,3,female,moderate,30.5,,
+1011,20,self-employed,41,12,8,8,female,,30.799999,37.299999,
+1012,70,self-employed,33,12,7,,female,,63.5,35.099998,
+1013,45,someone else,38,12,11,12,male,,38.099998,32.299999,
+1014,40,someone else,24,12,,9,male,moderate,29.4,,
+1015,70,someone else,38,14,,8,male,moderate,44.700001,36.400002,
+1016,48,someone else,38,11,,,male,moderate,34.299999,,
+1017,38,someone else,47,13,14,12,female,,27.5,37.700001,
+1018,,someone else,79,8,,7,male,,45.799999,28.6,22.5
+1019,,someone else,63,12,8,12,female,conservative,43.700001,29.200001,22.5
+1020,40,someone else,50,16,12,12,male,liberal,85.099998,44.700001,27.5
+1021,40,someone else,41,14,12,,male,moderate,73.300003,33.299999,
+1022,40,self-employed,55,16,8,12,male,,34.400002,45.400002,38.400002
+1023,,someone else,23,14,8,13,female,slightly liberal,64.099998,48.5,67
+1024,60,someone else,54,19,13,16,female,,78.5,37.299999,73.199997
+1025,40,someone else,51,12,14,12,female,slightly liberal,53.299999,45.900002,37.700001
+1026,,someone else,39,11,,,male,conservative,31.4,,
+1027,40,someone else,32,15,18,14,male,,37.900002,63.200001,
+1028,50,someone else,28,20,,15,male,,66.099998,,83.699997
+1029,,,23,16,16,18,male,,,63.5,85.099998
+1030,,someone else,58,12,14,12,female,moderate,38,63.5,
+1031,50,self-employed,43,12,12,11,female,slightly liberal,30.799999,63.5,
+1032,37,someone else,51,10,0,0,male,slghtly conservative,38.900002,50.700001,
+1033,40,self-employed,69,16,,8,male,conservative,63.5,37.299999,
+1034,45,someone else,44,13,12,12,male,moderate,64.099998,,37.700001
+1035,35,self-employed,45,14,12,12,male,conservative,53.700001,50.700001,37.700001
+1036,10,someone else,31,12,12,12,female,,46.700001,49.900002,
+1037,,someone else,64,13,8,12,male,,45.400002,27.700001,27.5
+1038,,someone else,71,10,8,8,female,extrmly conservative,35.099998,37.299999,
+1039,32,someone else,41,13,14,12,female,moderate,28.6,80.300003,28.4
+1040,,someone else,36,12,,,female,,29.299999,28.200001,
+1041,,someone else,68,13,12,12,female,,54.200001,53.900002,
+1042,,,78,11,11,11,female,moderate,,37.299999,
+1043,,someone else,51,10,7,12,female,moderate,21.200001,44.700001,34.799999
+1044,30,self-employed,26,14,12,12,female,,33.099998,26.700001,26.700001
+1045,,someone else,59,16,12,,male,conservative,63.5,38.200001,
+1046,24,someone else,53,16,19,12,female,,36.5,92.300003,
+1047,,someone else,89,12,4,,female,,37.700001,73.900002,
+1048,,,78,12,,,female,,,86.5,
+1049,,someone else,77,18,4,15,female,conservative,78.5,37.299999,78.5
+1050,20,someone else,61,13,14,14,female,extremely liberal,31.4,78.699997,38.400002
+1051,9,someone else,63,18,12,14,female,,56.599998,63.5,73.199997
+1052,,someone else,69,9,8,8,male,extremely liberal,35.400002,33.900002,
+1053,60,someone else,49,18,14,12,female,conservative,78.5,63.5,
+1054,44,someone else,37,13,14,12,male,,38.900002,38.900002,38.900002
+1055,80,self-employed,51,19,16,14,male,,82.699997,86.599998,
+1056,45,self-employed,53,19,,14,male,liberal,92.300003,,68.099998
+1057,,someone else,64,12,,6,male,,65.800003,,38.400002
+1058,,someone else,26,11,,,female,slghtly conservative,73.300003,,
+1059,16,someone else,26,10,,14,female,,32.299999,,29.299999
+1060,,someone else,77,16,11,8,female,,62.5,32.299999,
+1061,,someone else,63,18,,4,male,slghtly conservative,86,,
+1062,40,someone else,60,17,12,13,female,slightly liberal,78.5,49.599998,
+1063,40,someone else,30,12,12,12,male,,29.4,31.5,33.900002
+1064,47,someone else,51,15,7,11,male,moderate,36.5,63.5,
+1065,87,someone else,25,11,11,14,male,conservative,32.299999,,
+1066,40,someone else,40,13,14,16,female,slghtly conservative,33.299999,39.400002,48.5
+1067,43,self-employed,23,11,12,,male,,50.299999,31.299999,
+1068,45,someone else,36,12,,12,male,,37.900002,,48.5
+1069,,self-employed,71,9,3,2,female,,22.5,,
+1070,40,someone else,25,11,10,11,male,slghtly conservative,34.200001,38.200001,32.400002
+1071,40,someone else,31,12,12,10,female,,50.5,35.400002,32.400002
+1072,32,someone else,36,12,10,12,male,slghtly conservative,30,30,28.4
+1073,,someone else,33,13,0,12,female,slightly liberal,75.199997,49.599998,
+1074,40,someone else,65,13,8,13,male,slghtly conservative,48.5,31.5,
+1075,,someone else,,16,12,12,female,conservative,83.699997,37.299999,
+1076,,someone else,58,20,8,12,male,slightly liberal,85.099998,,33.099998
+1077,48,someone else,58,13,10,8,male,,63.900002,32.299999,38
+1078,,someone else,68,12,8,8,female,moderate,37.700001,39,26.700001
+1079,,someone else,33,16,20,,female,liberal,85.800003,87,
+1080,,someone else,28,14,12,16,female,,76.400002,,39.599998
+1081,40,someone else,54,12,,10,female,,35.400002,32.299999,
+1082,84,someone else,47,16,12,16,female,,73.199997,53.900002,78.5
+1083,,,20,14,12,18,female,extrmly conservative,,39.400002,71.599998
+1084,,someone else,29,14,,6,male,slghtly conservative,63.200001,,
+1085,,someone else,52,13,3,,female,slghtly conservative,63.5,34.200001,
+1086,,someone else,64,13,12,12,male,,29.799999,50.700001,46
+1087,44,someone else,47,13,12,13,female,,63.5,28.6,
+1088,,someone else,66,18,,12,male,conservative,36.5,,60.599998
+1089,40,someone else,54,16,12,16,female,conservative,73.199997,32.400002,78.5
+1090,,self-employed,73,16,8,12,male,slghtly conservative,64.199997,49.599998,
+1091,,someone else,33,12,,12,female,,33.599998,29.200001,
+1092,60,someone else,48,18,18,12,male,,85.099998,85.099998,
+1093,40,someone else,25,8,12,6,female,,34.799999,38.900002,
+1094,50,someone else,58,12,12,12,male,conservative,31.5,86.5,32.400002
+1095,,someone else,88,12,4,8,female,conservative,29.200001,29.200001,
+1096,,someone else,62,18,10,12,female,,60.5,50.700001,33.099998
+1097,,someone else,71,14,8,12,male,,65.800003,37.299999,
+1098,,someone else,78,16,16,12,male,moderate,78,69.199997,
+1099,,someone else,37,17,12,12,female,,73.199997,34.200001,26.4
+1100,,self-employed,57,13,12,12,female,,38.400002,63.200001,26.4
+1101,32,self-employed,52,12,7,7,female,,29.299999,63.5,18.5
+1102,,someone else,82,10,,,female,slghtly conservative,27.5,26.700001,26.700001
+1103,,,37,14,,12,female,slghtly conservative,,,32
+1104,36,someone else,23,12,12,12,female,extrmly conservative,42.200001,47,60.599998
+1105,65,someone else,35,14,14,13,male,,82.699997,34.200001,29.799999
+1106,20,someone else,31,12,,13,female,,27.5,,38.400002
+1107,,someone else,75,15,12,10,female,conservative,78.5,37.299999,
+1108,,someone else,86,11,12,,male,,64.099998,37.299999,
+1109,20,someone else,70,10,9,12,male,,33.200001,36.5,
+1110,50,someone else,58,17,12,16,male,,50.700001,61.900002,73.199997
+1111,80,someone else,59,15,11,17,male,conservative,34.200001,73.300003,36.5
+1112,40,someone else,56,12,16,12,female,moderate,38.400002,73.900002,38.900002
+1113,40,someone else,41,12,16,12,female,,74.400002,86.5,38.400002
+1114,40,self-employed,46,12,12,12,female,,50.700001,33.099998,38.400002
+1115,,someone else,83,8,,,female,liberal,63.5,37.299999,
+1116,,someone else,49,12,,12,female,conservative,17.1,33.900002,51.900002
+1117,52,someone else,20,12,12,12,male,,25.9,63.200001,38.900002
+1118,45,someone else,39,14,,14,male,,35.099998,,37.700001
+1119,40,someone else,28,14,12,12,female,,63.200001,67,37.299999
+1120,24,someone else,72,12,,10,female,conservative,36.5,33.200001,22.5
+1121,,someone else,24,13,12,12,female,slightly liberal,33.900002,55.099998,22.5
+1122,35,someone else,20,11,,16,female,moderate,78.5,28.4,37.700001
+1123,,someone else,58,8,,,male,,29.1,36.5,
+1124,,self-employed,80,12,12,12,male,,33.299999,63.5,
+1125,20,someone else,54,12,14,12,male,,60.5,49.599998,51.900002
+1126,40,someone else,50,12,,6,female,slightly liberal,50.5,28.6,25.200001
+1127,40,someone else,35,16,14,14,female,moderate,73.199997,54.5,73.199997
+1128,38,someone else,59,12,8,10,female,,42.299999,48.5,60.599998
+1129,,someone else,19,11,,10,male,moderate,29,,32.400002
+1130,40,self-employed,50,13,12,12,female,conservative,33.099998,48.5,35.400002
+1131,55,someone else,47,18,14,12,male,slightly liberal,86.5,73.900002,
+1132,40,someone else,58,16,,16,female,,43.5,,78.699997
+1133,,someone else,70,12,6,,male,slightly liberal,29.4,38.200001,29.4
+1134,50,someone else,58,14,,12,male,,53.700001,,38.200001
+1135,,someone else,,,,,female,,,,
+1136,,someone else,37,12,16,12,male,,31.4,76.400002,29
+1137,,someone else,39,12,,,male,extremely liberal,33.599998,,
+1138,,,37,12,,,female,,,,
+1139,,someone else,71,8,,,male,,29.299999,63.5,
+1140,35,someone else,25,12,12,12,female,,54.700001,34.200001,54.700001
+1141,20,someone else,56,12,10,,male,conservative,32.299999,29.4,
+1142,,someone else,53,12,7,12,female,moderate,28.4,73.599998,38.200001
+1143,55,someone else,39,18,14,12,female,,73.900002,37.299999,54.200001
+1144,40,someone else,37,12,12,12,male,conservative,63.5,31.5,42.200001
+1145,70,someone else,58,14,11,14,female,moderate,47,63.5,38.900002
+1146,50,someone else,61,16,,12,male,,69.199997,,26.700001
+1147,40,someone else,37,16,8,12,male,,63.5,27.700001,
+1148,37,someone else,24,16,,14,male,slghtly conservative,60.400002,,38.400002
+1149,,someone else,33,10,,0,male,moderate,40,,
+1150,20,someone else,23,18,14,18,female,,,65.800003,78.5
+1151,60,someone else,20,14,16,12,female,liberal,54.5,63.5,38.400002
+1152,,someone else,41,8,8,12,female,,33.099998,36.400002,27.700001
+1153,,someone else,25,12,12,11,male,,31.4,31.4,27.700001
+1154,,,30,13,12,11,female,moderate,,46.799999,27.700001
+1155,,someone else,70,12,10,12,female,conservative,38,38.400002,
+1156,,someone else,42,12,,12,female,,29.299999,,17.1
+1157,50,someone else,40,12,12,12,male,,26.6,48.5,26.6
+1158,40,someone else,50,12,10,12,male,moderate,38.5,48.5,
+1159,,someone else,76,12,7,4,male,,53.900002,63.200001,29
+1160,20,someone else,74,12,12,12,female,,36.5,45.900002,
+1161,,someone else,67,19,18,16,male,slghtly conservative,78.5,92.300003,78.5
+1162,89,self-employed,33,9,,,male,moderate,63.5,,
+1163,,someone else,78,12,8,8,female,slghtly conservative,38,38.200001,38.900002
+1164,,someone else,79,10,,8,male,,26.4,27.700001,22.700001
+1165,,someone else,70,12,8,8,male,,39,48.900002,22.5
+1166,40,someone else,46,12,9,11,female,moderate,36.5,27.700001,29.299999
+1167,,someone else,56,12,6,6,male,moderate,27.700001,27.700001,
+1168,,someone else,87,12,6,8,male,slightly liberal,22.700001,20.1,
+1169,,someone else,77,16,12,12,female,,69.199997,76.400002,62
+1170,44,someone else,47,18,10,12,male,,62.099998,43.200001,
+1171,45,someone else,35,16,16,20,female,moderate,65.800003,63.5,63.5
+1172,,someone else,39,14,12,14,female,,57.099998,73.599998,38.900002
+1173,40,someone else,36,18,2,10,male,,83.699997,61.900002,38
+1174,34,someone else,54,20,14,12,female,,82.699997,62.5,38.400002
+1175,72,self-employed,60,16,14,14,male,,33.900002,50.700001,78.5
+1176,55,self-employed,36,15,16,16,male,slightly liberal,64.199997,73.300003,74.900002
+1177,,someone else,68,13,,6,male,,37.400002,38.400002,
+1178,32,someone else,27,14,13,12,female,,73.199997,50.700001,
+1179,37,someone else,35,,9,9,female,,53.299999,27.5,17.1
+1180,,someone else,52,12,12,12,male,conservative,31.299999,42.5,
+1181,,someone else,79,15,14,6,female,slightly liberal,73.199997,45.900002,22.5
+1182,70,someone else,45,16,8,8,male,,70.5,50.700001,26.6
+1183,35,someone else,56,20,10,6,female,moderate,80.900002,32,
+1184,40,someone else,33,19,,3,female,moderate,69.199997,29.4,32
+1185,,someone else,52,8,13,8,female,slightly liberal,26.700001,27.700001,
+1186,45,someone else,44,12,12,12,female,,26.700001,45.900002,29.4
+1187,40,someone else,23,16,20,18,female,slightly liberal,78.5,73.900002,78.5
+1188,20,someone else,51,16,8,8,female,conservative,64.800003,34.200001,37.299999
+1189,,someone else,62,16,8,8,male,,80.300003,28.6,22.5
+1190,52,someone else,32,12,12,,male,extrmly conservative,32.299999,32.299999,
+1191,75,self-employed,53,14,,16,male,moderate,66.099998,,39.599998
+1192,,someone else,63,12,,6,female,,36.5,,19.4
+1193,,someone else,69,12,4,8,female,,38.400002,34.200001,22.5
+1194,14,someone else,60,17,12,14,female,,29.299999,25.5,73.199997
+1195,,someone else,52,20,12,15,female,,69.199997,64.099998,
+1196,,self-employed,35,9,,14,female,moderate,29.299999,,73.199997
+1197,35,someone else,33,9,6,3,female,conservative,29.1,37.299999,
+1198,40,someone else,21,14,12,16,female,,45.700001,,
+1199,,someone else,70,12,9,8,female,,32,37.299999,
+1200,,someone else,78,12,,13,female,,36.5,,78.5
+1201,,someone else,81,12,,4,female,,34.599998,,17.1
+1202,40,someone else,63,12,3,14,female,conservative,63.200001,50.700001,
+1203,,,24,12,18,16,male,liberal,,88.800003,71.599998
+1204,40,someone else,33,14,12,12,male,moderate,48.5,63.5,38.400002
+1205,,self-employed,69,12,9,14,female,,36.5,37.299999,25.5
+1206,,someone else,72,8,,8,female,conservative,46.799999,29.200001,
+1207,40,someone else,28,8,,,female,extrmly conservative,33.299999,,
+1208,60,someone else,59,12,12,12,male,,50.700001,29.4,73.199997
+1209,,someone else,61,13,10,8,female,,63.5,31.4,17.1
+1210,40,someone else,45,14,,,male,,28.6,,
+1211,,someone else,32,12,2,12,female,,31.200001,31.5,
+1212,,,32,12,,12,female,,,,48.5
+1213,40,someone else,37,13,,9,male,moderate,48.799999,,29.299999
+1214,6,someone else,28,14,,,female,,73.599998,,
+1215,42,someone else,39,16,,14,male,,63.200001,,63.200001
+1216,,,21,13,12,14,male,slightly liberal,,45.799999,73.199997
+1217,32,someone else,31,15,14,16,female,slightly liberal,73.199997,26.4,73.199997
+1218,30,someone else,46,12,11,12,male,,37.900002,63.5,32.400002
+1219,60,someone else,22,13,,,male,,50.299999,,
+1220,70,someone else,63,14,10,12,male,moderate,28.4,29.4,29.4
+1221,,someone else,40,19,14,15,male,,80.300003,63.200001,
+1222,40,someone else,34,14,12,12,male,moderate,54.700001,45.900002,29.4
+1223,32,someone else,41,13,12,14,female,slightly liberal,36.5,32.299999,33.099998
+1224,40,someone else,40,15,16,12,female,slghtly conservative,64.800003,39.400002,
+1225,20,self-employed,62,9,,,female,,33.099998,,
+1226,40,someone else,49,6,6,6,female,,29.299999,34.200001,
+1227,40,someone else,55,12,9,12,male,,76.400002,38.099998,
+1228,40,someone else,54,12,11,10,female,,41.599998,52.5,
+1229,,someone else,81,11,7,11,female,slightly liberal,38.900002,34.200001,38
+1230,50,self-employed,50,2,10,12,male,moderate,63.5,69.699997,56.599998
+1231,,someone else,34,14,,14,female,slghtly conservative,33.099998,,38.400002
+1232,14,someone else,74,16,10,11,male,slghtly conservative,38,63.5,
+1233,40,someone else,30,14,16,12,female,,38.400002,86.5,28.4
+1234,,someone else,46,12,12,12,male,,50.299999,42.299999,
+1235,55,someone else,55,20,14,14,female,,87,45.799999,
+1236,45,someone else,36,18,,,male,conservative,73.300003,,
+1237,56,someone else,24,15,20,20,male,liberal,52.400002,73.900002,87
+1238,,someone else,29,16,18,16,male,,64.099998,37.299999,
+1239,,someone else,39,17,12,12,female,,78.5,63.5,64.199997
+1240,48,someone else,38,12,6,6,male,conservative,20.1,26.5,29.299999
+1241,44,someone else,47,16,,,male,slghtly conservative,82.699997,,
+1242,,someone else,32,13,18,14,female,,45.799999,,38.400002
+1243,30,someone else,21,10,9,12,female,,21.200001,31.4,32.400002
+1244,45,someone else,42,16,13,16,male,slghtly conservative,73.300003,50.700001,
+1245,,someone else,30,16,5,16,female,,78.5,37.299999,78.5
+1246,43,someone else,48,14,7,12,female,,50.700001,48.5,38.400002
+1247,53,someone else,34,15,16,,male,extremely liberal,57.099998,63.5,
+1248,,someone else,59,10,8,12,male,slghtly conservative,28.200001,42.400002,
+1249,35,self-employed,72,16,10,12,female,moderate,64.199997,37.299999,
+1250,40,someone else,23,15,13,16,female,,36.5,39.5,36.5
+1251,70,someone else,41,13,14,14,female,,76.400002,63.5,
+1252,40,someone else,39,12,,14,female,,45.400002,,50.700001
+1253,40,someone else,26,15,14,15,male,conservative,33.599998,,
+1254,42,someone else,23,13,12,12,male,,32.400002,64.099998,63.200001
+1255,60,someone else,52,12,12,4,female,,38,45.299999,
+1256,40,someone else,46,14,11,11,female,,84.699997,48.900002,26.700001
+1257,50,someone else,31,18,16,12,male,slightly liberal,49.299999,62.5,38.400002
+1258,,someone else,25,11,,12,female,,27.5,,37.299999
+1259,,someone else,39,15,12,15,female,,31.4,37.299999,69.699997
+1260,,someone else,28,11,,12,female,slghtly conservative,29.299999,,33.099998
+1261,16,someone else,46,16,13,9,male,,36.5,29.299999,
+1262,,someone else,48,12,10,10,male,,28.4,27.700001,29
+1263,40,someone else,50,16,6,12,male,,36.900002,50.700001,33.099998
+1264,65,someone else,29,17,12,11,female,,78.5,34.200001,22.5
+1265,40,someone else,30,14,,12,female,,50.700001,,
+1266,,someone else,33,12,,12,female,slghtly conservative,35.200001,,22.5
+1267,10,someone else,52,14,8,8,male,slghtly conservative,60.5,27.700001,
+1268,,self-employed,83,5,3,5,female,conservative,25.5,26.5,22.5
+1269,,someone else,57,11,,,female,,33.099998,,
+1270,26,someone else,36,14,12,,female,,29.1,52.400002,
+1271,,someone else,29,11,,12,female,moderate,37.700001,,22.9
+1272,,,82,12,9,10,female,,,44.700001,
+1273,40,someone else,31,15,12,13,male,,64.099998,49.599998,
+1274,45,someone else,39,14,8,12,female,,65.199997,31.4,73.199997
+1275,16,someone else,23,12,12,,female,,38.900002,44.700001,
+1276,32,someone else,37,10,,11,female,moderate,33.599998,,26.700001
+1277,30,self-employed,31,9,11,12,male,moderate,32.299999,32.299999,
+1278,45,someone else,50,12,4,10,male,moderate,63.5,63.200001,17.1
+1279,45,someone else,31,14,,12,male,,38.099998,,63.5
+1280,40,someone else,27,12,7,10,male,moderate,33.599998,31.5,
+1281,40,someone else,27,16,16,12,female,slghtly conservative,50.700001,64.099998,62.5
+1282,,someone else,46,15,,14,female,,37.299999,,50.299999
+1283,24,self-employed,25,17,12,14,male,moderate,32.400002,50.700001,22.6
+1284,,someone else,76,12,,14,female,moderate,32.400002,,78.5
+1285,40,self-employed,61,17,12,12,male,moderate,63.5,76.400002,
+1286,40,someone else,64,14,16,16,female,,,78.5,78.5
+1287,,someone else,64,13,10,12,female,,38.400002,64.199997,
+1288,32,someone else,31,12,16,,male,,40,28.4,
+1289,40,someone else,44,16,12,10,female,conservative,73.199997,50.200001,
+1290,,someone else,68,11,10,,male,,28,37.299999,
+1291,40,self-employed,23,11,12,12,male,extremely liberal,31.299999,28.4,22.5
+1292,30,someone else,29,12,10,12,female,,60.599998,31.5,29.200001
+1293,60,someone else,46,14,16,12,male,moderate,48.900002,62.200001,
+1294,50,someone else,39,12,,12,male,extremely liberal,31.5,,
+1295,40,someone else,46,14,19,18,male,moderate,40,85.099998,78.5
+1296,60,someone else,36,18,15,12,male,,63.5,36.5,
+1297,30,someone else,22,12,12,12,male,liberal,32.400002,,36.700001
+1298,40,someone else,23,14,12,18,female,,38.400002,29.4,78.5
+1299,40,someone else,67,11,6,6,male,slghtly conservative,36.5,63.5,25.5
+1300,40,someone else,65,12,8,8,female,extrmly conservative,37.400002,36.5,
+1301,40,someone else,23,12,,12,male,liberal,31.4,,
+1302,40,someone else,34,14,20,12,male,,52.5,97.199997,
+1303,55,someone else,29,17,12,12,female,,36.5,48.5,27.700001
+1304,,someone else,50,16,,14,female,,78.5,,50.700001
+1305,50,self-employed,53,12,12,12,male,,59,29.4,45.900002
+1306,60,someone else,41,18,16,12,female,moderate,78,76.400002,63.200001
+1307,,someone else,63,12,14,12,male,moderate,63.5,63.5,
+1308,40,someone else,59,12,10,10,female,,63.5,48.5,26.700001
+1309,40,someone else,32,13,,12,male,,38.200001,,22.5
+1310,,someone else,48,13,12,14,female,moderate,53.400002,48.5,38.900002
+1311,40,someone else,23,11,,11,female,,29.299999,,50.299999
+1312,40,someone else,44,,,,female,,,,
+1313,,,20,13,18,12,male,,,86.599998,38.400002
+1314,40,someone else,47,10,,,male,conservative,34.200001,,
+1315,45,someone else,33,9,12,,female,moderate,50.5,,
+1316,30,someone else,32,14,6,12,female,,29.299999,26.700001,29.299999
+1317,,someone else,49,12,12,12,male,,,66.099998,
+1318,,someone else,59,17,8,8,female,slightly liberal,78.5,50.700001,
+1319,,someone else,45,11,12,12,male,moderate,21.200001,39.400002,29.299999
+1320,,someone else,57,6,,12,male,,29.200001,29.5,
+1321,43,someone else,48,14,12,12,female,conservative,31.5,33.299999,
+1322,56,someone else,34,17,12,12,female,liberal,50.700001,63.5,
+1323,60,someone else,28,19,20,16,female,liberal,80.300003,85.099998,
+1324,45,someone else,23,16,,12,female,,60.599998,,36.900002
+1325,80,someone else,25,11,12,12,male,liberal,60.5,50.700001,38.400002
+1326,40,someone else,48,14,10,12,male,slightly liberal,32.700001,32,58.299999
+1327,,,46,12,8,,female,,,33.299999,38.900002
+1328,35,someone else,25,12,,12,female,,38.400002,,37.700001
+1329,45,someone else,52,17,10,16,male,slightly liberal,69.199997,63.5,78.5
+1330,40,someone else,41,12,12,8,male,,54.200001,,
+1331,,someone else,47,10,,13,male,,34.200001,,
+1332,,self-employed,41,8,,,female,slghtly conservative,30.799999,28.4,
+1333,43,someone else,34,14,,12,female,moderate,50.700001,27.700001,
+1334,,someone else,52,8,12,,male,moderate,29.200001,63.5,
+1335,,someone else,36,9,,12,male,,29.799999,63.5,39
+1336,,someone else,66,11,,7,female,,46.799999,,22.5
+1337,,someone else,69,19,19,12,male,liberal,85.099998,38.200001,38
+1338,50,someone else,61,12,12,12,male,moderate,50.700001,39.5,
+1339,,someone else,68,12,8,10,female,,30.700001,36.400002,
+1340,65,someone else,58,16,6,8,male,,78.5,26.5,
+1341,,someone else,70,12,11,10,female,,38,63.200001,
+1342,49,someone else,58,13,8,,female,slightly liberal,29.299999,45.900002,
+1343,,someone else,24,15,,13,female,extremely liberal,29.1,,29.299999
+1344,26,self-employed,24,11,12,11,female,extrmly conservative,37.400002,,21.200001
+1345,,someone else,48,12,10,10,male,moderate,33.299999,63.5,
+1346,,someone else,52,7,,,male,extrmly conservative,38.900002,,
+1347,40,someone else,31,8,12,12,female,,22.700001,36.5,36.5
+1348,,someone else,19,12,12,16,female,,37.599998,,38.400002
+1349,,,19,10,,,female,,,,39.400002
+1350,30,someone else,22,11,,15,female,conservative,33.099998,,43.700001
+1351,27,someone else,20,9,,11,female,moderate,27.5,,36.5
+1352,,someone else,64,8,2,5,male,slightly liberal,28.799999,42.400002,
+1353,50,someone else,26,12,,12,male,,60.5,,65.800003
+1354,50,someone else,32,12,,12,male,,39,,32.400002
+1355,30,self-employed,25,12,12,12,male,conservative,31.299999,31.299999,76.400002
+1356,50,self-employed,56,10,5,6,female,moderate,60.599998,48.5,17.6
+1357,52,someone else,48,14,16,12,female,,63.5,63.5,38
+1358,45,someone else,48,14,8,12,female,conservative,60.5,44.200001,38.900002
+1359,55,someone else,64,20,8,12,female,conservative,78.5,64.099998,38
+1360,50,someone else,32,20,18,18,male,,73.900002,73.199997,73.199997
+1361,60,someone else,28,20,16,16,male,moderate,78.5,73.300003,73.199997
+1362,42,someone else,43,20,14,11,female,slightly liberal,73.199997,86.5,
+1363,60,self-employed,52,16,10,12,male,slightly liberal,82.699997,62.200001,
+1364,,someone else,81,12,8,8,male,,64.099998,26.5,
+1365,,self-employed,30,12,14,12,female,moderate,33.099998,43.700001,29.299999
+1366,,someone else,61,12,,0,male,,29.799999,28.4,17.1
+1367,50,someone else,59,12,3,6,female,,63.5,35.400002,36.700001
+1368,47,someone else,40,12,12,8,male,liberal,45.200001,28.6,
+1369,,someone else,55,14,6,10,male,conservative,28.4,37.299999,26.4
+1370,,someone else,31,15,,12,female,,67,37,33.099998
+1371,,someone else,79,12,8,8,male,,63.5,37.299999,
+1372,34,someone else,28,10,,,female,,27.5,,
+1373,,someone else,72,20,3,13,male,moderate,81.900002,37.299999,
+1374,60,someone else,41,14,12,12,male,slghtly conservative,48.900002,48.900002,73.599998
+1375,,,25,11,12,8,female,,,51.900002,
+1376,,,65,11,,,female,,,37.299999,
+1377,25,someone else,65,20,6,13,female,,64.199997,81,
+1378,,someone else,36,16,16,14,female,extrmly conservative,84.699997,84.699997,63.5
+1379,,,71,18,,,female,,,,
+1380,,someone else,76,17,8,8,female,,78.5,50.700001,
+1381,,someone else,80,14,12,12,male,moderate,63.5,76.400002,
+1382,42,someone else,45,12,11,12,male,,31.5,31.5,25.799999
+1383,,someone else,24,16,,14,male,,34.799999,,51.900002
+1384,,someone else,49,13,11,6,male,conservative,53.900002,48.5,
+1385,40,someone else,51,12,10,12,female,conservative,63.5,49.900002,29
+1386,,someone else,44,16,14,12,female,,78.5,63.5,38.400002
+1387,45,someone else,26,16,14,16,male,,35.099998,83.699997,38.400002
+1388,45,someone else,47,16,14,,female,,80.300003,32.299999,
+1389,45,someone else,43,16,10,12,male,conservative,83.699997,,73.800003
+1390,,someone else,69,16,3,8,female,moderate,80.300003,31.5,46.799999
+1391,,someone else,35,15,16,13,female,,76.400002,63.5,
+1392,,someone else,34,14,18,12,female,,74.400002,48.599998,
+1393,,,23,11,,,male,,,,29.1
+1394,,someone else,33,15,12,12,female,,38,20.1,32.400002
+1395,35,someone else,21,10,,11,female,moderate,33.099998,,39.400002
+1396,55,someone else,23,16,16,16,female,liberal,64.199997,50.700001,
+1397,43,someone else,37,16,12,12,male,,63.200001,49.599998,36.900002
+1398,,someone else,42,11,12,12,female,slghtly conservative,63.5,35.400002,33.099998
+1399,40,someone else,21,12,,12,male,conservative,29.799999,,81
+1400,45,someone else,59,18,12,12,female,,63.5,63.5,27.700001
+1401,40,someone else,43,13,,8,male,,32.900002,,
+1402,37,self-employed,42,12,12,12,male,moderate,31.299999,48.5,17.1
+1403,,someone else,62,9,6,6,female,moderate,29.299999,20.1,20.1
+1404,36,someone else,35,12,,12,male,slghtly conservative,30.799999,,27.5
+1405,,someone else,42,12,12,12,female,,56.5,,48.5
+1406,62,someone else,56,14,12,12,male,conservative,31.5,28.6,
+1407,40,someone else,37,14,12,12,female,moderate,59,48.5,73.599998
+1408,35,someone else,37,12,,14,female,,31.5,,38.400002
+1409,,self-employed,44,12,16,12,female,,63.5,38.200001,17.1
+1410,37,someone else,25,14,9,12,male,moderate,35.400002,35.099998,26.700001
+1411,40,someone else,26,14,,10,male,,44.700001,,25.799999
+1412,50,someone else,25,16,16,12,female,,78.5,,63.5
+1413,89,self-employed,30,15,12,13,female,conservative,52.5,63.5,68.800003
+1414,65,someone else,28,16,16,9,male,,83.699997,63.5,
+1415,45,someone else,21,12,,,female,,63.5,,
+1416,48,someone else,24,17,,,female,liberal,34.799999,,33.099998
+1417,40,someone else,25,17,14,12,female,,92.300003,,38.900002
+1418,50,someone else,24,16,16,15,female,,50.5,50.700001,73.199997
+1419,40,someone else,31,16,12,12,female,moderate,54.700001,63.5,36.5
+1420,,someone else,82,17,,8,male,,73.300003,,28.4
+1421,35,someone else,29,16,18,13,male,,38.900002,81,50.700001
+1422,50,someone else,27,16,,12,female,liberal,63.5,,38.900002
+1423,45,someone else,25,16,19,19,female,moderate,87.900002,78.5,78.5
+1424,52,someone else,24,16,12,12,female,,76.400002,28.6,32.400002
+1425,40,someone else,43,13,12,12,female,conservative,64.099998,83.699997,50.700001
+1426,,someone else,32,12,,12,male,moderate,32.700001,,29.299999
+1427,,someone else,39,12,,12,male,slghtly conservative,28.4,,48.5
+1428,60,someone else,28,20,,9,female,,63.5,,23.299999
+1429,40,someone else,24,12,12,12,male,,29.200001,24.6,
+1430,40,someone else,21,13,14,12,female,,29.299999,,67
+1431,40,someone else,45,11,,8,female,conservative,55.099998,,21.200001
+1432,,someone else,24,12,14,14,male,liberal,29.200001,38.099998,29.299999
+1433,,someone else,56,12,,,male,,25.299999,,
+1434,40,someone else,37,11,,,female,,43.599998,,
+1435,55,someone else,34,18,16,18,female,,62.5,65.800003,78.5
+1436,23,someone else,39,14,,11,female,,29,,22.700001
+1437,,,20,12,16,,female,,,64.099998,
+1438,,,25,19,16,16,male,moderate,,73.599998,78.5
+1439,,self-employed,53,19,19,14,female,liberal,63.5,92.300003,
+1440,32,self-employed,41,16,,14,male,,83.699997,,38.400002
+1441,20,self-employed,46,20,20,16,male,,92.300003,86.5,
+1442,,self-employed,73,19,12,12,male,moderate,64.199997,37.299999,
+1443,50,someone else,27,16,20,16,male,slightly liberal,82.699997,87,37.700001
+1444,,someone else,75,12,19,12,female,,38.400002,85.099998,
+1445,,someone else,71,13,3,3,female,,21.200001,36.700001,22.5
+1446,,someone else,73,11,2,4,female,slightly liberal,27.5,31.4,
+1447,45,someone else,25,17,11,16,female,slghtly conservative,71.599998,35.099998,78.5
+1448,50,someone else,56,11,12,12,female,,29.299999,31.4,29.299999
+1449,30,someone else,50,18,16,16,female,,76.300003,38,38.400002
+1450,40,someone else,45,13,13,9,female,,48.799999,33.200001,32.400002
+1451,,someone else,54,12,9,12,female,conservative,31.4,63.5,73.199997
+1452,,someone else,47,16,,12,male,slghtly conservative,50.700001,29.799999,26.4
+1453,40,someone else,22,13,12,12,female,,38.400002,37.599998,
+1454,30,self-employed,36,12,6,12,female,,63.5,50.700001,50.700001
+1455,16,someone else,26,13,,12,female,moderate,29.299999,,48.5
+1456,64,someone else,29,12,,14,male,liberal,,,43.700001
+1457,,someone else,63,7,,12,male,,38.099998,35.099998,29.299999
+1458,30,someone else,39,13,,17,male,,27.5,,45.700001
+1459,40,someone else,38,12,12,12,female,slghtly conservative,41.599998,28.6,
+1460,34,someone else,32,15,,8,female,moderate,50.700001,,17.1
+1461,89,someone else,21,13,,12,male,liberal,,38.299999,38.400002
+1462,32,someone else,42,14,9,9,female,,38.900002,,
+1463,40,someone else,47,17,3,11,female,,85.099998,34.200001,
+1464,,someone else,86,12,,,female,conservative,63.5,,29.200001
+1465,42,someone else,33,13,15,13,female,moderate,85.099998,48.5,
+1466,,someone else,81,12,12,12,female,,34.599998,64.099998,
+1467,40,someone else,60,14,,12,male,,37.299999,37.299999,
+1468,40,someone else,47,13,10,12,female,slghtly conservative,38,31.5,30.700001
+1469,40,someone else,60,12,11,12,female,,80.300003,25.299999,29.200001
+1470,40,someone else,42,16,,11,female,,36.200001,,29.200001
+1471,,someone else,72,6,6,12,male,liberal,22.5,52.400002,28.4
+1472,15,self-employed,55,14,,0,female,liberal,,,
+1473,,someone else,62,12,12,12,female,conservative,50.700001,48.5,
+1474,,someone else,70,13,0,,female,,38.400002,26.5,
+1475,,someone else,58,9,5,9,male,,31.5,26.5,22.5
+1476,20,someone else,32,12,16,12,female,,36.900002,54.200001,34.799999
+1477,,someone else,70,12,,8,female,liberal,38.400002,,
+1478,,someone else,62,12,12,12,female,moderate,45.400002,32.299999,63.200001
+1479,40,someone else,33,12,,,female,slightly liberal,83.699997,,
+1480,,someone else,51,14,14,16,male,,,63.200001,69.199997
+1481,30,someone else,82,16,12,,male,,28.4,96,
+1482,40,someone else,73,14,,,male,,39.400002,,24.799999
+1483,70,someone else,42,20,,10,female,slightly liberal,85.099998,,22.5
+1484,,self-employed,65,16,12,14,male,,61.900002,63.5,
+1485,60,someone else,32,18,14,12,female,,78.5,28.6,63.5
+1486,32,someone else,27,13,12,14,female,,31.299999,33.900002,50.700001
+1487,,someone else,,,,,female,,,,
+1488,,self-employed,61,19,8,12,male,liberal,59.299999,31.299999,25.5
+1489,40,someone else,26,,19,14,male,,38.900002,87,37.700001
+1490,,someone else,,17,16,16,male,,,85.099998,
+1491,40,someone else,35,16,16,12,female,conservative,76.300003,80.300003,35.400002
+1492,88,someone else,34,16,7,10,male,liberal,48.599998,36.400002,27.700001
+1493,40,someone else,22,14,12,,female,moderate,38,,
+1494,30,self-employed,42,15,,14,male,,39.400002,,28.4
+1495,40,someone else,51,15,9,12,male,,60.5,36.400002,27.5
+1496,32,someone else,79,12,8,8,male,moderate,50.700001,48.5,25.200001
+1497,40,someone else,63,10,12,12,male,slightly liberal,27.700001,29.200001,26.700001
+1498,40,someone else,,14,17,16,male,,62.200001,,
+1499,75,someone else,26,12,,12,male,conservative,58.299999,,37.900002
+1500,,,50,15,,10,female,slightly liberal,,,69.699997
+1501,,someone else,32,14,,14,female,,74.400002,,68.099998
+1502,,,34,,4,12,male,,,26.5,26.5
+1503,40,someone else,30,16,16,15,male,,83.699997,58.099998,
+1504,28,someone else,26,16,,,male,liberal,63.5,,
+1505,40,someone else,57,12,12,12,male,extrmly conservative,28.4,31.5,
+1506,40,someone else,48,12,12,12,male,slightly liberal,53.299999,50.700001,33.900002
+1507,43,someone else,52,13,12,14,male,moderate,38.099998,31.299999,
+1508,55,someone else,25,16,12,12,female,,73.800003,36.5,33.099998
+1509,,someone else,82,12,,7,female,,37.299999,,
+1510,40,someone else,20,12,12,12,male,moderate,26.4,37,
+1511,40,someone else,43,12,,,male,,29.200001,27.700001,29.299999
+1512,40,someone else,26,12,12,14,male,,33.299999,,38.400002
+1513,40,someone else,41,12,12,,male,slightly liberal,33.299999,52.400002,
+1514,55,someone else,35,11,,11,female,moderate,29.4,,
+1515,,,25,12,12,10,female,moderate,,28.6,29.299999
+1516,,,24,12,,,male,,,,
+1517,23,someone else,23,14,14,14,female,moderate,34.799999,48.5,38.400002
+1518,40,someone else,32,18,18,18,female,liberal,41.599998,86,78.5
+1519,35,someone else,24,13,,,male,,50.700001,,21.200001
+1520,65,someone else,63,10,,12,male,moderate,28.4,33.5,
+1521,,someone else,37,13,14,10,male,,38.200001,33,25.200001
+1522,,someone else,27,12,12,12,male,slghtly conservative,29.299999,63.200001,38.400002
+1523,40,someone else,27,12,12,12,female,liberal,68.099998,42.400002,39.400002
+1524,,someone else,51,10,,,male,,24.200001,48.5,
+1525,50,someone else,42,12,12,12,male,,29.5,36.5,
+1526,42,someone else,35,12,,12,male,,,,32.400002
+1527,37,someone else,54,19,14,13,female,moderate,78.5,86,38.400002
+1528,50,someone else,49,12,12,14,female,,74.400002,35.400002,38.400002
+1529,50,self-employed,40,16,18,13,male,,63.5,80.300003,
+1530,40,someone else,43,14,16,12,female,slghtly conservative,66.099998,63.5,35.099998
+1531,40,someone else,42,18,16,12,female,slghtly conservative,78.5,86.5,
+1532,,someone else,62,16,12,16,male,conservative,80,50.700001,
+1533,45,someone else,52,18,16,14,female,moderate,64.099998,73.900002,43.700001
+1534,40,someone else,42,18,12,13,female,slightly liberal,80.300003,63.5,38
+1535,38,someone else,60,13,14,12,male,moderate,36.5,63.5,36.099998
+1536,50,someone else,34,14,18,14,male,,72.5,86.5,38.400002
+1537,55,someone else,28,16,18,16,female,liberal,50.700001,63.5,
+1538,,someone else,65,20,12,12,female,,78.5,65.800003,
+1539,,someone else,72,16,12,6,female,slghtly conservative,62.5,66.099998,30.799999
+1540,,someone else,34,14,14,12,female,,45.700001,48.5,33.099998
+1541,30,someone else,36,17,9,12,male,,80,27.5,29.299999
+1542,50,someone else,41,12,7,13,male,conservative,28.6,,35.400002
+1543,60,someone else,31,12,,7,female,slightly liberal,29.299999,,
+1544,45,someone else,21,11,,18,female,,63.5,,73.199997
+1545,37,someone else,57,12,10,12,male,,84.699997,29.200001,
+1546,,someone else,72,14,15,12,male,conservative,28.6,28.6,36.099998
+1547,5,self-employed,45,12,,12,female,,63.200001,,73.300003
+1548,40,someone else,58,13,0,0,male,,63.5,28.6,
+1549,80,someone else,34,14,,16,female,,63.5,,73.199997
+1550,40,someone else,64,12,,,male,moderate,32.299999,,
+1551,,someone else,57,12,8,12,female,,33.099998,35.099998,26.700001
+1552,,someone else,42,12,12,14,female,conservative,29.4,26.700001,29.4
+1553,40,someone else,55,16,10,10,male,moderate,28.4,37.299999,
+1554,,someone else,28,,,,male,,31.4,,29.299999
+1555,,someone else,78,12,,,female,moderate,38.900002,37.299999,
+1556,50,someone else,26,13,14,13,male,,53.099998,,38.400002
+1557,45,someone else,52,11,,,male,,32,,
+1558,40,someone else,33,12,9,12,female,,74.400002,30.4,50.700001
+1559,,someone else,30,14,12,15,female,moderate,25.200001,,63.5
+1560,,someone else,28,12,,,female,extrmly conservative,26.4,,
+1561,70,someone else,34,10,,,male,,31.5,,
+1562,15,someone else,27,11,,16,female,liberal,17.1,,32.400002
+1563,,someone else,42,14,12,10,female,moderate,38.900002,48.900002,21.200001
+1564,,someone else,74,14,,7,male,,28.4,,22.5
+1565,,someone else,52,14,,12,male,,54.5,,28.4
+1566,43,someone else,37,12,9,12,male,moderate,35.099998,26.700001,29.4
+1567,40,someone else,36,14,,16,female,slightly liberal,31.4,,38.400002
+1568,50,self-employed,34,18,11,12,female,,63.5,24.200001,33.599998
+1569,36,someone else,74,8,,,female,liberal,62.5,29.4,22.5
+1570,50,someone else,43,12,,,female,extremely liberal,32.400002,,
+1571,18,someone else,56,15,16,15,female,extremely liberal,75.199997,86,
+1572,,someone else,27,20,20,20,female,,32.400002,96,92.300003
+1573,40,someone else,39,13,,12,female,,68.099998,,63.5
+1574,40,self-employed,51,14,,,female,slghtly conservative,63.5,,
+1575,50,someone else,34,12,12,17,male,liberal,,63.200001,85.099998
+1576,45,someone else,23,14,12,12,female,,36.5,73.300003,36.900002
+1577,45,someone else,22,13,16,14,male,moderate,34.200001,34.200001,38.400002
+1578,,someone else,80,13,16,6,female,slghtly conservative,38.400002,53.900002,
+1579,45,someone else,35,16,12,12,female,,63.200001,62.200001,38.400002
+1580,43,someone else,39,16,12,16,female,,38,63.5,73.199997
+1581,,someone else,53,14,6,0,female,,38,37.299999,
+1582,60,someone else,39,16,16,14,female,slghtly conservative,63.5,69.699997,38.400002
+1583,40,someone else,27,13,12,14,female,moderate,31.4,32.299999,45.900002
+1584,40,someone else,31,16,16,14,male,,63.5,74,50.5
+1585,40,someone else,56,16,12,12,male,,39,34.200001,38.400002
+1586,20,someone else,33,16,16,18,female,moderate,73.800003,88.800003,85.099998
+1587,44,someone else,26,14,14,13,female,slightly liberal,50.700001,87.900002,37.700001
+1588,40,someone else,32,15,,13,male,slightly liberal,61.900002,,73.300003
+1589,50,someone else,46,14,12,12,male,,58.799999,48.5,85.099998
+1590,40,someone else,47,18,12,12,female,extremely liberal,63.5,64.099998,
+1591,45,someone else,43,14,12,12,female,,63.5,53.900002,37.700001
+1592,40,someone else,44,12,8,,female,,62.099998,36.5,
+1593,75,self-employed,38,12,12,12,male,slghtly conservative,63.5,32.299999,63.5
+1594,30,self-employed,56,12,8,12,male,conservative,48.599998,42.900002,
+1595,50,someone else,37,14,10,12,female,,57.099998,31.5,
+1596,44,someone else,58,12,14,16,female,,35.099998,48.5,73.199997
+1597,40,someone else,30,16,17,12,female,moderate,64.099998,76.400002,38.400002
+1598,,someone else,88,12,,12,female,moderate,36.099998,,
+1599,45,someone else,45,12,8,12,female,,65.199997,31.5,36.900002
+1600,40,someone else,40,14,16,15,female,,50.700001,63.5,62.5
+1601,75,someone else,19,13,10,14,male,moderate,29.5,26.700001,38
+1602,49,someone else,25,12,12,12,male,moderate,63.5,63.5,
+1603,60,someone else,59,12,10,12,male,moderate,73.300003,36.400002,
+1604,,someone else,38,15,19,16,female,,76.400002,80.300003,50.700001
+1605,50,someone else,23,16,14,12,male,,38.900002,63.5,38.400002
+1606,35,someone else,31,13,14,12,female,slightly liberal,53.299999,63.5,57.099998
+1607,38,someone else,34,15,16,16,female,slightly liberal,73.599998,86.800003,63.5
+1608,,self-employed,38,12,10,12,female,moderate,25.200001,53.900002,38.900002
+1609,,someone else,76,12,4,4,male,moderate,49.599998,33.099998,
+1610,,someone else,43,16,16,12,female,,60.599998,63.5,
+1611,62,someone else,53,0,0,,male,extremely liberal,28.4,37.299999,
+1612,50,someone else,46,14,6,6,male,moderate,74.400002,28.6,
+1613,46,someone else,40,12,12,12,female,,50.700001,38.099998,33.099998
+1614,40,someone else,50,14,,10,female,moderate,53.299999,,63.5
+1615,,,34,9,,11,female,moderate,,,21.200001
+1616,35,someone else,23,12,,12,female,,33.099998,,27.5
+1617,50,someone else,44,13,11,9,female,,28.4,63.5,
+1618,40,someone else,48,14,,14,female,,33.099998,,28.4
+1619,60,someone else,44,14,8,8,male,,64.199997,33.200001,25.9
+1620,40,someone else,24,15,,9,female,,53.299999,,32.400002
+1621,40,someone else,39,12,12,12,female,moderate,37.700001,73.900002,26.700001
+1622,,someone else,81,12,8,8,male,extrmly conservative,34.200001,38,50.700001
+1623,44,someone else,30,13,12,12,male,,50.700001,34.200001,25.5
+1624,,someone else,33,16,18,14,male,,31.4,80.300003,
+1625,,someone else,38,16,14,16,female,,73.300003,93.300003,63.200001
+1626,9,someone else,67,12,,11,female,conservative,29.799999,31.5,38.099998
+1627,,someone else,25,11,12,12,male,conservative,28.6,32.799999,53.299999
+1628,38,someone else,40,14,8,12,male,,35.099998,63.5,
+1629,50,someone else,44,17,10,12,female,,73.800003,40.5,38
+1630,55,self-employed,64,16,,,male,conservative,64.099998,50.700001,38
+1631,,someone else,33,16,11,18,female,,88.800003,66.099998,73.199997
+1632,40,someone else,35,16,,12,male,,60.5,28.4,28.4
+1633,,someone else,63,14,,,male,liberal,,37.299999,
+1634,85,someone else,38,14,12,12,male,,37.900002,92.800003,
+1635,80,someone else,24,16,16,14,female,liberal,40.200001,67,63.5
+1636,45,someone else,38,16,16,16,male,conservative,73.800003,67,78.5
+1637,37,someone else,21,12,,12,male,,31.4,,73.199997
+1638,40,someone else,51,14,12,12,female,,63.200001,32.299999,38
+1639,,self-employed,71,16,17,12,male,moderate,50.700001,50.700001,
+1640,50,someone else,22,16,12,12,female,,83.699997,50.700001,
+1641,,someone else,21,11,12,10,female,extremely liberal,41.599998,34.299999,28.4
+1642,,someone else,21,14,20,20,female,extremely liberal,44.299999,87.5,87.5
+1643,12,someone else,84,4,,0,male,,53.700001,45.200001,
+1644,16,someone else,30,6,2,,male,,31.4,60.5,
+1645,,,21,16,12,12,female,moderate,,37.299999,
+1646,,someone else,61,16,8,3,female,extrmly conservative,78.5,38.400002,
+1647,,someone else,75,15,4,0,male,,29,37.299999,
+1648,26,someone else,39,15,16,12,male,,27.5,63.5,
+1649,37,someone else,40,15,12,12,female,slghtly conservative,69.199997,32.299999,73.300003
+1650,,someone else,61,16,12,12,female,,80.300003,34.200001,26.4
+1651,40,someone else,59,14,12,12,male,,45.900002,64.099998,33.099998
+1652,40,someone else,40,16,16,12,male,,48.5,63.5,
+1653,28,someone else,41,20,18,16,female,liberal,73.800003,93.300003,33.099998
+1654,20,someone else,47,16,,16,female,moderate,67,,78.5
+1655,48,someone else,38,12,14,12,male,,63.5,63.5,
+1656,70,someone else,56,18,12,12,male,moderate,63.5,63.5,38.400002
+1657,68,someone else,38,14,14,12,male,,35.099998,,64.099998
+1658,47,someone else,32,16,19,12,male,slghtly conservative,63.5,92.300003,38.400002
+1659,24,someone else,62,19,19,16,male,,37.299999,92.300003,78.5
+1660,,someone else,74,12,,6,female,conservative,50.5,38.5,
+1661,,,60,12,6,6,female,liberal,,,
+1662,40,someone else,29,13,,12,male,,29.799999,,29.299999
+1663,52,someone else,42,13,,12,female,,54.200001,,29.299999
+1664,38,someone else,31,12,,12,female,moderate,29.299999,,38.900002
+1665,,someone else,65,13,6,6,female,moderate,73.199997,48.5,
+1666,,someone else,81,13,,12,male,,54.200001,,28.4
+1667,,someone else,40,14,10,14,male,,43.400002,27.700001,36.5
+1668,21,someone else,43,12,8,12,female,moderate,64.400002,31.5,63.5
+1669,40,someone else,25,12,12,12,female,,38.400002,32,64.099998
+1670,,,33,12,12,12,female,moderate,,61.900002,63.5
+1671,28,someone else,36,14,14,,female,moderate,39.400002,27.700001,
+1672,,,24,12,8,8,female,moderate,,26.700001,27.5
+1673,,,53,9,8,8,female,,,38.099998,22.700001
+1674,89,someone else,37,10,9,10,male,,38.099998,27.700001,
+1675,45,someone else,25,8,8,8,male,moderate,34.299999,28.6,
+1676,40,someone else,37,13,12,12,female,,69.699997,28.6,38.400002
+1677,63,someone else,40,14,8,8,female,,51.900002,33.900002,34.400002
+1678,,someone else,29,11,,,female,,33.099998,,28.4
+1679,40,someone else,33,12,16,12,female,extremely liberal,63.5,34.200001,33.099998
+1680,25,someone else,54,15,,10,female,liberal,33.099998,27.5,22.5
+1681,45,someone else,23,11,12,10,female,moderate,26.4,33.099998,32.400002
+1682,,someone else,24,13,,,female,,55.099998,33.299999,38.900002
+1683,,someone else,51,9,,,female,,29.299999,31.4,22.9
+1684,31,someone else,36,11,12,12,female,moderate,38.900002,32.299999,21.200001
+1685,32,someone else,31,12,12,12,female,moderate,40,21.200001,27.5
+1686,15,self-employed,28,12,12,12,male,,32.299999,31.5,37.299999
+1687,40,someone else,23,12,12,12,female,,68.099998,49.599998,50.700001
+1688,40,someone else,34,17,12,14,male,extremely liberal,83.699997,31.5,38.400002
+1689,40,someone else,45,16,,14,male,moderate,61.099998,,73.199997
+1690,16,someone else,33,13,8,10,female,,74.400002,,
+1691,42,someone else,26,12,,12,male,,33.099998,,
+1692,54,someone else,41,14,12,12,male,slghtly conservative,50.700001,69.699997,50.700001
+1693,40,self-employed,48,16,16,12,female,,64.199997,64.099998,38.400002
+1694,48,someone else,51,14,12,12,male,,36.5,45.900002,37.700001
+1695,,someone else,45,17,16,12,male,conservative,76.400002,63.5,
+1696,40,someone else,51,13,5,6,female,,53.299999,37.299999,21.200001
+1697,48,someone else,52,12,12,12,male,,53.400002,44.700001,
+1698,,someone else,81,17,16,16,female,,73.699997,,
+1699,30,self-employed,39,6,,0,female,,22.5,,22.5
+1700,40,someone else,54,16,16,16,male,,32.700001,62.5,85.099998
+1701,,someone else,64,1,1,3,female,,28.4,37.299999,
+1702,65,someone else,49,14,12,9,male,slightly liberal,25.200001,63.200001,
+1703,40,someone else,29,16,12,4,male,slghtly conservative,53.700001,38.200001,
+1704,25,someone else,33,12,8,,female,slightly liberal,53.700001,32.700001,
+1705,,self-employed,66,13,,12,female,,34.599998,38.099998,
+1706,,,65,16,12,12,male,conservative,46.799999,37.299999,
+1707,,someone else,48,17,14,13,female,slightly liberal,85.099998,63.5,
+1708,50,someone else,35,17,14,14,male,moderate,86.599998,37.299999,29.299999
+1709,60,someone else,47,20,12,8,female,,73.199997,48.900002,37.900002
+1710,,someone else,63,13,,12,female,,53.299999,27.700001,38
+1711,,,69,2,,18,male,moderate,,,39.400002
+1712,40,someone else,51,13,16,8,male,conservative,34.200001,81,60.599998
+1713,55,someone else,32,17,10,11,female,liberal,80.300003,63.5,38.400002
+1714,50,someone else,32,13,12,12,female,,63.5,50.700001,38.900002
+1715,60,self-employed,52,15,,12,male,conservative,44.700001,,38.400002
+1716,45,someone else,30,12,,12,female,,47,49.599998,32.400002
+1717,40,someone else,38,15,12,12,female,,54.200001,34.200001,38.400002
+1718,12,someone else,19,13,,12,female,,33.099998,,65.800003
+1719,15,self-employed,64,17,16,14,female,moderate,63.5,80.300003,38.400002
+1720,,self-employed,70,13,16,12,female,,30.799999,54.700001,26.700001
+1721,50,someone else,29,18,18,16,male,slghtly conservative,64.199997,50.700001,60.599998
+1722,9,self-employed,32,17,6,6,female,slghtly conservative,59,37.299999,20.1
+1723,40,someone else,26,17,6,8,female,slightly liberal,69.199997,28.6,29
+1724,,someone else,23,15,12,14,female,,63.5,31.5,63.5
+1725,26,someone else,47,13,6,6,male,moderate,42.700001,28.4,21.200001
+1726,17,someone else,31,18,19,16,female,,57.099998,92.300003,38.900002
+1727,,someone else,22,15,16,12,male,slightly liberal,34.799999,88.800003,
+1728,,,20,14,16,16,male,,,83.900002,38.400002
+1729,,someone else,23,15,16,16,male,liberal,81,63.5,60.599998
+1730,60,someone else,34,12,12,14,female,,81,73.599998,
+1731,45,someone else,50,14,12,11,female,moderate,50.700001,28.6,
+1732,45,someone else,44,2,12,,male,moderate,31.5,73.900002,
+1733,,someone else,29,17,13,11,female,,33.099998,,25.200001
+1734,,someone else,30,12,8,6,male,,36.200001,37.299999,
+1735,,someone else,37,14,14,,male,slightly liberal,32.299999,83.900002,
+1736,,someone else,19,12,,16,female,,30.700001,,22.5
+1737,,someone else,20,12,14,13,male,,28,64.099998,22.5
+1738,,,20,14,18,,male,,,83.699997,
+1739,,someone else,20,13,14,12,male,slightly liberal,47.799999,64.099998,34.799999
+1740,,,22,13,16,16,male,liberal,,92.800003,83.900002
+1741,,someone else,20,12,14,14,male,,48.599998,32.299999,
+1742,55,someone else,51,16,16,14,female,,68.800003,63.5,68.800003
+1743,,,21,14,20,20,male,moderate,,84.199997,73.800003
+1744,34,someone else,26,18,13,14,female,,50.5,28.4,76.300003
+1745,,,22,15,19,16,male,,,62.5,81
+1746,43,someone else,51,20,14,16,male,,46.700001,37.200001,73.199997
+1747,16,self-employed,36,17,,20,male,slightly liberal,28.4,,97.199997
+1748,,someone else,22,14,16,0,female,liberal,69.199997,63.5,26.700001
+1749,89,someone else,26,15,,16,female,moderate,73.199997,,36.5
+1750,,someone else,25,18,16,16,female,,29.299999,53.900002,80.300003
+1751,14,someone else,52,12,8,12,male,,29.799999,33.900002,29
+1752,50,someone else,46,15,,14,female,,63.5,,76.400002
+1753,40,self-employed,61,14,,10,female,moderate,64.099998,,32.400002
+1754,40,someone else,25,16,,16,female,,53.299999,,60.299999
+1755,,someone else,73,10,12,12,male,,27.700001,49.900002,
+1756,45,someone else,27,19,15,12,male,conservative,86.5,63.5,39.599998
+1757,,someone else,33,12,,0,female,moderate,29.299999,,
+1758,40,someone else,39,11,,12,female,,33.099998,,29.299999
+1759,40,someone else,41,8,,,female,,36.200001,,
+1760,,someone else,24,14,,14,male,liberal,38.900002,,71.199997
+1761,,someone else,54,15,,8,female,,54.200001,,22.5
+1762,,someone else,27,12,,12,female,,53.299999,,38.400002
+1763,37,someone else,44,12,12,12,female,moderate,29.299999,54.200001,
+1764,,someone else,62,12,,12,female,,37.700001,,22.9
+1765,45,self-employed,35,12,9,12,male,moderate,63.5,31.5,28.4
+1766,,someone else,20,13,14,14,male,,26.5,27.700001,73.199997
+1767,40,someone else,23,17,11,12,female,,80.300003,32.299999,32.400002
+1768,35,someone else,39,9,,,male,,34.200001,29.5,
+1769,89,someone else,50,16,14,12,female,moderate,85.099998,59.099998,38.900002
+1770,41,someone else,32,12,12,10,female,moderate,37.700001,31.5,32.400002
+1771,54,someone else,44,12,12,12,male,moderate,63.5,34.299999,38.400002
+1772,16,someone else,65,12,12,8,female,,27.200001,37.299999,38.900002
+1773,,someone else,66,10,3,3,male,extrmly conservative,28.4,37.299999,
+1774,40,someone else,38,19,8,8,female,,78.5,34.299999,29.299999
+1775,55,someone else,54,20,,,male,slghtly conservative,36.400002,76.400002,
+1776,,someone else,44,12,9,8,female,moderate,62.5,31.5,
+1777,45,someone else,61,15,10,12,male,moderate,87.900002,49.299999,
+1778,60,someone else,48,19,14,12,female,,78.5,63.5,
+1779,40,someone else,46,16,18,12,female,,73.199997,64.099998,38.400002
+1780,40,someone else,23,16,16,12,male,moderate,86.5,72,50.700001
+1781,55,someone else,24,16,12,16,male,,50.700001,62.5,73.199997
+1782,37,someone else,37,14,13,8,female,,57.099998,63.5,
+1783,,someone else,63,12,11,8,female,,36.5,37.299999,
+1784,,someone else,43,18,14,15,female,,62.5,63.5,
+1785,45,someone else,37,16,12,,male,moderate,92.800003,38.900002,
+1786,40,someone else,61,16,,16,female,moderate,74.400002,,38.400002
+1787,45,someone else,45,18,20,12,female,,63.5,86.599998,38.400002
+1788,22,someone else,43,14,12,14,female,,64.099998,66.099998,35.200001
+1789,89,someone else,51,16,12,12,male,conservative,59.299999,,38.400002
+1790,,someone else,45,13,,,female,slghtly conservative,38.400002,,
+1791,,self-employed,46,20,12,12,male,moderate,60.5,36.5,38.900002
+1792,30,self-employed,56,16,9,12,male,,76.400002,48.5,75.199997
+1793,55,someone else,43,16,9,12,female,,64.099998,36.400002,36.900002
+1794,,someone else,73,16,,10,male,slghtly conservative,78,,
+1795,20,someone else,46,12,11,16,female,,37.5,52.400002,73.199997
+1796,37,someone else,51,14,8,5,female,,51.900002,38,17.1
+1797,,someone else,44,12,12,14,male,moderate,60.5,63.5,
+1798,50,someone else,50,16,12,12,male,slghtly conservative,80.300003,48.5,26.4
+1799,84,someone else,48,13,12,14,male,,37.200001,50.700001,
+1800,48,self-employed,24,10,14,,male,,31.4,,
+1801,,someone else,52,14,16,12,female,slightly liberal,63.5,54.700001,63.5
+1802,,someone else,43,16,16,12,female,slightly liberal,,48.5,30.700001
+1803,48,someone else,38,15,,15,male,,45.700001,,50.700001
+1804,,someone else,65,18,8,8,female,moderate,85.699997,46,38.900002
+1805,55,someone else,33,16,12,12,male,conservative,64.099998,63.5,
+1806,40,someone else,57,17,12,12,female,slightly liberal,79.800003,73.599998,38.400002
+1807,40,someone else,33,14,12,12,male,slghtly conservative,54.5,63.5,36.900002
+1808,20,someone else,24,14,,,male,,,,
+1809,40,self-employed,52,18,13,12,female,,81,73.599998,
+1810,30,someone else,32,16,12,12,female,slghtly conservative,69.199997,35.400002,38.400002
+1811,,someone else,84,16,,12,male,,86,,75.199997
+1812,,someone else,74,12,8,12,female,,29.299999,64.099998,17.1
+1813,5,someone else,71,13,13,10,female,slightly liberal,56.5,50.700001,
+1814,,someone else,81,18,8,8,female,extremely liberal,78.5,65.800003,
+1815,42,someone else,28,16,12,12,female,,73.800003,34.200001,37.700001
+1816,40,someone else,41,13,,,female,,33.900002,,
+1817,70,self-employed,53,14,13,12,male,,63.5,63.5,50.700001
+1818,45,someone else,44,13,0,,male,,35.099998,20.1,
+1819,,someone else,44,18,,12,female,moderate,61.900002,,38.400002
+1820,24,someone else,54,16,16,12,female,,78.5,63.5,
+1821,60,self-employed,56,12,12,12,male,moderate,63.5,33.900002,
+1822,,someone else,76,16,6,13,male,conservative,63.5,63.5,
+1823,50,someone else,43,16,12,13,male,,73.300003,,50.700001
+1824,60,someone else,49,16,16,16,male,,82.699997,73.300003,37.700001
+1825,55,someone else,42,19,18,12,male,moderate,63.5,86.800003,
+1826,,someone else,45,16,15,12,female,,76.400002,63.5,
+1827,25,self-employed,49,15,11,13,female,,60.599998,37.299999,63.5
+1828,35,someone else,49,14,16,12,female,extrmly conservative,58.299999,,38
+1829,45,someone else,39,16,12,15,female,slghtly conservative,64.099998,,38.400002
+1830,,someone else,53,18,13,12,female,,68.099998,63.5,30.700001
+1831,32,someone else,64,15,,,female,,73.199997,,
+1832,12,someone else,43,14,,10,male,,34.799999,,37
+1833,24,someone else,22,14,16,12,female,,68.099998,63.5,27.5
+1834,40,someone else,38,10,12,20,female,moderate,68.099998,65.800003,78.800003
+1835,,someone else,64,16,,6,male,conservative,63.5,,
+1836,55,someone else,27,18,,12,female,,51.900002,,50.700001
+1837,40,self-employed,39,12,14,10,female,,37.299999,29.4,
+1838,60,self-employed,60,16,8,12,male,conservative,50.700001,32.299999,37
+1839,40,someone else,69,15,6,8,female,moderate,73.199997,37.299999,
+1840,40,someone else,31,16,16,12,female,,76.400002,76.300003,33.099998
+1841,45,self-employed,36,12,,13,male,,38.700001,,39.599998
+1842,40,someone else,24,14,,13,male,,29.200001,,27.700001
+1843,48,someone else,52,15,,15,male,,52.400002,,
+1844,20,someone else,53,11,8,5,male,slightly liberal,36.5,24.200001,
+1845,40,someone else,52,13,9,10,female,extrmly conservative,37.700001,28.6,20.1
+1846,40,someone else,51,12,8,6,female,,63.5,37.299999,26.5
+1847,,someone else,53,8,,8,female,liberal,33.099998,,22.5
+1848,47,someone else,25,12,,15,female,extrmly conservative,33.099998,,31.5
+1849,40,someone else,32,12,12,,male,moderate,29.200001,31.5,29.200001
+1850,32,someone else,36,9,0,0,male,,29.4,29.4,
+1851,41,someone else,27,14,,12,male,slightly liberal,37.900002,,38.400002
+1852,24,someone else,36,12,,16,male,moderate,33.200001,,
+1853,,someone else,69,19,14,5,male,,80.300003,78.5,
+1854,,someone else,80,17,12,12,male,liberal,97.199997,37.700001,
+1855,,someone else,83,14,,2,male,,78.5,,
+1856,,someone else,59,12,12,12,female,,34.599998,,
+1857,,someone else,74,12,12,8,male,slghtly conservative,45.900002,38.700001,
+1858,40,someone else,46,15,,,male,,64.099998,,
+1859,30,someone else,63,20,3,3,male,,80.300003,63.5,
+1860,15,someone else,56,18,12,12,male,extremely liberal,75.199997,86.599998,38.400002
+1861,60,someone else,25,16,13,,male,slightly liberal,56.5,62.200001,
+1862,40,someone else,56,19,12,12,male,liberal,92.300003,31.5,38.400002
+1863,45,someone else,38,20,20,16,male,,87,97.199997,
+1864,30,someone else,31,16,12,20,female,,85.099998,64.099998,80.900002
+1865,40,someone else,32,20,19,16,male,slightly liberal,87,92.300003,
+1866,,someone else,32,20,18,12,female,,86,80.300003,
+1867,38,someone else,51,18,14,19,female,,73.199997,63.5,73.199997
+1868,,someone else,82,15,14,12,male,moderate,68.099998,50.700001,
+1869,,someone else,76,12,12,10,female,,41.299999,50.700001,
+1870,55,someone else,51,16,12,12,male,,63.5,29.299999,17.1
+1871,44,someone else,62,18,,18,female,moderate,73.900002,,56.599998
+1872,40,someone else,55,16,,14,male,moderate,63.5,,20.1
+1873,,someone else,47,16,20,12,female,moderate,57.099998,78,38.400002
+1874,10,someone else,38,20,16,16,male,,29.200001,63.5,33.799999
+1875,50,self-employed,55,16,16,16,male,moderate,57.099998,63.5,78.5
+1876,,self-employed,49,18,8,12,female,slightly liberal,63.200001,50.700001,
+1877,,someone else,60,15,,,female,,73.199997,39.400002,25.5
+1878,20,someone else,48,12,12,12,female,moderate,33.099998,,
+1879,25,self-employed,53,18,12,16,female,extremely liberal,30.799999,48.799999,78.5
+1880,,someone else,46,14,10,12,female,,48.900002,73.800003,
+1881,,someone else,53,16,17,12,female,,64.800003,86,
+1882,38,someone else,44,15,14,12,female,,63.5,63.200001,32.400002
+1883,60,someone else,33,18,11,18,female,liberal,69.199997,33.599998,69.199997
+1884,,,54,10,,,female,extremely liberal,,26.700001,27.5
+1885,50,someone else,35,12,12,12,male,extrmly conservative,34.299999,50.5,73.199997
+1886,,someone else,18,12,,,male,extremely liberal,40,,
+1887,,self-employed,61,12,,12,male,,31.299999,,22.5
+1888,40,someone else,55,12,12,8,female,,73.800003,62,
+1889,35,someone else,30,11,,4,female,,60.599998,50.700001,
+1890,,,22,16,12,12,female,,,,
+1891,58,someone else,52,13,,15,male,slightly liberal,48.599998,,37.700001
+1892,46,someone else,45,16,,14,male,,62.5,,57.099998
+1893,40,someone else,33,18,12,12,male,,45.900002,27.5,
+1894,40,someone else,35,17,17,14,male,,76.300003,86.599998,
+1895,60,someone else,51,19,12,12,female,moderate,73.199997,31.5,17.1
+1896,40,someone else,27,13,,14,female,,68.099998,,54.200001
+1897,40,someone else,42,16,15,14,male,,83.699997,36.5,78.5
+1898,60,someone else,25,15,14,12,male,,29.799999,63.200001,
+1899,40,someone else,50,12,,8,male,slightly liberal,29.5,,
+1900,64,someone else,29,12,12,14,female,extremely liberal,53.700001,49.599998,74.400002
+1901,,someone else,35,12,,12,female,,33.099998,,36.5
+1902,40,someone else,25,12,,,female,,83.699997,,
+1903,40,someone else,49,14,12,12,female,,64.199997,53.900002,
+1904,,self-employed,71,19,,,female,slghtly conservative,67,,
+1905,24,someone else,30,18,,14,female,,33.099998,,76.300003
+1906,32,someone else,39,10,7,7,male,moderate,40.200001,26.5,26.5
+1907,50,someone else,38,16,16,12,female,moderate,76.300003,,
+1908,,someone else,77,12,12,12,female,,36.5,50.5,
+1909,,self-employed,73,10,,,female,,73.199997,29.200001,25.5
+1910,,someone else,84,7,,,female,,35.200001,28.6,
+1911,45,someone else,33,17,14,17,male,slightly liberal,73.300003,36.5,69.699997
+1912,55,someone else,54,12,10,13,female,,53.299999,29.799999,38.900002
+1913,45,someone else,31,20,20,16,female,,84,96,
+1914,48,self-employed,55,17,8,8,male,conservative,83.699997,34.299999,
+1915,50,someone else,53,18,18,16,male,slightly liberal,78.5,80.300003,80.300003
+1916,16,,54,18,12,12,female,,60.599998,62,63.5
+1917,12,self-employed,52,15,5,12,male,,83.699997,37.200001,26.4
+1918,40,someone else,29,16,,12,male,slghtly conservative,76.400002,,29.299999
+1919,40,someone else,34,12,9,12,female,,51.799999,,73.199997
+1920,60,someone else,28,12,12,8,female,conservative,33.299999,62.099998,
+1921,,someone else,59,5,,,female,,28.4,,
+1922,83,someone else,,20,14,14,male,,63.200001,54.200001,37.299999
+1923,17,someone else,64,14,,9,male,moderate,35.099998,,25.5
+1924,16,self-employed,68,12,10,10,male,,39.400002,53.900002,
+1925,,self-employed,67,12,,,female,,38,,
+1926,70,self-employed,56,12,4,12,male,conservative,26.9,34.200001,
+1927,,someone else,19,12,12,16,female,moderate,37.700001,38.099998,78.5
+1928,,someone else,71,9,0,0,male,slightly liberal,31.5,37.299999,22.5
+1929,30,self-employed,64,16,16,12,male,,92.300003,37.299999,
+1930,,someone else,58,12,8,8,female,,32.400002,29.200001,29
+1931,,someone else,84,8,0,8,female,extrmly conservative,74.400002,37.299999,
+1932,3,someone else,29,19,6,7,female,,80.300003,31.5,22.5
+1933,3,self-employed,70,7,8,4,female,,22.5,26.5,
+1934,,someone else,89,0,4,0,male,conservative,24.200001,37.299999,22.5
+1935,40,someone else,59,12,0,0,female,moderate,17.1,30.200001,
+1936,,self-employed,85,8,0,0,female,,22.5,37.299999,
+1937,40,someone else,39,15,12,14,male,moderate,50.299999,48.5,
+1938,75,self-employed,50,13,12,12,male,conservative,49.599998,63.5,
+1939,40,someone else,37,13,,12,female,,36.5,,32.400002
+1940,60,someone else,25,16,18,18,female,,69.199997,69.199997,69.199997
+1941,41,someone else,37,15,8,12,male,,34.200001,35.400002,34.400002
+1942,40,someone else,30,14,11,0,female,slghtly conservative,29.299999,28.6,25.200001
+1943,45,self-employed,32,12,,8,female,moderate,19.4,,
+1944,40,someone else,41,13,,,male,,39.400002,,
+1945,45,someone else,34,14,12,12,female,,63.5,,
+1946,,someone else,47,14,13,12,female,moderate,38,62.5,50.700001
+1947,65,someone else,28,16,16,14,male,,78.5,63.5,37.700001
+1948,47,someone else,50,12,12,12,female,,38.400002,45.299999,38.400002
+1949,55,self-employed,59,12,,8,female,slghtly conservative,50.700001,63.5,
+1950,,someone else,30,16,14,13,female,,68.099998,64.199997,
+1951,20,self-employed,46,19,15,15,male,,92.300003,93.099998,93.099998
+1952,,someone else,40,12,,12,female,,61.900002,,21.200001
+1953,40,self-employed,56,14,12,12,male,conservative,38.700001,31.5,38.400002
+1954,,someone else,68,10,10,12,female,,38,37.400002,25.5
+1955,,someone else,58,12,10,12,female,moderate,38.400002,63.5,25.5
+1956,,someone else,45,14,8,8,female,,40.200001,50.700001,38.400002
+1957,65,self-employed,41,17,14,14,male,,63.5,48.5,36.5
+1958,48,someone else,30,14,16,12,male,moderate,27.700001,76.400002,33.599998
+1959,40,someone else,41,18,16,13,male,slghtly conservative,71.599998,38.200001,
+1960,,someone else,60,15,8,8,female,conservative,37.700001,37.299999,
+1961,,someone else,57,12,16,,male,,31.5,31.5,32.400002
+1962,5,someone else,20,14,12,14,male,extremely liberal,84.199997,34.299999,63.5
+1963,46,someone else,47,18,,,female,slightly liberal,73.199997,,
+1964,40,someone else,47,12,12,16,female,,96,60.599998,78.5
+1965,,self-employed,41,15,18,18,female,,33.099998,65.800003,80.300003
+1966,29,someone else,23,11,,12,female,,26.4,,48.599998
+1967,60,someone else,42,14,13,12,female,moderate,73.199997,25.200001,25.200001
+1968,47,someone else,24,16,13,14,female,,82.699997,49.599998,45.400002
+1969,60,self-employed,30,12,,12,female,,33.099998,,30.5
+1970,,someone else,29,10,,10,male,,28.4,60.599998,
+1971,60,self-employed,36,16,,16,male,slghtly conservative,76.300003,,84
+1972,,someone else,87,15,,8,female,slghtly conservative,43.700001,36.400002,27.5
+1973,50,someone else,31,12,10,12,male,,49.599998,48.5,
+1974,52,someone else,52,12,12,12,male,moderate,45.900002,61.900002,32
+1975,38,self-employed,77,16,13,12,male,conservative,37,36.400002,
+1976,,someone else,33,17,16,17,female,,78.5,58.799999,56.599998
+1977,46,someone else,35,12,8,12,male,,38.200001,37.799999,25.200001
+1978,50,someone else,36,18,14,12,female,,85.099998,,38
+1979,,someone else,83,12,6,,female,moderate,52.299999,36.5,
+1980,45,someone else,46,14,,12,male,slghtly conservative,86,64.199997,38.400002
+1981,,someone else,63,12,,12,female,,69.199997,,26.700001
+1982,,someone else,83,8,12,12,male,,32,86.800003,17.6
+1983,40,someone else,55,12,12,12,female,moderate,38.400002,45.900002,62.099998
+1984,48,someone else,49,14,12,12,male,conservative,63.5,63.200001,22.700001
+1985,,someone else,77,10,,,male,,48.5,27.700001,27.700001
+1986,25,self-employed,71,13,15,15,female,,50.700001,63.5,
+1987,50,someone else,56,20,12,12,male,liberal,87,87.900002,
+1988,,self-employed,76,12,,,female,slightly liberal,74.400002,63.5,
+1989,,someone else,57,17,,,male,,38.900002,,
+1990,45,someone else,46,13,14,12,female,slightly liberal,37.700001,63.5,37.700001
+1991,,someone else,64,11,,12,male,slightly liberal,31.5,,
+1992,50,self-employed,65,12,,12,male,,31.5,29.4,48.5
+1993,28,someone else,26,12,8,10,female,,37.599998,31.5,25.799999
+1994,12,someone else,23,12,12,12,female,liberal,37.700001,74.400002,37.700001
+1995,16,self-employed,40,17,8,12,female,,57.099998,37.299999,
+1996,32,someone else,45,13,6,6,female,,32.400002,63.200001,64.199997
+1997,12,someone else,59,14,20,16,male,,38.900002,73.900002,50.5
+1998,,someone else,81,12,1,2,male,moderate,38.099998,34.200001,
+1999,,someone else,76,12,,,female,slghtly conservative,38.400002,28.6,34.799999
+2000,61,someone else,35,12,12,9,male,liberal,29.200001,31.4,32
+2001,,someone else,64,6,,,male,,29.200001,,22.5
+2002,,someone else,19,12,,12,female,,29,,33.099998
+2003,,someone else,69,11,,,male,moderate,29,26.5,22.5
+2004,,someone else,31,12,12,12,female,,22.700001,29.4,27.5
+2005,,someone else,53,10,,,female,liberal,37.700001,,
+2006,,someone else,76,12,9,9,female,,78.5,36.5,62.200001
+2007,,someone else,57,13,8,10,male,,36.5,38,26.700001
+2008,,someone else,57,12,8,8,female,moderate,50.700001,27.700001,17.1
+2009,40,someone else,58,12,8,8,male,conservative,47,34.200001,22.5
+2010,40,someone else,36,15,3,,female,slghtly conservative,73.199997,32.299999,
+2011,38,self-employed,63,14,12,12,male,,64.199997,55.299999,38.900002
+2012,60,someone else,35,16,16,12,male,,78.5,78.5,
+2013,40,someone else,54,6,,12,male,moderate,74.400002,19.4,20.1
+2014,40,someone else,56,12,6,3,female,extrmly conservative,45.299999,31.299999,
+2015,16,someone else,51,13,14,13,female,moderate,36.900002,29.299999,27.5
+2016,,someone else,30,19,20,14,female,,64.800003,92.300003,63.5
+2017,,someone else,46,14,,,female,,73.199997,,
+2018,40,someone else,40,10,,9,female,moderate,37.400002,28.6,
+2019,28,someone else,28,13,,10,female,,22.9,,38.400002
+2020,,someone else,74,3,0,0,female,conservative,38.900002,20.1,
+2021,,someone else,77,12,6,,female,moderate,76.300003,30.6,
+2022,2,someone else,72,18,20,16,female,moderate,72.5,83.199997,78.5
+2023,,someone else,68,7,12,6,male,,48.5,27.700001,
+2024,,someone else,70,8,9,7,male,,17.6,37.299999,
+2025,39,someone else,33,12,6,7,male,moderate,36.5,31.5,17.6
+2026,42,someone else,39,11,8,12,male,extrmly conservative,29.4,34.200001,33.099998
+2027,40,someone else,54,12,9,9,female,moderate,22.700001,27.700001,25.299999
+2028,36,someone else,39,16,12,12,female,liberal,27.5,27.700001,50.5
+2029,40,someone else,41,16,12,12,male,,83.699997,44.700001,
+2030,,someone else,68,16,,8,male,,69.699997,,
+2031,37,self-employed,70,12,7,12,male,,49.599998,50.700001,
+2032,52,someone else,60,14,,12,male,slghtly conservative,37.299999,,32
+2033,30,someone else,20,8,,6,male,moderate,27.5,,
+2034,32,someone else,27,12,14,12,male,slghtly conservative,36.5,29.4,29.299999
+2035,,someone else,44,12,20,15,female,,36.5,73.900002,73.199997
+2036,,someone else,70,12,8,12,male,,38.099998,37.299999,78.5
+2037,,someone else,28,17,,,female,,33.599998,,
+2038,40,someone else,36,13,12,12,female,moderate,33.099998,43.400002,38.400002
+2039,50,someone else,54,11,8,8,female,,48.5,36.5,17.1
+2040,,someone else,70,18,10,14,male,,69.199997,37.299999,22.6
+2041,20,self-employed,74,12,8,8,male,slghtly conservative,37.299999,37.299999,
+2042,,self-employed,83,12,9,12,male,slghtly conservative,37.299999,37.299999,
+2043,40,someone else,42,14,13,12,female,,59.900002,27.700001,50.700001
+2044,45,someone else,40,12,6,12,male,,37.200001,42.200001,
+2045,40,someone else,35,12,12,12,female,,41.599998,37.299999,
+2046,30,someone else,42,17,12,12,female,moderate,56.599998,38.099998,38.900002
+2047,35,self-employed,38,12,9,12,female,moderate,22.5,31.5,
+2048,45,someone else,40,15,12,12,female,,85.099998,48.5,
+2049,70,someone else,41,14,12,8,male,,52.400002,37.299999,
+2050,45,someone else,27,16,14,13,male,,86.5,46.799999,68.099998
+2051,,someone else,60,13,,10,male,slghtly conservative,63.200001,,27.5
+2052,35,someone else,55,12,12,12,female,slightly liberal,38.900002,27.700001,32.400002
+2053,53,someone else,23,12,13,11,male,moderate,28.4,,22.6
+2054,40,self-employed,57,12,8,12,female,,50.700001,33.099998,48.5
+2055,,someone else,48,12,8,10,male,,25.200001,37.299999,
+2056,,self-employed,67,11,8,8,female,,26.4,30.1,
+2057,40,someone else,25,13,8,8,female,slightly liberal,40.400002,31.200001,
+2058,,someone else,42,14,12,12,female,,38,32.700001,42.5
+2059,55,self-employed,33,15,12,12,male,,34.200001,32.299999,27.700001
+2060,40,someone else,48,18,12,12,female,,78.5,37.299999,33.099998
+2061,40,someone else,46,18,12,13,female,slghtly conservative,80.300003,33.099998,37.700001
+2062,,someone else,84,12,7,,male,conservative,49.599998,42.200001,25.200001
+2063,40,someone else,58,17,20,16,female,,56.599998,97.199997,
+2064,18,self-employed,64,16,8,8,female,,74.400002,37.299999,
+2065,40,someone else,46,15,8,14,female,,38.400002,48.5,38.400002
+2066,36,someone else,41,16,16,13,male,slghtly conservative,86,36.5,
+2067,35,someone else,45,12,12,10,female,moderate,52.299999,28.4,32.400002
+2068,45,someone else,31,12,13,12,male,,39,36.5,
+2069,,,61,8,9,7,female,slghtly conservative,,38.5,21.200001
+2070,,self-employed,47,10,6,12,female,moderate,64.099998,36.5,26.700001
+2071,,someone else,25,13,12,12,female,,48.900002,,74.099998
+2072,,,22,13,11,8,female,moderate,,30,
+2073,32,someone else,64,10,,11,female,moderate,38.900002,,37.700001
+2074,20,someone else,22,14,12,17,female,extrmly conservative,36.5,26.700001,38.400002
+2075,40,someone else,33,17,12,12,male,moderate,63.5,50.700001,
+2076,30,someone else,22,16,13,12,male,,84.699997,63.5,50.700001
+2077,,,22,14,12,10,male,slightly liberal,,38.5,
+2078,30,self-employed,24,13,13,13,female,,34.400002,34.200001,53.299999
+2079,,self-employed,74,12,8,8,female,moderate,25.5,31.5,
+2080,35,someone else,40,20,16,12,female,conservative,78.5,,
+2081,40,someone else,46,16,12,12,male,conservative,85.099998,38.400002,
+2082,40,someone else,43,20,16,12,female,,87,85.099998,
+2083,,someone else,30,20,12,12,female,,73.199997,63.5,38
+2084,44,someone else,24,16,16,14,male,moderate,50.700001,80,29.299999
+2085,,someone else,70,11,,,female,moderate,48.5,,
+2086,40,someone else,30,12,,16,female,,38.400002,,69.199997
+2087,8,someone else,23,14,16,20,male,,83.699997,44.700001,81.900002
+2088,44,someone else,56,12,8,12,female,,85.099998,29.4,26.4
+2089,40,someone else,29,12,13,12,male,slghtly conservative,62,37.299999,38.400002
+2090,40,someone else,23,14,13,16,male,moderate,63.200001,59,59
+2091,20,someone else,23,16,16,14,male,,35.099998,63.5,73.199997
+2092,40,someone else,29,16,12,12,male,,30.799999,49.900002,30.700001
+2093,15,someone else,53,13,12,12,male,,33.200001,35.400002,
+2094,40,someone else,50,12,12,16,male,moderate,34.200001,22.9,78.5
+2095,50,someone else,54,20,12,6,female,,66.099998,37.299999,
+2096,65,someone else,37,18,12,16,male,,59.299999,27.700001,33.099998
+2097,12,someone else,23,15,14,18,male,moderate,49.599998,30.1,69.199997
+2098,43,someone else,46,9,4,,male,,34.299999,37.299999,
+2099,,someone else,60,14,,8,male,slghtly conservative,36.700001,,
+2100,,someone else,68,14,3,12,female,,36.5,28.6,27.5
+2101,49,someone else,35,12,4,6,female,,29.299999,37.299999,
+2102,70,someone else,37,9,9,4,male,,63.5,24.200001,
+2103,40,someone else,23,12,5,12,male,,63.5,86,
+2104,,someone else,65,4,,8,male,conservative,26.5,37.299999,32.400002
+2105,48,someone else,30,12,12,12,male,moderate,29.4,73.900002,
+2106,32,someone else,28,14,,16,male,,31.700001,,17.1
+2107,,someone else,82,8,3,3,female,,17.1,37.299999,
+2108,30,self-employed,55,10,4,8,male,conservative,26.9,37.299999,
+2109,50,someone else,63,8,8,8,male,conservative,26.5,26.5,
+2110,40,someone else,41,13,8,9,male,moderate,37.200001,36.5,17.1
+2111,40,someone else,47,12,5,6,female,slghtly conservative,29.299999,26.9,
+2112,40,someone else,46,12,12,11,male,,33.099998,63.200001,27.700001
+2113,20,someone else,69,8,8,8,male,,33.599998,37.299999,
+2114,45,someone else,56,18,18,16,female,,63.5,68.800003,78.5
+2115,,someone else,29,10,,11,female,,33.099998,28.6,27.5
+2116,40,someone else,33,8,6,12,female,moderate,29.299999,28.6,
+2117,,,51,10,4,,male,,,37.299999,
+2118,40,someone else,56,14,2,4,male,,37.799999,39.400002,37.299999
+2119,,someone else,62,16,0,7,male,,69.199997,26.5,63.5
+2120,,someone else,39,11,10,,male,conservative,36.5,31.299999,
+2121,,someone else,89,4,0,0,male,extremely liberal,26.9,37.299999,
+2122,,someone else,43,12,6,8,male,moderate,34.200001,34.200001,
+2123,42,someone else,28,11,9,8,male,conservative,32.299999,31.5,
+2124,40,someone else,22,11,11,10,male,,34.200001,34.200001,73.199997
+2125,84,someone else,45,8,,10,male,,35.099998,,35.200001
+2126,,,75,0,0,0,female,slghtly conservative,,45,
+2127,,someone else,33,11,3,4,female,slghtly conservative,28.4,26.5,
+2128,40,self-employed,57,12,3,0,female,moderate,25.5,26.5,
+2129,,someone else,60,16,10,16,male,,69.699997,36.099998,38.400002
+2130,,,28,12,9,8,female,conservative,,27.5,
+2131,,someone else,41,12,8,8,male,,38.5,37.299999,29.299999
+2132,,someone else,65,7,0,0,male,,27.5,26.5,
+2133,40,someone else,39,12,16,12,female,conservative,,86.599998,76.400002
+2134,,someone else,56,14,12,9,female,conservative,35.400002,44.700001,
+2135,80,someone else,38,11,6,5,male,,31.5,37.299999,
+2136,,someone else,64,12,5,12,male,extremely liberal,32.700001,28.6,62.5
+2137,,someone else,60,12,5,0,female,moderate,38.400002,36.400002,
+2138,42,someone else,46,12,12,12,female,moderate,83.699997,26.6,
+2139,52,someone else,52,13,8,12,male,moderate,45.900002,38.400002,
+2140,70,someone else,41,19,16,13,male,,63.5,78,38.400002
+2141,,someone else,64,13,10,8,female,,68.099998,29.200001,
+2142,,someone else,33,16,8,12,female,slightly liberal,63.200001,32.299999,53.200001
+2143,40,someone else,27,12,14,,female,moderate,26.6,42.200001,
+2144,37,someone else,28,15,12,12,female,,63.5,36.5,38.400002
+2145,50,someone else,36,16,17,12,male,,49.599998,78.5,37.700001
+2146,55,someone else,46,14,12,12,male,slightly liberal,35.099998,31.5,37.700001
+2147,45,someone else,54,12,10,12,male,,30.1,26.9,37.5
+2148,,,71,12,,,female,,,29.200001,29.200001
+2149,50,self-employed,45,12,6,12,female,,41.599998,32.299999,35.099998
+2150,,someone else,50,12,,,male,moderate,39,,
+2151,50,someone else,51,14,8,2,female,conservative,54.200001,63.200001,54.200001
+2152,60,someone else,53,12,9,12,male,conservative,64.099998,30.1,38.900002
+2153,40,someone else,34,12,,12,female,,22.700001,,
+2154,40,someone else,43,14,12,12,male,,34.200001,29.799999,38.400002
+2155,,someone else,47,12,8,14,female,slghtly conservative,32.400002,38.200001,38.400002
+2156,65,someone else,33,2,2,2,male,moderate,37.599998,33.099998,21.200001
+2157,,someone else,37,12,12,12,female,,26.4,26.6,33.599998
+2158,40,someone else,53,14,,12,female,moderate,29.299999,,63.5
+2159,48,someone else,44,12,5,9,female,slightly liberal,29.299999,26.5,29.200001
+2160,18,someone else,19,12,12,12,male,moderate,34.299999,31.4,38.400002
+2161,,someone else,26,8,12,12,male,,39.400002,29.200001,26.700001
+2162,,someone else,87,12,8,8,female,extrmly conservative,38.900002,22.700001,
+2163,,someone else,85,8,,8,male,moderate,37.299999,37.299999,
+2164,40,self-employed,49,12,12,12,male,,63.5,27.700001,67
+2165,40,someone else,48,13,12,12,female,,27.5,52.400002,38.400002
+2166,37,someone else,43,13,8,12,female,moderate,35.400002,37.299999,74.400002
+2167,35,someone else,47,13,10,17,female,slightly liberal,29.299999,63.5,75.199997
+2168,50,someone else,31,14,12,,female,moderate,64.400002,46.700001,
+2169,,someone else,80,12,,,female,,74.400002,36.200001,30.700001
+2170,40,someone else,35,13,12,8,male,,27.200001,38.200001,
+2171,55,someone else,52,12,12,13,male,liberal,48.5,69.699997,50.700001
+2172,40,someone else,24,13,15,,female,moderate,27.700001,32.299999,
+2173,,someone else,72,12,,9,male,liberal,31.5,,
+2174,,someone else,22,14,15,13,female,,33.099998,76.400002,33.099998
+2175,40,someone else,60,11,5,10,male,,39.400002,37.799999,73.199997
+2176,,someone else,68,16,12,12,male,moderate,65.800003,63.5,
+2177,25,self-employed,49,12,11,12,female,,50.700001,24.200001,
+2178,,someone else,27,15,13,12,female,,93.099998,28.6,
+2179,60,self-employed,43,12,9,12,male,moderate,35.099998,38.099998,
+2180,,,51,7,,12,female,,,,50.5
+2181,40,someone else,46,12,12,12,male,,63.5,,
+2182,,someone else,87,8,,8,male,liberal,61.900002,,
+2183,84,self-employed,69,10,,,male,moderate,34.200001,29.799999,
+2184,53,someone else,41,13,12,12,male,,31.5,32.299999,
+2185,31,someone else,32,13,,12,female,,33.099998,,46.700001
+2186,53,someone else,34,14,16,12,female,slightly liberal,36.5,,
+2187,20,someone else,56,12,6,14,female,,32.400002,37.299999,78.5
+2188,32,someone else,41,8,,,female,extremely liberal,27.5,35.099998,30.700001
+2189,,someone else,72,7,2,,female,extrmly conservative,26.5,37.299999,
+2190,6,someone else,50,13,10,9,female,moderate,38.400002,26.5,17.1
+2191,30,self-employed,37,13,,16,male,,37.299999,,73.199997
+2192,,,55,12,8,8,female,,,37.299999,
+2193,40,someone else,57,12,14,9,female,,53.299999,58.099998,
+2194,60,self-employed,45,12,,,male,moderate,37.299999,,36.700001
+2195,40,someone else,40,12,6,12,male,,48.5,26.5,
+2196,,someone else,51,8,10,11,male,,60.5,38.400002,38.400002
+2197,40,someone else,31,16,3,14,female,,62.5,63.5,63.5
+2198,40,someone else,25,16,13,12,female,,31.200001,26.700001,29.299999
+2199,,someone else,75,1,16,12,male,moderate,48.900002,37.299999,
+2200,36,someone else,29,15,16,13,female,conservative,73.199997,86.900002,38.400002
+2201,41,someone else,23,12,12,12,female,,41.599998,37.299999,
+2202,8,someone else,20,12,11,,female,moderate,33.099998,29.200001,
+2203,58,someone else,37,11,,,female,extremely liberal,18.5,,
+2204,,someone else,42,12,11,12,male,liberal,45.299999,63.5,63.5
+2205,50,self-employed,34,14,10,12,female,,33.099998,63.5,64.199997
+2206,36,someone else,46,11,,9,female,,26.5,44.700001,
+2207,45,someone else,33,16,16,13,female,,78.5,71.5,29
+2208,31,someone else,44,13,12,13,female,,41.599998,63.5,68.099998
+2209,40,someone else,40,16,12,13,female,slghtly conservative,73.199997,28.4,27.5
+2210,,,19,11,12,10,female,,,48.900002,53.900002
+2211,25,someone else,20,12,12,,female,,27.5,37.299999,
+2212,40,someone else,29,12,12,12,male,conservative,34.200001,34.200001,50.700001
+2213,39,someone else,58,12,12,8,female,moderate,29.299999,64.099998,18.5
+2214,,self-employed,76,8,,,female,,22.5,37.299999,
+2215,75,someone else,47,17,10,12,female,,80.300003,63.5,27.5
+2216,42,someone else,39,12,8,,female,,38.900002,29.5,
+2217,40,someone else,30,12,18,12,male,moderate,30.1,63.5,38.900002
+2218,38,someone else,23,15,12,14,female,slghtly conservative,35.400002,37.299999,33.900002
+2219,70,someone else,30,11,,12,male,moderate,34.200001,,67
+2220,60,someone else,29,13,12,18,male,,24.200001,37.299999,37.400002
+2221,50,someone else,36,13,12,14,male,,26.5,37.299999,
+2222,,someone else,86,4,0,0,female,conservative,22.5,37.299999,
+2223,70,someone else,23,12,12,13,male,,26.5,63.5,38.400002
+2224,40,someone else,54,10,12,8,female,,38,30.1,28.4
+2225,40,self-employed,43,12,,11,male,moderate,37.299999,,52.299999
+2226,50,someone else,50,16,17,12,male,conservative,37.400002,93.099998,50.700001
+2227,43,someone else,55,16,12,12,male,,63.200001,38.900002,78.5
+2228,85,someone else,32,11,11,14,male,liberal,32.299999,49.900002,
+2229,62,someone else,45,12,14,8,male,moderate,42.200001,55.299999,
+2230,66,someone else,23,12,12,12,male,slightly liberal,47.799999,29.4,
+2231,40,someone else,35,11,6,12,female,liberal,29.1,26.5,
+2232,45,someone else,40,12,8,9,male,,35.099998,26.9,33.200001
+2233,,someone else,40,12,,12,female,moderate,32.400002,,63.5
+2234,,someone else,72,17,7,12,male,conservative,80.300003,32,
+2235,,someone else,61,3,8,8,male,extremely liberal,26.5,26.4,22.5
+2236,,someone else,21,13,10,13,female,liberal,29.299999,34.200001,29.299999
+2237,,someone else,19,11,12,13,male,,37.299999,29.200001,30.700001
+2238,20,someone else,56,12,12,12,female,,29.799999,24.200001,29.799999
+2239,24,someone else,35,13,,,female,slghtly conservative,29.299999,,32.400002
+2240,,someone else,75,12,10,12,female,,38,69.699997,
+2241,40,someone else,45,12,7,8,male,moderate,28.6,28.6,21.200001
+2242,40,someone else,27,13,,,female,slightly liberal,29.299999,,
+2243,40,someone else,48,12,12,12,male,moderate,45.799999,37.299999,
+2244,40,someone else,37,14,7,9,male,,38.400002,26.9,22.5
+2245,,,31,13,,,female,slghtly conservative,,,
+2246,,someone else,54,12,3,6,female,conservative,,37.299999,
+2247,,someone else,73,6,10,8,female,,22.9,37.299999,
+2248,,someone else,53,12,5,10,female,,19.4,26.5,
+2249,40,someone else,45,10,0,,male,slghtly conservative,28.4,29.5,
+2250,,someone else,55,11,,0,male,,32.299999,,26.5
+2251,,someone else,41,10,6,0,female,,20.1,31.5,29
+2252,89,someone else,60,14,6,8,female,,30.799999,29.5,22.5
+2253,,someone else,75,16,18,12,female,,78.5,97.199997,
+2254,37,someone else,36,13,,,male,conservative,64.099998,,
+2255,62,someone else,26,12,,12,male,,33.599998,,
+2256,,someone else,46,15,6,,female,moderate,37.400002,26.5,
+2257,32,someone else,49,12,6,9,female,slghtly conservative,76.400002,,
+2258,,someone else,59,12,2,2,male,,37.299999,37.299999,
+2259,40,someone else,33,14,,11,female,,78,18.5,
+2260,32,someone else,55,11,,11,female,slghtly conservative,22.700001,,
+2261,40,someone else,49,11,7,6,female,conservative,29.299999,26.5,
+2262,48,someone else,47,14,,8,male,moderate,63.5,,26.5
+2263,,someone else,48,12,,12,male,,37.599998,,22.5
+2264,50,someone else,48,16,11,14,male,conservative,48.5,38.099998,38.400002
+2265,55,someone else,55,17,14,16,male,,50.700001,50.700001,69.199997
+2266,,someone else,65,12,,,female,,51.900002,37.299999,
+2267,,someone else,53,16,,,male,conservative,86.800003,49.599998,
+2268,48,someone else,37,12,12,10,male,moderate,63.5,90.800003,25.299999
+2269,65,self-employed,36,12,12,12,male,,63.5,64.099998,54.200001
+2270,24,someone else,34,13,10,14,female,,76.400002,38.099998,73.199997
+2271,22,someone else,32,13,12,12,female,slghtly conservative,29.200001,36.5,
+2272,55,someone else,52,16,14,12,male,liberal,85.099998,,
+2273,60,someone else,55,15,12,12,male,,62.099998,38.099998,
+2274,70,self-employed,63,14,4,,male,,63.5,17.6,17.6
+2275,50,someone else,41,11,12,12,male,,44.700001,29.4,37.700001
+2276,,someone else,52,12,7,12,male,,31.5,31.5,22.5
+2277,65,someone else,21,12,12,14,male,moderate,28.6,30.1,30.5
+2278,24,someone else,66,12,8,7,male,liberal,31.4,37.299999,
+2279,40,someone else,39,11,12,,female,,37.599998,48.5,
+2280,40,someone else,20,7,,7,male,,28.6,,
+2281,,someone else,36,9,,12,female,moderate,26.700001,28.4,27.5
+2282,38,someone else,22,12,,,female,,29,,
+2283,,,20,9,,,female,conservative,,,
+2284,47,someone else,37,12,12,16,male,,27.5,26.700001,78.5
+2285,72,someone else,45,16,14,14,male,,64.800003,27.700001,73.199997
+2286,40,someone else,46,14,,13,male,,26.700001,,63.200001
+2287,60,someone else,27,15,,14,female,slghtly conservative,63.5,,37.700001
+2288,40,someone else,43,16,14,14,female,liberal,77.800003,39.5,36.700001
+2289,16,someone else,77,12,8,3,female,,37.299999,37.299999,
+2290,40,someone else,64,13,,8,female,,38.400002,,
+2291,60,someone else,19,20,20,14,male,slightly liberal,97.199997,38.900002,56.599998
+2292,32,someone else,26,17,13,16,male,moderate,60.5,28.4,78.5
+2293,,someone else,79,12,8,12,male,,57.099998,26.5,
+2294,50,someone else,40,16,14,12,female,slghtly conservative,66.099998,26.5,
+2295,45,someone else,44,20,8,8,male,,73.199997,50.200001,33.900002
+2296,7,someone else,65,8,,6,female,,53.700001,48.5,27.5
+2297,40,someone else,50,16,12,12,female,moderate,87,37.599998,
+2298,45,someone else,38,15,14,12,female,slghtly conservative,50.700001,52.299999,
+2299,,,,14,12,14,female,,,64.800003,38.400002
+2300,,someone else,31,10,10,12,male,,26.5,37.299999,
+2301,,someone else,30,12,13,14,male,,36.5,64.099998,
+2302,,,34,12,12,12,female,,,37.299999,33.900002
+2303,,someone else,40,14,9,10,male,moderate,40,50.5,33.099998
+2304,44,someone else,26,17,18,18,female,moderate,73.800003,85.099998,78.5
+2305,,self-employed,84,8,6,,female,moderate,,26.5,
+2306,,someone else,74,12,8,10,female,,28.4,37.299999,
+2307,30,someone else,29,13,15,,female,,40.200001,37.299999,
+2308,56,someone else,32,14,,,male,liberal,50.700001,,
+2309,40,someone else,54,16,,14,male,moderate,50.700001,,38.400002
+2310,89,someone else,22,12,,12,male,moderate,61.900002,61.900002,27.5
+2311,40,someone else,33,13,,12,male,,29.200001,64.099998,32.400002
+2312,40,someone else,29,12,12,12,male,,35.400002,86.5,
+2313,36,someone else,26,14,16,16,female,slghtly conservative,39.400002,73.300003,73.599998
+2314,,someone else,74,12,8,11,male,moderate,50.5,43.200001,
+2315,,someone else,19,12,16,20,female,,38.900002,80.300003,78.5
+2316,,someone else,69,12,5,12,female,,63.200001,50.700001,32.400002
+2317,35,someone else,39,16,8,12,female,,36.900002,37.299999,
+2318,,someone else,74,14,14,14,male,moderate,45.400002,26.5,
+2319,41,someone else,35,16,16,12,female,slghtly conservative,28.4,37.700001,
+2320,45,self-employed,45,16,12,15,female,slightly liberal,33.099998,37.200001,34.599998
+2321,40,someone else,33,14,14,15,female,,53.299999,,38.400002
+2322,,someone else,63,13,13,13,female,,38.400002,,30.700001
+2323,20,someone else,20,12,18,12,female,moderate,38.900002,85.099998,38.400002
+2324,,someone else,25,15,18,13,female,moderate,39,44.700001,33.099998
+2325,89,someone else,27,15,,13,female,,37.900002,,80.300003
+2326,42,someone else,36,14,9,12,female,extrmly conservative,37.400002,48.5,
+2327,65,someone else,27,14,,12,male,moderate,83.699997,,27.700001
+2328,,someone else,21,12,16,12,female,,27.5,63.200001,56.599998
+2329,53,someone else,30,14,14,13,male,moderate,29.200001,63.5,34.799999
+2330,,someone else,75,12,,12,female,conservative,37.700001,,
+2331,,someone else,71,18,12,12,male,moderate,80.300003,49.599998,
+2332,,someone else,55,20,14,16,female,,80.300003,38.400002,78.5
+2333,,someone else,64,12,12,12,female,,38.400002,45.799999,38.400002
+2334,50,someone else,28,16,13,12,male,liberal,53.099998,53.099998,38.400002
+2335,44,someone else,27,12,14,14,male,liberal,47,45.900002,29.799999
+2336,50,someone else,57,15,8,12,male,,85.099998,26.5,29.200001
+2337,56,someone else,61,16,16,12,male,,38.200001,32.299999,33.099998
+2338,20,someone else,31,18,12,12,male,,42.200001,26.6,38.400002
+2339,89,self-employed,52,16,,,female,slghtly conservative,53.700001,,37.299999
+2340,,someone else,82,12,,,female,,37.5,,
+2341,42,self-employed,54,12,,8,female,,63.5,,27.700001
+2342,46,someone else,30,14,12,12,male,,69.199997,48.5,50.5
+2343,56,someone else,29,13,,12,female,moderate,62.5,,38.400002
+2344,50,someone else,40,9,,12,male,moderate,38.099998,,32.400002
+2345,,self-employed,45,12,12,13,male,,28.6,45.400002,22.700001
+2346,20,someone else,34,13,,8,female,,63.5,,
+2347,12,someone else,39,12,14,16,female,,38.400002,38.200001,38.400002
+2348,,someone else,78,10,14,10,male,moderate,52.400002,53.900002,61.900002
+2349,36,someone else,27,12,12,,female,moderate,31.4,31.5,
+2350,52,someone else,32,14,,8,male,moderate,48.5,,29.200001
+2351,,someone else,59,12,,,female,,32.400002,45.400002,18.5
+2352,30,self-employed,40,14,8,12,female,,26.4,37.299999,
+2353,10,self-employed,50,15,7,14,female,,62.5,29.200001,27.200001
+2354,50,someone else,37,13,10,12,male,slghtly conservative,52.400002,63.200001,63.5
+2355,40,someone else,39,18,12,12,female,slightly liberal,78.5,37.200001,27.700001
+2356,,someone else,54,12,,8,female,,26.700001,,
+2357,,someone else,74,15,10,12,male,,27.700001,29.200001,38.900002
+2358,24,someone else,22,13,15,12,male,liberal,33.099998,29.5,29.299999
+2359,22,someone else,58,0,12,15,male,extrmly conservative,38.5,76.400002,73.199997
+2360,,someone else,32,14,14,13,female,,75.199997,36.5,
+2361,,someone else,71,17,,8,female,,58.099998,,27.5
+2362,,someone else,83,12,12,16,female,,37.700001,35.099998,78.5
+2363,,someone else,87,20,12,9,female,,78.5,37.299999,
+2364,,self-employed,77,15,16,10,female,,38,86.5,
+2365,,self-employed,75,8,8,8,male,moderate,90.099998,48.5,
+2366,,someone else,35,15,,13,female,,71.199997,,97.199997
+2367,,someone else,32,12,12,11,female,moderate,33.900002,48.5,39.400002
+2368,16,someone else,32,11,,12,female,,37.700001,,33.099998
+2369,,someone else,32,14,8,20,male,,34.799999,38.099998,
+2370,35,someone else,19,11,,11,male,,27.5,,33.099998
+2371,,someone else,21,11,2,2,female,,38.400002,39.700001,
+2372,25,someone else,53,16,14,12,female,liberal,32.400002,37.299999,
+2373,,someone else,65,12,12,9,female,,36.5,36.5,37.700001
+2374,50,someone else,33,12,12,16,male,,32.299999,21.200001,
+2375,8,self-employed,35,10,,16,male,,56.5,,
+2376,40,someone else,52,16,12,12,male,moderate,82.699997,55.099998,
+2377,40,someone else,63,12,8,8,female,,63.5,29.200001,27.5
+2378,,someone else,53,13,8,,male,,34.200001,50.700001,
+2379,,someone else,74,11,,,female,,63.5,27.700001,
+2380,,someone else,76,8,,,female,slghtly conservative,38.400002,37.299999,
+2381,60,someone else,38,12,8,12,male,,48.900002,32.299999,32.400002
+2382,52,someone else,30,12,14,12,male,,36.5,63.5,43.700001
+2383,,someone else,61,12,,,female,slghtly conservative,26.4,29.200001,
+2384,24,self-employed,53,9,1,8,male,liberal,33.200001,36.5,
+2385,16,someone else,23,12,12,12,female,moderate,33.099998,26.5,33.099998
+2386,,someone else,52,12,,12,female,,,,38.400002
+2387,40,someone else,43,9,8,8,male,,49.599998,26.700001,32.400002
+2388,40,someone else,48,12,10,12,male,moderate,61.900002,38.099998,35.400002
+2389,40,someone else,30,12,12,12,male,moderate,26.700001,,17.1
+2390,,someone else,67,13,,12,male,,48.900002,,
+2391,24,someone else,46,20,11,12,female,,68.099998,86.599998,54.700001
+2392,45,self-employed,45,17,16,8,female,extrmly conservative,33.099998,78.5,27.5
+2393,30,someone else,37,12,,12,female,moderate,21.200001,,21.200001
+2394,40,someone else,27,14,,12,female,moderate,38.400002,,25.200001
+2395,20,someone else,24,13,12,14,female,,35.200001,33.599998,68.099998
+2396,60,someone else,31,16,10,10,female,,29.299999,47.900002,
+2397,40,someone else,32,14,15,12,female,,68.099998,86.599998,38.900002
+2398,,someone else,72,12,5,,female,slightly liberal,34.599998,32,
+2399,40,someone else,34,10,2,10,male,conservative,33.599998,37.299999,17.1
+2400,40,someone else,25,17,12,14,male,moderate,50.700001,63.5,26.4
+2401,,someone else,21,13,12,12,male,,32.400002,63.5,63.5
+2402,,someone else,26,10,12,12,female,,64.099998,28.4,33.099998
+2403,12,self-employed,80,16,10,14,female,,62.5,53.900002,
+2404,,someone else,68,12,8,8,female,,81,,17.6
+2405,45,someone else,52,16,11,12,female,slghtly conservative,64.800003,32.299999,
+2406,40,someone else,49,18,16,12,female,,63.5,86.599998,
+2407,39,someone else,30,12,12,14,male,,27.5,,
+2408,40,someone else,29,12,12,12,female,,48.5,54.200001,56.599998
+2409,36,someone else,34,12,12,12,male,moderate,45.900002,34.200001,26.700001
+2410,,someone else,77,14,,12,male,moderate,73.900002,,62.5
+2411,,someone else,69,12,,,male,,48.5,49.900002,29.299999
+2412,50,someone else,60,18,12,12,female,,69.199997,48.5,
+2413,48,someone else,43,13,12,12,male,conservative,42.400002,38.200001,26.700001
+2414,,someone else,40,15,16,12,female,conservative,80.900002,63.5,60.599998
+2415,,someone else,48,7,,3,female,,29.4,37.299999,29.299999
+2416,16,someone else,67,10,6,12,male,,33.200001,37.299999,
+2417,,someone else,70,13,10,8,female,,36.5,27.700001,
+2418,,someone else,58,12,3,6,female,,17.1,32.700001,
+2419,36,someone else,21,13,,13,female,,38.400002,,
+2420,40,someone else,28,9,,14,male,,64.099998,,
+2421,,someone else,23,11,12,10,female,,26.700001,31.5,26.700001
+2422,,someone else,61,9,,,male,moderate,22.9,,
+2423,40,someone else,62,12,8,7,male,slghtly conservative,31.5,26.9,
+2424,45,self-employed,47,8,,8,male,,26.700001,,26.700001
+2425,,someone else,59,12,,3,male,,29.4,31.299999,
+2426,,someone else,67,11,4,,male,,36.5,37.299999,32.400002
+2427,40,someone else,56,12,,12,female,moderate,63.5,,25.200001
+2428,84,self-employed,50,12,,4,male,,38.099998,26.5,
+2429,,someone else,64,0,,,male,slightly liberal,29.200001,36.400002,
+2430,,someone else,52,12,,4,female,,27.700001,,
+2431,,someone else,70,6,,,female,moderate,27.700001,37.299999,
+2432,16,someone else,59,12,8,8,female,conservative,29,44.700001,26.700001
+2433,32,self-employed,36,12,8,12,female,,17.6,28.4,
+2434,55,someone else,59,17,17,16,male,,85.099998,78.5,78.5
+2435,36,self-employed,58,11,9,10,female,,32.799999,36.5,38.900002
+2436,43,someone else,30,13,6,7,female,,32.400002,31.5,38.400002
+2437,42,someone else,42,12,6,12,female,,50.700001,28.6,29
+2438,,someone else,21,13,12,19,female,moderate,60.599998,32.299999,32.099998
+2439,4,self-employed,29,16,16,16,female,,59,53.400002,78.5
+2440,40,someone else,43,16,13,14,male,,44.799999,86,73.199997
+2441,20,someone else,52,16,12,12,female,slghtly conservative,34.400002,48.5,38.400002
+2442,40,someone else,33,15,12,12,female,conservative,38,48.5,27.700001
+2443,53,someone else,37,15,6,12,male,,29.5,38.099998,
+2444,,someone else,31,13,10,11,female,slghtly conservative,38.400002,36.5,32.400002
+2445,40,someone else,50,17,19,19,male,slightly liberal,73.300003,85.099998,
+2446,,someone else,35,12,15,16,female,,28.6,36.5,73.199997
+2447,45,self-employed,47,14,20,8,female,,50.700001,85.099998,33.099998
+2448,50,someone else,46,12,12,12,female,moderate,53.299999,50.700001,38.400002
+2449,40,someone else,29,16,,18,female,conservative,76.400002,,80.900002
+2450,,someone else,22,14,12,12,male,moderate,34.299999,36.5,60.599998
+2451,48,someone else,48,12,12,12,male,,42.400002,86.800003,38.400002
+2452,43,someone else,29,14,14,12,male,,42.200001,48.5,
+2453,40,someone else,36,12,15,20,female,conservative,53.099998,24.799999,64.400002
+2454,40,someone else,59,15,,10,female,,22.700001,,
+2455,,someone else,52,16,9,,male,conservative,63.200001,32.299999,
+2456,50,someone else,51,16,14,12,female,,37.299999,48.5,
+2457,48,someone else,37,16,16,18,female,,62.200001,62.200001,76.400002
+2458,30,someone else,37,10,,,female,,39.599998,,39.400002
+2459,40,someone else,52,12,11,12,female,,37.700001,32.299999,
+2460,70,self-employed,62,16,16,16,male,,37.299999,97.199997,78.5
+2461,,self-employed,54,10,,16,female,,38.900002,33.200001,73.199997
+2462,,someone else,49,10,0,0,female,extrmly conservative,73.199997,37.299999,63.5
+2463,,someone else,56,12,,,female,slghtly conservative,30.4,,
+2464,,someone else,66,12,9,7,female,,30.700001,26.5,
+2465,50,someone else,31,11,12,12,male,moderate,44.700001,34,38.900002
+2466,,self-employed,56,15,10,11,female,slightly liberal,63.5,28.200001,
+2467,40,someone else,25,10,13,12,female,,26.700001,34.200001,33.099998
+2468,,someone else,85,9,,7,female,,17.1,37.299999,
+2469,40,someone else,32,12,11,12,female,moderate,35.200001,26.5,
+2470,,self-employed,86,8,3,4,female,,29.299999,37.299999,
+2471,,someone else,70,16,9,8,male,conservative,63.5,37.299999,
+2472,40,someone else,33,12,14,12,female,extrmly conservative,27.700001,28.6,29.299999
+2473,,self-employed,80,15,14,12,female,conservative,63.5,50.700001,
+2474,,someone else,85,8,,7,female,,38.900002,37.299999,
+2475,,someone else,49,9,5,9,female,,32.400002,31.5,17.1
+2476,,self-employed,67,11,,,female,slghtly conservative,22.5,,
+2477,,someone else,36,12,,12,female,slghtly conservative,32.400002,,37.599998
+2478,,someone else,24,12,,12,female,,21.200001,,29.299999
+2479,50,someone else,40,12,12,12,female,,62,,
+2480,48,someone else,34,12,12,16,female,slightly liberal,63.5,29.4,17.1
+2481,,someone else,65,12,5,9,male,,39.400002,35.099998,27.5
+2482,43,someone else,25,8,,,female,,33.099998,32.700001,
+2483,60,someone else,61,15,18,16,female,liberal,85.099998,63.5,
+2484,40,someone else,56,17,16,16,female,liberal,81.900002,63.5,69.199997
+2485,60,someone else,69,18,12,10,female,,74,50.5,63.5
+2486,,,18,10,16,16,male,,,,73.199997
+2487,40,someone else,51,16,12,,female,slghtly conservative,32.400002,86.5,
+2488,,someone else,72,12,8,8,female,,37.700001,27.700001,27.700001
+2489,42,someone else,19,13,12,12,female,moderate,29,,
+2490,,someone else,53,10,,6,male,,27.700001,,22.5
+2491,55,someone else,33,10,,,male,,28.6,26.9,17.1
+2492,50,someone else,46,13,12,12,male,,34.200001,26.700001,38.400002
+2493,40,someone else,33,12,,,female,conservative,50.700001,,
+2494,35,someone else,49,16,20,14,female,slightly liberal,73.199997,97.199997,73.199997
+2495,40,someone else,39,12,11,,female,moderate,28.4,31.5,
+2496,,someone else,77,12,12,,male,,28.4,28.6,
+2497,,someone else,53,6,,2,male,,32.299999,,22.9
+2498,40,someone else,25,13,10,12,male,moderate,37.799999,48.900002,38
+2499,,someone else,75,11,,,female,,67,37.299999,
+2500,35,someone else,40,11,14,10,female,,,58.299999,
+2501,30,self-employed,56,12,10,5,female,,26.4,32.299999,
+2502,48,someone else,47,16,,12,female,moderate,76.400002,,27.5
+2503,,someone else,40,12,9,,female,,32.400002,35.400002,
+2504,30,someone else,61,13,12,12,female,moderate,65.800003,44.700001,
+2505,40,someone else,35,13,,12,female,moderate,48.5,,38.400002
+2506,40,someone else,45,12,11,11,female,moderate,21.200001,31.5,
+2507,38,self-employed,39,10,,,male,,35.400002,36.5,
+2508,25,someone else,57,12,12,12,female,,54.200001,64.099998,33.099998
+2509,,someone else,73,12,3,,female,slghtly conservative,29,25.5,
+2510,4,self-employed,45,13,9,12,female,moderate,22.5,37.299999,
+2511,48,someone else,45,17,,12,female,,78.5,,79.800003
+2512,40,someone else,48,12,8,8,male,,26.700001,34.200001,27.700001
+2513,,someone else,52,12,8,16,female,,63.5,37.299999,
+2514,,someone else,67,10,8,8,male,slghtly conservative,42.200001,37.299999,
+2515,12,someone else,37,12,6,8,male,,29.200001,37.299999,
+2516,,someone else,40,9,9,12,male,,28.6,34.200001,26.700001
+2517,6,someone else,34,13,,12,male,,37,,
+2518,,someone else,71,16,,10,female,,76.5,,
+2519,,someone else,80,8,8,8,female,,17.1,29.4,
+2520,,someone else,39,12,9,10,female,,26.5,27.700001,27.700001
+2521,,,80,10,,,female,moderate,,63.5,
+2522,24,someone else,37,12,12,12,female,liberal,32.400002,27.700001,27.700001
+2523,51,someone else,18,11,12,,male,,27.5,36.5,
+2524,,,83,8,,,female,,,37.299999,
+2525,,someone else,63,12,12,12,male,,29.5,37.299999,
+2526,60,someone else,39,14,,12,male,moderate,48.5,,38.400002
+2527,,someone else,38,14,3,3,female,conservative,68.099998,29.200001,
+2528,40,someone else,26,13,4,6,male,,31.4,34.200001,17.1
+2529,,someone else,75,17,15,16,female,,63.5,63.200001,62.5
+2530,70,self-employed,66,12,8,14,male,moderate,33.200001,38,
+2531,,someone else,75,13,,12,female,conservative,38.900002,,36.099998
+2532,,someone else,71,16,4,16,male,conservative,74,37.299999,80.300003
+2533,20,someone else,66,14,12,12,male,,60.5,29.799999,25.5
+2534,52,someone else,23,12,12,12,male,,32.299999,37,33.099998
+2535,16,someone else,25,18,14,16,male,moderate,31.299999,31.299999,73.199997
+2536,,someone else,47,14,9,12,female,,33.099998,28.6,73.199997
+2537,,someone else,40,16,12,14,female,moderate,86,93.300003,38.400002
+2538,60,someone else,25,12,8,8,male,moderate,45.299999,27.5,21.200001
+2539,50,self-employed,46,12,12,12,female,moderate,26.4,34.200001,32.400002
+2540,20,someone else,46,12,,12,female,liberal,28.4,,65.800003
+2541,25,self-employed,26,19,20,20,female,liberal,56.5,93.699997,85.5
+2542,,someone else,36,12,14,15,female,conservative,39.400002,52.5,35.400002
+2543,40,someone else,50,16,8,8,male,,69.699997,27.700001,
+2544,50,someone else,,16,12,,male,moderate,66.099998,66.099998,
+2545,50,self-employed,54,18,12,13,male,slghtly conservative,83.900002,38.099998,38.400002
+2546,50,someone else,34,16,16,13,female,,82.699997,63.5,67
+2547,40,someone else,22,15,,18,male,,63.5,,78.5
+2548,,self-employed,69,15,8,6,male,,50.700001,50.700001,
+2549,31,someone else,21,12,,11,female,,33.099998,,
+2550,40,someone else,36,16,12,12,male,moderate,67,26.700001,53.299999
+2551,40,someone else,48,16,12,12,male,,78,50.700001,38.900002
+2552,31,someone else,32,12,,10,female,conservative,38.900002,,55.099998
+2553,63,someone else,40,11,,12,male,moderate,27.5,,37.700001
+2554,,someone else,68,6,,,male,moderate,33.900002,37.299999,
+2555,35,someone else,38,15,16,14,female,,37.700001,86.5,66.099998
+2556,60,someone else,30,10,,7,female,moderate,32.400002,,27.700001
+2557,40,someone else,26,12,12,12,female,moderate,33.299999,32.299999,26.700001
+2558,38,someone else,26,13,16,12,male,,35.099998,63.200001,
+2559,70,self-employed,38,12,,3,male,,36.5,,
+2560,36,someone else,22,14,,16,female,,38.400002,,73.699997
+2561,,someone else,44,16,16,14,female,moderate,50.700001,49.599998,38
+2562,,someone else,47,12,12,,female,conservative,26.700001,,
+2563,38,someone else,31,14,11,16,female,moderate,36.5,27.700001,67
+2564,,someone else,88,10,,,male,,31.4,38.099998,50.700001
+2565,30,self-employed,56,15,9,12,male,,75.900002,50.700001,
+2566,12,someone else,40,18,16,12,female,,60.599998,85.099998,68.099998
+2567,47,someone else,64,12,8,8,female,,82.699997,32.299999,
+2568,30,self-employed,55,14,8,8,female,slghtly conservative,53.700001,37.900002,17.1
+2569,45,someone else,49,16,12,12,male,,64.099998,37.299999,
+2570,40,someone else,60,12,8,8,female,,36.700001,37.299999,
+2571,50,self-employed,52,14,12,10,male,,49.900002,37.299999,
+2572,55,someone else,42,12,12,12,male,,38.400002,32.299999,21.200001
+2573,,someone else,65,16,,12,female,moderate,78.5,37.299999,
+2574,,someone else,76,13,9,10,female,moderate,44.299999,32,
+2575,,someone else,53,12,,,male,,31.5,,
+2576,,someone else,69,10,10,12,male,moderate,36.5,31.5,
+2577,,self-employed,70,11,8,12,male,conservative,31.5,44.700001,
+2578,60,someone else,44,14,12,12,male,,70.5,86.5,27.5
+2579,,someone else,61,12,12,12,female,,29.299999,37.799999,26.700001
+2580,40,someone else,47,12,8,8,female,,63.200001,28.4,29.299999
+2581,50,someone else,34,19,12,16,male,slightly liberal,88.800003,,45.400002
+2582,89,self-employed,58,14,12,12,male,,63.5,50.700001,
+2583,38,someone else,23,16,14,12,male,,78.5,50.700001,38.400002
+2584,,,23,12,,12,female,moderate,,,63.5
+2585,43,someone else,36,14,12,12,female,,33.099998,69.699997,
+2586,,someone else,86,12,,,female,,38.900002,50.700001,
+2587,,someone else,85,12,9,,female,moderate,22.9,27.700001,
+2588,,someone else,89,12,12,14,female,,29.299999,50.700001,
+2589,48,someone else,25,13,,11,male,moderate,33.599998,,33.099998
+2590,50,someone else,32,12,,12,male,,25.299999,,25.4
+2591,,someone else,21,15,16,16,female,conservative,33.099998,76.400002,78.5
+2592,30,someone else,72,16,4,5,male,,31.700001,,
+2593,40,someone else,48,11,12,16,female,moderate,20.1,,
+2594,70,someone else,38,13,12,14,male,,64,45.799999,73.199997
+2595,,someone else,37,13,,,female,,68.099998,,
+2596,,someone else,53,14,12,12,male,,37.799999,41.200001,
+2597,,someone else,63,16,16,,female,,29.799999,37.299999,
+2598,40,someone else,51,20,14,9,male,slightly liberal,78.900002,72,
+2599,40,someone else,56,14,14,12,female,moderate,50.5,86.5,73.199997
+2600,,someone else,32,12,12,10,female,,33.099998,31.299999,22.5
+2601,40,someone else,47,14,12,12,male,conservative,31.4,50.700001,38.400002
+2602,7,someone else,45,14,,13,female,,38,,35.200001
+2603,60,someone else,45,12,12,12,male,,31.5,43.200001,38.400002
+2604,15,someone else,46,12,12,12,male,,29.5,32,21.200001
+2605,60,someone else,62,12,,,male,conservative,31.5,31.5,17.1
+2606,60,someone else,46,16,,,male,conservative,65.800003,,
+2607,,someone else,57,12,,10,female,,37.700001,48.5,29.299999
+2608,,self-employed,77,12,6,8,female,slghtly conservative,22.5,37.299999,
+2609,60,someone else,46,17,20,20,male,,63.5,97.199997,
+2610,55,someone else,52,12,6,16,female,,29.299999,41.200001,38.400002
+2611,45,someone else,31,12,5,12,female,slghtly conservative,50.700001,35.099998,26.5
+2612,60,self-employed,41,16,12,12,male,,53.400002,64.099998,
+2613,40,someone else,46,12,8,12,male,liberal,76.400002,38.099998,33.099998
+2614,,someone else,73,11,,,male,liberal,32.299999,,
+2615,,someone else,76,16,8,14,male,,,39,
+2616,50,someone else,36,16,,13,female,,67,,48.599998
+2617,40,someone else,23,12,0,0,female,,29.299999,29.4,
+2618,,someone else,67,12,,8,female,,27.5,28.4,28.4
+2619,,someone else,56,18,9,12,male,,78.5,36.5,
+2620,40,someone else,29,16,12,12,female,,68.099998,53.900002,38
+2621,40,someone else,51,13,,,male,moderate,29.200001,29.200001,
+2622,40,someone else,30,18,18,13,male,,53.299999,80.300003,
+2623,40,someone else,40,16,18,18,male,conservative,63.5,85.099998,71.599998
+2624,48,someone else,23,14,12,12,female,,46.700001,63.5,38.400002
+2625,,someone else,73,16,12,16,female,extremely liberal,73.199997,49.900002,78.5
+2626,50,someone else,43,12,12,16,male,conservative,36.700001,66.099998,63.200001
+2627,48,someone else,30,12,12,12,male,,52.400002,63.200001,
+2628,33,someone else,20,12,13,12,male,,37.5,38.099998,29.5
+2629,50,self-employed,44,20,18,16,female,moderate,97.199997,80.300003,
+2630,20,self-employed,49,13,16,12,female,,82.699997,81,
+2631,,self-employed,67,20,20,15,male,,97.199997,97.199997,
+2632,,someone else,82,16,8,14,male,slightly liberal,69.699997,86.5,
+2633,,someone else,25,12,,14,female,,29.299999,,38
+2634,,someone else,55,14,,12,male,liberal,48.5,,48.5
+2635,,,80,12,,12,female,conservative,,50.700001,
+2636,15,someone else,68,10,,5,male,,29.799999,,
+2637,,someone else,30,12,15,12,female,moderate,17.1,,50.700001
+2638,,self-employed,89,6,,4,male,,63.5,,22.5
+2639,,someone else,74,16,,,female,liberal,38.400002,35.400002,
+2640,,,73,10,5,,female,slghtly conservative,,38.900002,
+2641,40,someone else,26,14,14,14,male,moderate,40.200001,27.700001,38.400002
+2642,,someone else,68,17,9,12,male,,76.5,27.5,17.1
+2643,,someone else,47,18,17,16,female,slghtly conservative,76.300003,,
+2644,40,someone else,36,17,,12,female,conservative,76.400002,,25.200001
+2645,,someone else,69,14,7,14,female,,63.5,31.5,63.5
+2646,,someone else,19,11,13,,male,,28.4,63.5,
+2647,40,someone else,42,17,14,12,male,slightly liberal,74.400002,64.099998,29.1
+2648,,someone else,37,12,14,,female,slightly liberal,33.099998,37.799999,
+2649,42,someone else,35,16,12,14,male,conservative,76.300003,32,65.800003
+2650,,,50,15,,16,female,,,,33.099998
+2651,40,someone else,38,14,5,12,female,moderate,73.199997,,
+2652,40,someone else,51,14,12,12,female,moderate,38.400002,44.700001,
+2653,55,someone else,43,12,,9,male,,63.5,,22.9
+2654,50,someone else,47,12,14,,female,,58.299999,,
+2655,50,someone else,43,14,8,4,female,,38.400002,38.700001,28.4
+2656,26,self-employed,43,20,18,,female,liberal,97.199997,63.5,
+2657,43,someone else,46,13,7,12,female,moderate,38.400002,28.4,29.299999
+2658,40,someone else,28,14,12,16,male,,33.900002,48.5,73.199997
+2659,,someone else,49,5,,,male,,29.200001,,
+2660,50,self-employed,58,12,11,11,female,moderate,26.4,32.299999,29.299999
+2661,48,someone else,33,14,12,14,female,,74.400002,29.200001,26.700001
+2662,40,someone else,40,18,18,16,male,slghtly conservative,83.699997,69.199997,74.400002
+2663,40,someone else,56,14,10,12,male,,56.400002,31.5,32.400002
+2664,,someone else,30,12,16,,female,moderate,73.199997,26.5,
+2665,45,someone else,21,12,,13,female,,29.299999,,27.5
+2666,48,someone else,26,13,12,12,male,,26.4,27.700001,
+2667,72,someone else,28,8,,12,female,extremely liberal,83.699997,26.5,32.400002
+2668,,someone else,46,12,12,12,male,slghtly conservative,31.4,27.700001,27.700001
+2669,,someone else,43,12,,11,female,,68.099998,,29.299999
+2670,15,self-employed,20,10,16,14,male,,31.4,35.099998,33.900002
+2671,40,someone else,58,15,12,12,male,liberal,83.699997,33.200001,39
+2672,,self-employed,42,15,20,13,male,moderate,54.700001,,
+2673,,someone else,73,9,19,,male,moderate,,97.199997,17.1
+2674,,someone else,27,16,20,18,female,,37.700001,85.099998,62.5
+2675,,someone else,28,12,10,11,female,moderate,50.700001,37.799999,33.099998
+2676,40,someone else,33,12,5,3,male,,31.5,50.700001,
+2677,40,someone else,43,14,,12,female,,67,,33.099998
+2678,45,someone else,26,16,16,16,female,liberal,85.800003,37.299999,
+2679,,someone else,42,12,14,12,male,moderate,28.6,,
+2680,48,someone else,29,14,19,13,female,,31.4,92.300003,38.400002
+2681,47,someone else,34,16,10,12,male,,83.699997,63.5,
+2682,,someone else,70,16,13,12,male,,63.5,73.599998,
+2683,,someone else,72,12,,8,male,moderate,43.200001,36.400002,
+2684,25,someone else,54,12,8,10,female,,34.799999,28.6,27.5
+2685,40,someone else,43,13,15,13,male,extrmly conservative,76.300003,76.300003,
+2686,,someone else,51,18,12,,male,moderate,62,86.800003,
+2687,,someone else,77,12,,,female,,35.400002,,
+2688,55,self-employed,52,16,16,16,male,,64.199997,49.599998,
+2689,,someone else,21,13,,5,female,,33.099998,,28.4
+2690,20,someone else,23,14,,16,male,liberal,32.400002,,73.199997
+2691,72,someone else,28,19,,18,male,conservative,91.699997,,73.199997
+2692,,someone else,26,16,15,8,male,,29.299999,78.5,37.700001
+2693,,someone else,22,14,16,,female,extremely liberal,41.599998,83.699997,57.099998
+2694,,,20,12,20,16,male,liberal,,36.5,50.700001
+2695,,someone else,22,16,12,14,male,,28.4,53.900002,36.5
+2696,,someone else,71,12,8,12,male,slghtly conservative,50.700001,50.700001,
+2697,40,someone else,41,15,7,5,female,conservative,38.400002,32.299999,
+2698,40,someone else,38,12,12,14,male,moderate,53.900002,44.700001,43.599998
+2699,54,someone else,24,12,14,12,male,,37.299999,33.200001,29.299999
+2700,40,someone else,42,12,,12,male,slightly liberal,46.700001,,50.5
+2701,,someone else,65,16,6,8,male,,73.599998,31.5,
+2702,,someone else,57,12,14,12,male,,28.4,50.700001,32.400002
+2703,,someone else,45,16,,7,male,slghtly conservative,38.099998,,22.5
+2704,,,34,14,12,12,male,,,28.6,55.099998
+2705,,,37,12,7,,female,moderate,,52.299999,
+2706,,,88,4,0,4,female,,,26.5,
+2707,35,someone else,40,12,,12,female,moderate,26.4,28.6,21.200001
+2708,,someone else,87,9,,,female,conservative,22.700001,37.299999,
+2709,45,someone else,36,16,16,15,male,,58.299999,50.700001,
+2710,25,self-employed,34,16,18,16,female,conservative,37.400002,76.400002,38.900002
+2711,,someone else,25,13,6,6,female,,33.099998,37.299999,
+2712,,,20,12,12,14,female,,,32.299999,
+2713,1,someone else,24,16,16,16,male,,80,63.5,78.5
+2714,25,someone else,23,16,14,14,male,,49.700001,36.5,64.400002
+2715,50,someone else,24,15,12,16,male,moderate,50.700001,53.400002,73.199997
+2716,75,self-employed,52,12,12,7,male,slghtly conservative,63.5,63.5,
+2717,50,someone else,52,14,12,10,male,conservative,28.4,37.299999,
+2718,,self-employed,41,9,,8,male,conservative,26.9,,17.1
+2719,,,19,12,,16,female,,,,34.799999
+2720,,someone else,51,13,,8,female,,32.299999,,22.5
+2721,48,someone else,32,11,,,female,,50.700001,,
+2722,10,someone else,26,14,14,12,female,slghtly conservative,33.099998,50.700001,63.5
+2723,37,someone else,24,14,,16,female,,33.099998,,27.5
+2724,56,someone else,30,13,12,12,female,moderate,36.5,31.5,48.5
+2725,,someone else,35,12,12,16,female,,74.400002,63.5,50.700001
+2726,43,someone else,32,14,,12,male,moderate,63.5,,48.5
+2727,42,someone else,28,10,13,9,female,moderate,38,31.200001,26.4
+2728,40,someone else,52,16,7,12,female,moderate,38.900002,36.5,37.400002
+2729,60,someone else,58,13,11,10,female,,63.5,31.5,73.199997
+2730,40,someone else,24,11,12,11,female,liberal,34.400002,48.5,27.700001
+2731,,someone else,75,5,8,8,female,extrmly conservative,24.200001,28.6,
+2732,40,someone else,28,16,18,16,male,liberal,75.199997,85.099998,78.5
+2733,35,someone else,41,12,12,12,male,,38.900002,50.700001,38
+2734,,someone else,55,12,9,9,female,slghtly conservative,33.099998,17.1,17.1
+2735,,someone else,69,12,12,12,male,,48.5,48.5,
+2736,,someone else,68,16,16,15,male,moderate,73.300003,86.5,
+2737,35,someone else,51,16,12,12,female,,37.5,63.5,38.900002
+2738,50,self-employed,48,14,8,11,female,slightly liberal,85.099998,27.700001,20.1
+2739,40,someone else,61,12,8,9,female,slghtly conservative,48.5,20.1,
+2740,,someone else,64,11,8,8,female,,22.700001,38.200001,
+2741,60,self-employed,38,16,12,10,female,,76.400002,43.200001,85.099998
+2742,38,someone else,66,12,10,8,male,slghtly conservative,36.5,32,
+2743,65,someone else,25,12,13,18,male,slghtly conservative,63.5,38.200001,76.300003
+2744,40,someone else,46,12,10,,male,,48.5,37.299999,
+2745,,someone else,27,10,,,male,,28.4,,
+2746,,someone else,85,14,12,12,female,moderate,32,53.900002,
+2747,,self-employed,67,13,8,,female,extrmly conservative,63.5,36.400002,
+2748,,someone else,20,14,14,13,female,moderate,50.700001,48.799999,64.800003
+2749,,someone else,68,12,14,,female,,36.5,49.599998,
+2750,50,someone else,26,14,15,12,male,,34.200001,66.300003,27.5
+2751,,someone else,30,10,12,12,female,moderate,41.599998,31.5,
+2752,49,someone else,57,9,,,male,,33.5,37.299999,17.1
+2753,,someone else,64,13,10,9,female,,26.4,37.299999,25.5
+2754,46,someone else,31,15,17,19,male,liberal,50.700001,44.799999,38.400002
+2755,,,44,12,12,12,female,,,42.400002,38
+2756,40,someone else,33,12,10,11,female,,42.299999,63.5,32.400002
+2757,36,someone else,36,12,12,12,male,liberal,29.200001,35.099998,27.5
+2758,20,self-employed,45,13,12,12,male,,34.200001,63.5,78.5
+2759,,someone else,22,14,13,16,female,,63.5,37.299999,78.5
+2760,,someone else,43,13,9,,female,,26.700001,27.700001,
+2761,40,someone else,22,9,,14,male,slightly liberal,37.900002,,38.400002
+2762,30,self-employed,46,16,16,16,male,,83.699997,64.099998,
+2763,,someone else,85,12,12,,female,,30.799999,50.5,32.400002
+2764,,someone else,75,12,0,7,male,,27.700001,26.5,22.5
+2765,43,someone else,46,13,10,14,male,slghtly conservative,37.700001,37.700001,73.199997
