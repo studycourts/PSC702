@@ -1,0 +1,90 @@
+---
+title: "Capstone Demo"
+author: "Rebecca Gill"
+date: "3/10/2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## The Basics of R/RStudio
+
+This file is an R Markdown file. You can create one of these by clicking on the plus sign next to the little piece of paper above. This is a neat file format that allows you to do your word processing and your data analysis all in one place. You can find more information about how to format these files on the RStudio website or by using this cheat sheet: https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf
+
+R data files are generally saved as .csv files, although there are a number of different ways that you can read data into R. Today, I'm going to use a version of the dataset you got from Dr. Maltby. I've converted this data from a Stata .dta file by opening it in Stata and exporting it to .csv. I've then uploaded it to my GitHub account and I'm calling to it below using the URL. However, instead of a URL, I could have included the file path in quotations in the chunk below to locate the file on my local machine. 
+
+Read in the data and load packages:
+```{r readdata, echo = TRUE, include = FALSE}
+pew <- read.csv("https://github.com/studycourts/PSC702/raw/master/pewsept18.csv")
+
+library(dplyr)
+library(tidyr)
+library(broom)
+library(psych)
+library(ggplot2)
+library(EnvStats)
+```
+
+You can see that I've set off the section below by using three backticks and then curly brackets. The first thing in the curly brackets needs to be the letter `r`. This tells the program that you're going to feed it some R commands. After this, I name the chunk, and then I include a few options to tell the program whether or not I want this section to appear in my final document. I've told it to include my commands but not to echo the results of those commands. Then you'll see the commands I included to load the data and some packages. These packages are groups of handy little functions that we can use to accomplish some of the things we want to do in R. I closed off the code chunk using three more backticks.
+
+Once you run the code above, you should see an item appear in the "Environment" tab in the upper right hand corner of the user interface. Cool, huh?
+
+## Investigating the Data
+
+Next, we can take a look at the dataset and see what we've got. There are lots of ways to do this.
+
+```{r datapeek, echo=FALSE, include=FALSE}
+
+# Check the structure of the dataset
+
+tbl_df(pew) # Gives us a "tibble", which is easier to examine than a whole dataframe
+
+glimpse(pew) # Gives us an information dense summary of the data
+
+head(pew) # Gives us just the first few rows of the dataset
+
+str(pew) # Shows us the structure of the dataset
+
+```
+
+Now, we might want to get some specific information about particular variables. There are a few ways to do this, too.
+
+```{r summaries, include = TRUE, echo = TRUE}
+
+summary(pew$campnii)
+
+# Let's make a continuous variable!
+
+pew$myvar <- rnorm(1754)
+
+# Let's investigate!
+
+summary(pew$myvar)
+
+summaryFull(pew$myvar)
+
+```
+
+Now, how about we *look* at the variables?
+
+```{r dataviz, include = TRUE, echo = TRUE}
+
+plot1 <- ggplot(pew, aes(x = myvar, na.rm = TRUE)) +
+  geom_histogram(position = "identity", bins = 10) +
+  facet_wrap(vars(igender))
+
+plot1  
+
+```
+
+```{r stats}
+
+describeBy(pew$myvar, group=pew$igender)
+  
+```
+
+## Let's do more stuff here!
