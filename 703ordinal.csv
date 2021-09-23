@@ -1,0 +1,1975 @@
+age,educ,fechld,kidjob,sex,sibs
+22,16,strongly agree,disagree,male,1
+21,12,.i,.i,male,2
+42,12,.i,.i,male,1
+49,13,agree,neither agree or disagree,female,2
+70,16,agree,strongly disagree,female,0
+50,19,agree,agree,female,4
+35,15,agree,disagree,female,2
+24,11,.i,.i,female,2
+28,9,agree,agree,female,2
+28,17,.i,.i,female,0
+55,10,agree,neither agree or disagree,male,4
+36,16,agree,neither agree or disagree,female,2
+28,12,.i,.i,female,6
+59,12,agree,agree,female,7
+52,4,disagree,agree,male,6
+35,13,.i,.i,female,2
+36,12,disagree,disagree,male,5
+47,13,strongly agree,disagree,female,2
+55,12,.i,.i,male,9
+18,12,disagree,neither agree or disagree,female,3
+76,0,.i,.i,female,10
+39,10,.i,.i,male,6
+54,14,strongly agree,agree,male,1
+45,16,strongly agree,agree,female,3
+71,12,agree,neither agree or disagree,male,1
+42,17,.i,.i,female,0
+22,15,agree,agree,male,2
+50,10,strongly agree,disagree,male,6
+81,16,strongly agree,neither agree or disagree,female,2
+44,13,agree,disagree,female,3
+78,16,.i,.i,male,2
+63,14,strongly agree,strongly agree,female,5
+73,19,strongly agree,strongly agree,male,0
+40,16,.i,.i,male,4
+42,14,agree,disagree,female,1
+62,18,.i,.i,male,1
+52,11,agree,don't know,male,5
+49,12,agree,strongly disagree,female,2
+27,17,strongly agree,agree,female,2
+30,14,strongly agree,neither agree or disagree,female,2
+29,18,.i,.i,female,1
+69,14,strongly agree,neither agree or disagree,female,2
+51,18,strongly agree,disagree,female,1
+57,16,.i,.i,female,2
+44,16,.i,.i,male,2
+73,16,strongly agree,strongly agree,female,1
+73,16,.i,.i,female,0
+68,16,agree,agree,male,2
+84,16,agree,agree,female,1
+63,19,.i,.i,male,2
+57,16,.i,.i,male,4
+42,16,strongly agree,agree,female,3
+45,20,agree,agree,female,0
+38,14,agree,agree,male,10
+46,20,.i,.i,male,2
+51,20,strongly agree,neither agree or disagree,female,2
+41,14,.i,.i,female,3
+75,12,agree,agree,female,2
+81,8,.i,.i,female,5
+41,9,strongly agree,disagree,female,7
+67,19,disagree,agree,female,4
+71,19,disagree,disagree,male,15
+35,6,.i,.i,male,4
+45,17,.i,.i,female,3
+35,16,agree,neither agree or disagree,male,6
+21,14,.i,.i,female,1
+52,11,agree,agree,female,7
+49,16,strongly agree,neither agree or disagree,female,1
+46,16,agree,agree,male,2
+51,14,.i,.i,female,0
+28,16,agree,agree,male,1
+81,16,strongly agree,don't know,female,0
+47,17,.i,.i,male,3
+48,14,agree,neither agree or disagree,male,3
+46,16,agree,disagree,male,3
+68,12,agree,disagree,male,3
+56,16,.i,.i,female,5
+43,14,strongly agree,agree,female,1
+32,13,disagree,agree,female,8
+23,12,.i,.i,female,6
+59,12,disagree,strongly agree,male,0
+32,18,agree,agree,female,1
+44,16,strongly agree,agree,male,2
+49,20,.i,.i,female,0
+64,12,agree,agree,female,5
+30,19,.i,.i,female,2
+51,12,.i,.i,female,10
+28,17,disagree,agree,female,5
+84,13,.i,.i,male,4
+32,14,strongly agree,agree,male,2
+54,18,disagree,agree,female,1
+34,20,agree,agree,female,5
+33,16,disagree,neither agree or disagree,female,0
+48,12,agree,strongly agree,female,3
+52,10,agree,disagree,female,5
+na,14,.i,.i,female,4
+54,16,.i,.i,male,2
+19,13,agree,neither agree or disagree,female,2
+41,16,disagree,agree,male,3
+23,17,strongly agree,disagree,female,0
+51,12,disagree,disagree,male,3
+75,16,agree,strongly agree,female,2
+na,20,.i,.i,female,1
+27,12,.i,.i,male,6
+24,14,disagree,disagree,male,0
+26,20,agree,strongly agree,male,0
+47,19,.i,.i,female,2
+55,13,disagree,disagree,female,6
+55,18,agree,disagree,female,2
+43,17,strongly agree,disagree,male,4
+46,14,.i,.i,female,4
+71,16,.i,.i,male,1
+32,16,agree,agree,female,1
+63,17,.i,.i,male,1
+50,12,agree,agree,female,5
+60,12,strongly agree,strongly disagree,male,1
+33,14,strongly agree,agree,female,0
+40,18,strongly agree,disagree,female,1
+68,12,.i,.i,male,3
+69,14,agree,disagree,female,5
+71,18,disagree,disagree,male,0
+23,15,.i,.i,male,5
+28,16,strongly agree,agree,male,1
+49,12,agree,agree,male,5
+66,16,strongly agree,disagree,female,2
+36,20,.i,.i,female,2
+53,19,agree,disagree,male,2
+40,6,.i,.i,female,13
+34,12,disagree,neither agree or disagree,female,1
+58,6,disagree,agree,male,6
+62,12,.i,.i,male,4
+24,12,agree,strongly disagree,female,2
+72,6,disagree,agree,female,4
+32,12,.i,.i,female,2
+29,16,strongly agree,disagree,male,0
+34,12,.i,.i,male,3
+36,13,agree,disagree,female,2
+74,8,.i,.i,male,10
+49,16,agree,neither agree or disagree,female,3
+60,16,agree,agree,male,2
+78,16,.i,.i,male,2
+39,14,agree,strongly agree,female,4
+73,16,disagree,disagree,male,1
+67,16,.i,.i,female,4
+82,11,.i,.i,female,8
+64,14,agree,disagree,female,4
+61,14,agree,disagree,female,12
+22,6,agree,strongly disagree,male,7
+27,14,.i,.i,female,3
+41,14,agree,agree,male,5
+33,9,agree,agree,female,5
+49,6,.i,.i,female,7
+22,11,agree,agree,male,1
+42,6,agree,disagree,female,11
+28,11,.i,.i,female,8
+66,14,agree,neither agree or disagree,female,2
+35,13,.i,.i,female,1
+52,12,strongly agree,disagree,male,5
+63,14,.i,.i,male,2
+31,13,disagree,strongly disagree,male,1
+29,17,.i,.i,female,1
+50,17,agree,strongly disagree,male,6
+47,12,.i,.i,male,3
+65,12,.i,.i,female,7
+62,13,agree,disagree,male,1
+18,13,agree,agree,female,1
+40,14,strongly agree,disagree,female,1
+28,16,.i,.i,female,3
+24,16,strongly agree,disagree,male,1
+40,16,.i,.i,male,1
+77,15,strongly agree,don't know,female,2
+24,15,strongly agree,neither agree or disagree,female,3
+21,14,.i,.i,female,2
+22,15,agree,agree,female,2
+24,16,agree,neither agree or disagree,male,2
+22,11,disagree,neither agree or disagree,male,1
+21,15,agree,agree,male,1
+67,16,.i,.i,male,8
+32,19,strongly agree,disagree,female,5
+38,9,.i,.i,male,3
+55,12,strongly disagree,agree,female,3
+40,14,.i,.i,male,3
+38,11,.i,.i,male,2
+52,13,.i,.i,male,0
+34,16,strongly disagree,agree,female,2
+22,16,disagree,agree,female,2
+56,17,strongly agree,disagree,male,1
+60,12,.i,.i,female,4
+39,16,.i,.i,male,1
+33,16,agree,neither agree or disagree,female,3
+67,12,agree,disagree,male,6
+51,12,.i,.i,male,4
+65,12,agree,agree,male,1
+42,16,agree,disagree,female,6
+65,12,strongly agree,strongly disagree,female,4
+25,13,agree,disagree,female,6
+36,12,agree,disagree,female,0
+38,14,.i,.i,female,1
+18,12,agree,strongly disagree,male,2
+38,9,.i,.i,male,9
+41,9,.i,.i,female,8
+20,14,agree,agree,male,0
+39,16,strongly disagree,neither agree or disagree,male,1
+25,17,.i,.i,female,1
+57,14,agree,disagree,male,8
+61,13,strongly agree,disagree,female,5
+31,16,.i,.i,male,2
+62,19,.i,.i,female,3
+30,12,agree,disagree,male,8
+68,14,agree,strongly disagree,female,3
+50,16,.i,.i,male,6
+27,12,.i,.i,male,1
+30,16,.i,.i,male,3
+65,14,.i,.i,female,0
+65,18,agree,agree,female,1
+36,19,.i,.i,male,2
+72,12,agree,agree,male,1
+27,12,.i,.i,female,4
+22,12,disagree,agree,male,4
+33,9,disagree,neither agree or disagree,female,9
+35,6,.i,.i,male,7
+54,11,agree,neither agree or disagree,female,2
+18,11,.i,.i,male,3
+38,12,strongly disagree,agree,female,2
+67,12,agree,disagree,female,3
+48,12,agree,neither agree or disagree,male,5
+64,19,disagree,agree,male,3
+89 or older,19,.i,.i,female,2
+48,12,strongly disagree,strongly disagree,female,2
+44,6,disagree,agree,female,10
+42,15,agree,neither agree or disagree,male,1
+26,16,strongly agree,disagree,female,3
+68,12,.i,.i,female,1
+61,14,.i,.i,female,11
+34,13,agree,disagree,male,11
+35,6,agree,disagree,female,dk
+53,17,strongly disagree,disagree,male,1
+32,12,.i,.i,male,3
+61,14,.i,.i,male,2
+28,10,agree,agree,male,2
+39,12,disagree,neither agree or disagree,male,5
+61,16,disagree,disagree,male,7
+65,18,agree,neither agree or disagree,male,4
+34,18,agree,neither agree or disagree,male,2
+87,12,.i,.i,male,1
+24,16,.i,.i,male,1
+39,12,agree,neither agree or disagree,female,3
+76,0,disagree,agree,female,5
+32,14,.i,.i,male,4
+54,16,agree,disagree,female,5
+55,14,agree,agree,female,4
+53,16,.i,.i,female,6
+62,14,agree,strongly agree,male,7
+39,6,agree,disagree,male,10
+30,12,strongly agree,disagree,female,4
+89 or older,8,.i,.i,female,9
+30,10,strongly agree,strongly disagree,male,11
+35,12,.i,.i,female,6
+73,16,strongly agree,disagree,female,4
+69,16,.i,.i,female,1
+89 or older,12,agree,neither agree or disagree,female,0
+55,16,.i,.i,male,1
+78,12,agree,disagree,female,6
+43,17,strongly agree,strongly disagree,male,2
+68,16,strongly agree,neither agree or disagree,female,1
+71,16,.i,.i,male,3
+47,16,disagree,agree,female,5
+68,18,agree,disagree,female,1
+76,12,agree,strongly agree,female,1
+55,16,disagree,agree,male,3
+49,12,.i,.i,female,5
+68,14,disagree,agree,female,4
+47,11,.i,.i,male,3
+59,14,agree,disagree,male,5
+74,16,.i,.i,female,2
+71,14,strongly agree,agree,male,9
+32,12,agree,disagree,female,2
+30,16,disagree,agree,male,2
+38,16,agree,disagree,female,2
+41,16,.i,.i,female,0
+62,20,strongly agree,neither agree or disagree,female,0
+49,20,agree,neither agree or disagree,male,2
+52,16,agree,disagree,female,4
+61,13,strongly agree,neither agree or disagree,female,5
+52,16,.i,.i,male,2
+33,14,agree,agree,male,0
+65,16,.i,.i,female,1
+55,12,.i,.i,male,4
+45,14,.i,.i,female,na
+35,9,disagree,disagree,male,5
+36,14,disagree,disagree,female,1
+43,16,.i,.i,female,3
+83,13,strongly agree,disagree,male,4
+64,14,disagree,disagree,male,3
+38,18,agree,agree,male,3
+25,14,disagree,agree,male,1
+81,18,.i,.i,male,8
+23,12,disagree,neither agree or disagree,female,2
+21,12,.i,.i,female,1
+56,12,.i,.i,female,4
+30,11,disagree,agree,female,7
+69,12,strongly disagree,agree,male,3
+62,12,.i,.i,female,3
+39,16,.i,.i,male,2
+25,18,agree,disagree,male,1
+75,20,agree,disagree,male,7
+46,18,agree,neither agree or disagree,male,1
+57,6,.i,.i,male,7
+20,13,disagree,neither agree or disagree,male,4
+53,16,.i,.i,female,2
+53,16,disagree,disagree,male,2
+42,8,agree,agree,female,6
+63,18,.i,.i,male,7
+55,20,strongly agree,disagree,male,4
+54,17,.i,.i,male,2
+77,20,agree,neither agree or disagree,male,1
+48,16,.i,.i,female,6
+52,4,disagree,agree,female,6
+31,13,.i,.i,male,3
+57,12,agree,disagree,female,7
+21,12,disagree,strongly agree,male,7
+50,15,.i,.i,female,1
+38,16,agree,agree,female,1
+33,12,disagree,disagree,male,8
+26,14,.i,.i,male,2
+33,14,.i,.i,female,1
+44,17,agree,strongly agree,female,0
+25,16,.i,.i,male,1
+27,16,.i,.i,female,1
+27,16,strongly agree,strongly disagree,male,1
+28,16,agree,agree,female,1
+22,16,disagree,agree,male,1
+48,17,.i,.i,female,2
+89 or older,8,disagree,agree,male,11
+49,17,.i,.i,female,2
+87,12,disagree,agree,female,3
+64,17,.i,.i,male,5
+41,15,strongly agree,agree,male,3
+57,9,.i,.i,male,12
+46,16,agree,agree,female,5
+58,16,strongly agree,agree,female,1
+78,16,.i,.i,female,3
+45,19,agree,disagree,female,2
+38,14,agree,disagree,female,3
+69,20,.i,.i,female,2
+61,16,.i,.i,male,2
+48,16,agree,agree,female,3
+37,16,agree,disagree,male,3
+47,12,disagree,strongly disagree,male,3
+26,18,.i,.i,male,0
+41,13,strongly agree,strongly disagree,female,2
+55,18,.i,.i,female,2
+81,10,agree,disagree,female,3
+32,17,agree,disagree,male,2
+27,14,strongly agree,strongly disagree,male,2
+32,13,agree,neither agree or disagree,female,2
+39,18,.i,.i,female,4
+55,16,strongly agree,disagree,female,1
+35,16,.i,.i,male,1
+64,17,agree,neither agree or disagree,male,0
+85,15,.i,.i,female,4
+52,12,strongly agree,disagree,male,1
+46,12,.i,.i,female,6
+34,5,disagree,strongly disagree,female,4
+55,10,disagree,disagree,female,12
+72,12,agree,disagree,male,12
+34,16,agree,agree,female,1
+35,10,.i,.i,male,3
+61,12,strongly agree,disagree,female,4
+56,12,.i,.i,male,3
+60,15,agree,agree,female,6
+65,16,agree,disagree,female,2
+85,9,.i,.i,male,9
+42,12,agree,disagree,male,0
+27,14,agree,disagree,female,1
+85,12,.i,.i,female,6
+63,14,strongly agree,strongly disagree,female,7
+61,15,.i,.i,female,4
+27,20,agree,disagree,female,2
+48,16,agree,agree,male,4
+25,16,agree,agree,male,0
+34,13,strongly agree,disagree,male,3
+37,16,.i,.i,female,3
+64,14,strongly agree,strongly agree,female,2
+82,18,agree,disagree,male,1
+43,16,agree,agree,female,0
+54,14,strongly agree,agree,female,2
+25,18,.i,.i,female,3
+78,17,agree,neither agree or disagree,female,1
+19,12,.i,.i,female,3
+64,11,strongly agree,strongly disagree,male,3
+23,13,strongly agree,disagree,male,0
+31,16,.i,.i,female,1
+41,15,agree,agree,male,1
+29,12,strongly agree,disagree,female,4
+51,19,agree,agree,female,3
+55,18,disagree,neither agree or disagree,male,3
+36,15,agree,disagree,female,3
+87,13,agree,agree,female,2
+28,17,disagree,agree,male,1
+35,17,agree,agree,male,1
+37,18,.i,.i,male,8
+84,12,agree,don't know,male,4
+21,13,.i,.i,male,2
+49,17,.i,.i,male,2
+42,12,strongly disagree,strongly disagree,female,5
+69,14,agree,disagree,female,2
+32,16,.i,.i,female,1
+69,20,strongly agree,agree,female,6
+48,16,.i,.i,female,1
+20,10,disagree,agree,male,3
+51,19,agree,disagree,female,3
+60,20,.i,.i,male,6
+59,16,agree,agree,female,2
+89 or older,16,.i,.i,female,1
+18,12,.i,.i,female,2
+62,20,agree,strongly disagree,female,3
+54,13,disagree,agree,female,2
+19,12,agree,agree,female,3
+38,10,strongly agree,strongly disagree,female,4
+31,14,.i,.i,male,2
+51,18,agree,neither agree or disagree,female,1
+23,11,disagree,agree,male,3
+48,16,.i,.i,female,1
+45,16,agree,disagree,female,2
+20,12,disagree,disagree,male,0
+70,15,disagree,disagree,female,5
+58,16,agree,neither agree or disagree,female,3
+63,16,.i,.i,male,3
+44,12,.i,.i,female,0
+87,14,disagree,agree,female,2
+50,16,strongly agree,neither agree or disagree,female,3
+52,11,agree,disagree,female,12
+32,14,agree,neither agree or disagree,male,0
+43,20,agree,disagree,male,1
+51,16,strongly agree,strongly disagree,female,1
+58,20,.i,.i,male,0
+75,11,agree,agree,female,8
+71,16,.i,.i,female,3
+72,14,.i,.i,female,4
+64,14,agree,neither agree or disagree,female,1
+35,12,disagree,disagree,female,5
+34,15,strongly disagree,agree,male,1
+71,11,.i,.i,male,5
+41,17,.i,.i,male,2
+34,13,strongly agree,strongly disagree,male,3
+50,13,strongly agree,agree,male,4
+23,12,.i,.i,female,3
+53,12,disagree,disagree,male,3
+64,13,strongly agree,agree,male,4
+41,20,agree,agree,male,3
+46,14,.i,.i,male,2
+54,16,agree,agree,male,3
+67,19,disagree,agree,male,3
+53,16,.i,.i,female,2
+59,12,disagree,disagree,female,2
+65,12,.i,.i,female,5
+51,14,disagree,don't know,male,4
+39,14,.i,.i,male,2
+49,12,agree,agree,female,2
+30,16,strongly agree,disagree,female,0
+57,19,strongly agree,strongly disagree,female,5
+36,18,.i,.i,male,0
+39,18,agree,agree,female,0
+38,18,.i,.i,female,1
+46,16,.i,.i,male,1
+41,18,agree,agree,male,4
+29,18,disagree,disagree,male,1
+58,12,agree,agree,male,3
+48,17,.i,.i,female,2
+31,20,agree,neither agree or disagree,male,1
+54,14,agree,agree,female,8
+37,9,agree,disagree,female,1
+48,18,strongly agree,disagree,female,9
+58,12,.i,.i,male,2
+77,9,agree,disagree,female,6
+44,14,strongly agree,disagree,female,1
+27,16,.i,.i,female,1
+19,11,strongly agree,don't know,male,4
+55,13,.i,.i,male,4
+52,12,agree,neither agree or disagree,female,2
+63,13,strongly agree,neither agree or disagree,male,7
+39,14,.i,.i,female,5
+68,10,disagree,agree,female,5
+82,4,agree,strongly agree,male,5
+59,12,agree,agree,female,6
+64,15,disagree,disagree,female,5
+47,18,agree,don't know,female,6
+45,12,.i,.i,male,2
+37,12,agree,disagree,male,1
+20,11,agree,neither agree or disagree,male,8
+31,20,strongly agree,neither agree or disagree,male,3
+22,13,agree,strongly disagree,female,2
+61,16,agree,agree,female,0
+56,15,agree,neither agree or disagree,female,4
+34,8,agree,agree,male,3
+53,12,agree,disagree,male,7
+22,12,.i,.i,male,3
+39,12,agree,agree,female,7
+25,6,.i,.i,male,7
+75,17,disagree,neither agree or disagree,male,2
+44,18,.i,.i,male,4
+26,14,disagree,neither agree or disagree,male,4
+40,13,.i,.i,female,4
+33,10,disagree,agree,female,5
+49,12,disagree,don't know,male,15
+49,12,strongly disagree,neither agree or disagree,female,5
+48,20,.i,.i,male,2
+40,17,agree,agree,male,0
+80,14,.i,.i,male,3
+21,12,dk,disagree,female,3
+38,0,disagree,don't know,male,7
+74,12,strongly agree,neither agree or disagree,male,8
+75,16,.i,.i,male,7
+40,14,strongly agree,strongly disagree,female,0
+50,16,.i,.i,female,2
+48,8,agree,disagree,female,2
+32,9,.i,.i,male,5
+41,8,strongly disagree,strongly disagree,male,11
+26,9,.i,.i,female,9
+57,12,agree,disagree,female,3
+30,12,.i,.i,female,4
+41,12,.i,.i,female,2
+50,9,.i,.i,male,6
+30,15,strongly agree,neither agree or disagree,male,3
+47,12,strongly agree,don't know,female,0
+65,7,.i,.i,female,5
+43,5,disagree,agree,male,8
+20,14,.i,.i,male,8
+47,18,strongly agree,neither agree or disagree,female,1
+31,16,.i,.i,male,1
+35,12,agree,strongly disagree,male,8
+58,12,.i,.i,male,3
+66,14,strongly agree,agree,female,2
+37,12,.i,.i,female,4
+40,15,.i,.i,female,10
+56,13,strongly agree,agree,male,1
+49,12,strongly agree,neither agree or disagree,female,1
+30,14,.i,.i,female,2
+45,18,disagree,disagree,female,2
+77,13,.i,.i,male,7
+30,11,strongly agree,neither agree or disagree,female,3
+43,10,strongly disagree,strongly agree,male,3
+31,13,strongly agree,disagree,female,10
+58,16,.i,.i,female,2
+62,12,disagree,neither agree or disagree,male,9
+73,10,agree,agree,male,3
+60,12,.i,.i,female,2
+32,11,strongly disagree,disagree,male,4
+24,10,.i,.i,female,6
+71,14,disagree,strongly agree,male,3
+31,15,disagree,disagree,male,5
+42,14,.i,.i,female,6
+80,10,strongly disagree,don't know,female,5
+76,12,agree,agree,female,6
+40,11,strongly agree,agree,female,3
+29,10,disagree,neither agree or disagree,male,13
+86,10,disagree,agree,female,9
+53,12,.i,.i,male,2
+48,12,agree,agree,female,6
+86,6,disagree,agree,female,6
+71,12,agree,agree,female,8
+50,6,.i,.i,female,8
+40,14,.i,.i,male,5
+30,12,.i,.i,male,2
+68,6,disagree,agree,male,4
+37,17,strongly agree,disagree,female,4
+41,11,agree,disagree,female,1
+64,15,.i,.i,female,8
+72,13,.i,.i,male,3
+40,19,strongly agree,agree,female,3
+43,16,strongly agree,agree,female,3
+84,17,strongly disagree,neither agree or disagree,male,1
+34,16,.i,.i,male,1
+79,14,disagree,disagree,female,10
+60,10,.i,.i,male,7
+59,12,strongly disagree,agree,male,3
+59,12,strongly agree,strongly disagree,male,13
+63,13,strongly agree,disagree,female,3
+66,7,strongly disagree,agree,female,4
+49,12,strongly disagree,strongly disagree,male,10
+66,17,disagree,disagree,male,1
+42,19,.i,.i,male,5
+52,20,agree,neither agree or disagree,male,1
+42,20,.i,.i,male,5
+45,17,.i,.i,male,1
+37,18,strongly agree,disagree,female,2
+49,12,.i,.i,male,2
+31,11,agree,disagree,male,3
+81,13,.i,.i,male,4
+30,20,.i,.i,male,3
+29,13,agree,disagree,male,6
+58,14,disagree,agree,male,3
+76,12,.i,.i,female,3
+49,16,disagree,disagree,male,2
+42,14,disagree,agree,female,10
+56,16,strongly agree,agree,male,3
+40,18,strongly agree,agree,female,1
+35,18,agree,disagree,female,6
+36,18,strongly agree,disagree,female,1
+56,16,.i,.i,female,3
+37,20,strongly disagree,agree,male,2
+35,13,.i,.i,female,5
+24,15,strongly agree,agree,male,2
+70,12,agree,agree,male,4
+28,11,strongly agree,disagree,male,1
+51,12,strongly agree,agree,female,2
+30,14,agree,agree,female,2
+80,12,strongly agree,disagree,female,2
+46,16,strongly agree,disagree,female,5
+78,18,agree,disagree,female,1
+64,13,strongly agree,disagree,female,1
+50,20,.i,.i,female,1
+63,14,agree,agree,male,3
+66,14,disagree,disagree,male,9
+35,16,agree,strongly disagree,female,2
+72,12,disagree,disagree,male,11
+88,14,strongly agree,agree,male,9
+na,12,.i,.i,female,1
+19,9,agree,agree,male,14
+32,14,.i,.i,female,10
+33,12,agree,disagree,female,1
+48,14,disagree,agree,female,11
+67,14,.i,.i,female,7
+46,12,disagree,don't know,male,6
+50,18,agree,agree,male,4
+28,16,disagree,neither agree or disagree,male,2
+28,15,disagree,disagree,female,2
+49,15,.i,.i,male,0
+20,12,.i,.i,female,4
+51,14,disagree,agree,male,4
+75,10,agree,don't know,female,5
+65,13,agree,agree,female,1
+58,12,agree,disagree,female,2
+40,11,agree,agree,female,6
+32,14,.i,.i,female,1
+53,14,agree,disagree,female,8
+51,13,agree,neither agree or disagree,male,1
+48,12,.i,.i,female,7
+42,12,disagree,strongly disagree,male,4
+39,15,.i,.i,female,1
+27,11,disagree,disagree,female,0
+45,12,agree,disagree,female,4
+42,15,strongly agree,neither agree or disagree,male,3
+48,12,agree,agree,male,2
+69,15,.i,.i,female,2
+18,12,strongly disagree,agree,male,3
+37,12,agree,neither agree or disagree,male,1
+33,16,.i,.i,female,6
+49,12,agree,neither agree or disagree,female,5
+39,16,.i,.i,female,5
+44,8,agree,disagree,female,6
+53,6,strongly disagree,agree,male,6
+25,12,.i,.i,male,5
+45,16,agree,disagree,female,1
+24,12,disagree,strongly agree,male,4
+59,13,.i,.i,female,2
+27,14,agree,disagree,female,7
+54,20,strongly agree,disagree,male,10
+26,12,strongly agree,disagree,female,2
+86,12,.i,.i,female,0
+63,12,strongly disagree,disagree,female,5
+27,13,disagree,disagree,female,6
+52,13,.i,.i,male,4
+50,12,strongly agree,neither agree or disagree,female,9
+36,12,agree,disagree,female,8
+38,12,.i,.i,male,1
+73,12,.i,.i,female,2
+51,17,.i,.i,male,4
+41,14,strongly agree,strongly agree,female,3
+36,16,.i,.i,male,7
+54,16,.i,.i,female,1
+39,18,strongly agree,agree,female,4
+61,14,strongly agree,disagree,female,7
+21,12,agree,agree,male,2
+76,9,.i,.i,male,8
+23,16,.i,.i,female,1
+63,12,.i,.i,female,6
+45,18,strongly agree,agree,female,1
+26,9,.i,.i,female,5
+36,9,disagree,agree,male,3
+64,14,.i,.i,male,14
+46,6,disagree,agree,male,7
+69,12,strongly agree,disagree,female,1
+43,15,disagree,disagree,female,3
+57,16,.i,.i,female,8
+34,12,strongly agree,neither agree or disagree,male,2
+30,12,strongly disagree,disagree,male,2
+28,16,strongly agree,agree,male,2
+23,14,.i,.i,male,0
+29,12,strongly agree,agree,male,4
+54,19,.i,.i,female,1
+57,15,agree,strongly disagree,male,3
+67,13,strongly agree,agree,female,3
+27,13,agree,disagree,female,2
+43,17,.i,.i,female,2
+42,14,agree,neither agree or disagree,male,5
+35,14,strongly agree,disagree,female,7
+30,16,strongly agree,strongly disagree,female,2
+55,14,agree,neither agree or disagree,male,6
+53,14,.i,.i,female,1
+18,11,strongly agree,neither agree or disagree,male,0
+40,20,agree,neither agree or disagree,male,1
+25,14,agree,agree,male,1
+54,20,strongly agree,neither agree or disagree,female,3
+52,16,.i,.i,male,4
+25,12,.i,.i,female,3
+28,13,agree,disagree,male,4
+74,12,disagree,disagree,male,7
+89 or older,16,dk,neither agree or disagree,male,4
+77,11,agree,don't know,male,1
+24,13,strongly agree,strongly disagree,female,2
+72,12,.i,.i,female,2
+70,12,strongly agree,strongly disagree,female,2
+84,14,agree,disagree,male,1
+73,12,.i,.i,female,2
+57,13,agree,agree,male,10
+47,20,strongly agree,agree,female,2
+49,15,agree,agree,female,8
+51,12,strongly agree,disagree,female,7
+53,11,.i,.i,female,6
+65,14,.i,.i,male,3
+55,13,strongly agree,disagree,female,5
+57,16,agree,neither agree or disagree,male,5
+38,15,.i,.i,male,2
+49,12,.i,.i,female,5
+54,13,disagree,agree,male,4
+21,12,disagree,disagree,male,0
+20,13,.i,.i,male,1
+76,12,strongly agree,neither agree or disagree,female,4
+66,8,.i,.i,male,7
+43,12,strongly agree,strongly agree,female,2
+55,14,disagree,disagree,female,7
+28,20,strongly agree,strongly disagree,female,3
+45,16,agree,disagree,female,7
+81,8,agree,disagree,male,1
+76,12,.i,.i,female,2
+45,13,agree,neither agree or disagree,female,3
+62,12,.i,.i,male,0
+62,12,strongly agree,disagree,male,2
+29,16,strongly agree,neither agree or disagree,female,2
+31,18,.i,.i,male,2
+32,14,agree,disagree,male,2
+41,14,strongly agree,strongly agree,male,1
+30,16,agree,agree,female,3
+64,16,.i,.i,female,1
+50,13,disagree,don't know,male,2
+22,13,strongly agree,disagree,male,1
+22,11,strongly agree,agree,female,6
+54,16,.i,.i,female,2
+76,12,strongly agree,strongly agree,female,0
+66,14,.i,.i,male,1
+64,16,agree,agree,male,7
+56,16,strongly agree,disagree,female,2
+19,11,.i,.i,female,2
+45,14,strongly agree,disagree,female,3
+47,17,agree,strongly agree,female,2
+20,14,disagree,neither agree or disagree,male,2
+44,13,agree,disagree,male,8
+24,15,agree,neither agree or disagree,male,2
+49,16,disagree,neither agree or disagree,female,4
+67,12,agree,disagree,female,5
+48,12,agree,disagree,male,1
+47,12,.i,.i,female,0
+75,15,strongly agree,strongly disagree,female,1
+76,13,.i,.i,female,1
+51,11,disagree,disagree,female,4
+37,12,.i,.i,male,2
+43,12,agree,disagree,female,3
+22,13,disagree,agree,female,3
+41,13,strongly agree,disagree,male,5
+24,14,.i,.i,male,3
+43,8,disagree,agree,female,5
+66,14,.i,.i,female,1
+47,13,.i,.i,female,3
+50,15,.i,.i,male,3
+57,14,.i,.i,male,6
+56,13,agree,neither agree or disagree,male,2
+22,12,agree,agree,female,7
+61,16,.i,.i,male,0
+26,15,agree,agree,female,1
+42,16,.i,.i,female,2
+87,15,dk,don't know,male,14
+32,16,.i,.i,male,1
+42,16,.i,.i,male,2
+89 or older,12,agree,disagree,female,2
+55,13,.i,.i,female,6
+38,16,strongly agree,strongly agree,female,1
+62,15,.i,.i,male,6
+51,16,strongly disagree,disagree,male,5
+27,14,.i,.i,female,2
+36,11,disagree,strongly agree,male,3
+34,14,disagree,agree,female,3
+36,16,.i,.i,female,7
+29,14,disagree,neither agree or disagree,male,3
+42,12,strongly agree,agree,female,1
+51,14,agree,disagree,male,1
+25,13,.i,.i,male,3
+81,16,.i,.i,female,5
+22,12,agree,disagree,female,4
+45,13,disagree,disagree,female,2
+61,13,agree,disagree,male,2
+79,15,.i,.i,male,1
+63,12,.i,.i,male,5
+60,20,disagree,agree,male,7
+54,12,.i,.i,female,2
+56,12,agree,disagree,female,5
+21,14,.i,.i,male,2
+67,11,.i,.i,male,1
+61,12,agree,agree,male,7
+51,12,agree,disagree,male,4
+72,9,agree,disagree,female,1
+63,9,.i,.i,male,3
+78,18,agree,disagree,male,4
+45,16,strongly agree,disagree,female,3
+48,12,disagree,disagree,male,6
+79,16,disagree,disagree,male,1
+30,12,.i,.i,male,0
+32,12,agree,strongly disagree,female,2
+30,11,.i,.i,female,3
+44,16,agree,disagree,male,2
+42,14,agree,agree,female,3
+64,14,.i,.i,female,8
+42,16,.i,.i,male,1
+42,16,strongly agree,disagree,female,1
+46,16,.i,.i,male,1
+26,13,agree,agree,male,3
+63,12,agree,agree,female,4
+45,16,strongly disagree,agree,female,4
+33,15,.i,.i,female,0
+27,15,agree,strongly disagree,female,1
+50,16,.i,.i,male,12
+68,16,strongly agree,strongly disagree,male,1
+55,12,agree,disagree,female,4
+58,9,.i,.i,female,8
+19,13,agree,neither agree or disagree,female,1
+42,dk,disagree,no answer,male,4
+38,12,.i,.i,female,4
+63,13,strongly agree,agree,male,4
+27,16,agree,neither agree or disagree,female,3
+71,12,.i,.i,female,2
+38,12,agree,disagree,male,2
+77,12,disagree,strongly disagree,female,0
+48,12,.i,.i,female,2
+74,16,agree,agree,female,3
+56,10,.i,.i,female,6
+23,15,strongly agree,agree,female,3
+51,10,.i,.i,male,7
+47,12,agree,disagree,female,2
+49,12,disagree,agree,female,3
+22,15,.i,.i,female,3
+36,17,agree,neither agree or disagree,male,1
+38,12,.i,.i,male,0
+22,12,agree,disagree,male,1
+46,14,agree,disagree,male,2
+63,10,disagree,disagree,male,4
+19,11,strongly agree,disagree,male,2
+52,12,disagree,neither agree or disagree,male,3
+35,11,strongly agree,disagree,male,9
+64,12,.i,.i,female,1
+49,12,disagree,strongly agree,female,5
+45,11,agree,disagree,male,3
+68,11,disagree,neither agree or disagree,female,3
+45,12,.i,.i,female,7
+55,18,strongly agree,strongly disagree,female,3
+62,11,agree,agree,male,3
+31,16,agree,agree,male,2
+54,12,agree,neither agree or disagree,male,3
+21,13,agree,neither agree or disagree,female,1
+23,12,.i,.i,male,7
+34,16,agree,agree,female,1
+45,14,strongly agree,disagree,male,8
+28,13,agree,agree,male,2
+34,14,.i,.i,male,2
+74,12,strongly agree,agree,female,3
+25,13,.i,.i,male,2
+39,6,disagree,agree,female,6
+38,10,disagree,disagree,male,9
+80,3,.i,.i,male,9
+34,12,agree,neither agree or disagree,female,5
+71,12,disagree,strongly disagree,male,15
+33,10,disagree,agree,male,30
+32,9,.i,.i,female,4
+37,16,.i,.i,male,1
+41,12,strongly agree,strongly disagree,male,7
+32,14,strongly agree,disagree,male,0
+35,13,.i,.i,male,1
+61,12,agree,neither agree or disagree,male,9
+57,16,strongly agree,disagree,male,1
+71,15,.i,.i,male,2
+39,18,.i,.i,female,2
+30,13,.i,.i,female,2
+42,16,agree,disagree,female,1
+48,14,.i,.i,female,2
+32,19,.i,.i,male,1
+42,18,strongly agree,don't know,female,2
+37,13,agree,neither agree or disagree,male,4
+29,11,agree,disagree,female,3
+74,12,agree,disagree,female,0
+47,12,disagree,agree,male,2
+41,16,agree,agree,male,2
+71,15,agree,agree,male,1
+31,12,strongly agree,disagree,female,4
+33,14,.i,.i,female,1
+32,20,agree,neither agree or disagree,male,2
+48,13,agree,disagree,male,3
+50,18,.i,.i,female,4
+40,11,agree,disagree,male,4
+27,13,strongly disagree,agree,female,3
+35,14,.i,.i,female,6
+40,9,strongly agree,disagree,male,3
+33,15,strongly agree,disagree,female,2
+49,16,.i,.i,female,4
+30,12,strongly disagree,disagree,male,3
+22,16,.i,.i,female,1
+21,14,strongly agree,agree,female,0
+21,14,strongly agree,disagree,female,3
+23,16,agree,disagree,male,2
+67,12,strongly disagree,disagree,male,9
+34,13,agree,disagree,female,2
+18,12,strongly agree,agree,male,1
+76,12,agree,disagree,female,5
+28,12,agree,strongly disagree,male,2
+84,13,agree,strongly disagree,female,5
+31,9,agree,agree,male,2
+25,13,.i,.i,male,4
+38,12,.i,.i,male,0
+37,12,agree,disagree,female,2
+66,15,.i,.i,male,2
+72,12,disagree,neither agree or disagree,male,6
+24,14,agree,disagree,female,4
+49,14,strongly agree,strongly disagree,female,1
+42,9,agree,neither agree or disagree,male,7
+48,11,.i,.i,female,5
+39,12,agree,strongly agree,male,5
+59,12,disagree,agree,female,7
+63,14,agree,disagree,male,7
+61,13,disagree,agree,male,3
+48,12,agree,agree,female,2
+39,12,strongly agree,disagree,female,2
+32,16,.i,.i,male,1
+32,12,.i,.i,female,1
+27,14,strongly agree,disagree,male,7
+53,12,agree,agree,male,2
+88,12,agree,agree,female,0
+86,16,.i,.i,female,0
+44,16,strongly agree,agree,male,2
+37,14,.i,.i,male,1
+70,12,strongly disagree,neither agree or disagree,female,4
+31,12,strongly agree,disagree,female,3
+57,12,.i,.i,male,2
+63,12,strongly disagree,disagree,female,1
+47,20,.i,.i,female,1
+41,18,strongly agree,neither agree or disagree,female,6
+41,18,agree,neither agree or disagree,female,1
+42,12,.i,.i,female,3
+31,12,strongly agree,neither agree or disagree,female,4
+65,12,.i,.i,male,3
+79,16,agree,disagree,female,0
+65,14,strongly agree,neither agree or disagree,female,7
+38,18,agree,disagree,male,6
+65,14,.i,.i,female,0
+19,12,strongly disagree,neither agree or disagree,female,1
+58,16,.i,.i,male,2
+31,16,strongly agree,neither agree or disagree,female,2
+36,12,agree,disagree,female,7
+29,16,.i,.i,female,3
+37,17,disagree,disagree,female,3
+42,17,.i,.i,female,2
+26,15,.i,.i,female,3
+24,12,strongly disagree,disagree,male,4
+75,12,agree,strongly disagree,male,11
+40,20,strongly disagree,disagree,male,1
+30,11,strongly agree,strongly disagree,male,7
+65,16,strongly disagree,agree,male,2
+56,18,agree,neither agree or disagree,female,9
+40,16,disagree,agree,male,3
+38,15,.i,.i,female,2
+69,16,agree,disagree,female,8
+64,16,.i,.i,male,4
+29,14,agree,agree,male,3
+49,12,.i,.i,female,3
+32,12,agree,disagree,male,1
+55,13,.i,.i,female,2
+55,14,agree,disagree,male,3
+83,12,.i,.i,male,11
+35,18,disagree,agree,male,2
+42,11,agree,neither agree or disagree,male,5
+39,14,.i,.i,female,2
+23,15,disagree,disagree,female,2
+49,12,agree,strongly disagree,female,8
+58,12,.i,.i,female,2
+50,12,disagree,agree,female,1
+45,17,strongly agree,agree,female,2
+77,9,.i,.i,female,3
+34,20,.i,.i,female,0
+32,14,disagree,agree,female,1
+61,12,.i,.i,female,3
+69,18,strongly agree,disagree,female,1
+56,14,.i,.i,male,4
+43,12,strongly agree,disagree,male,1
+20,12,agree,neither agree or disagree,male,1
+30,8,.i,.i,male,4
+57,13,disagree,disagree,male,2
+24,16,.i,.i,male,1
+57,16,agree,disagree,female,5
+22,15,strongly agree,disagree,female,2
+23,13,agree,strongly disagree,male,0
+50,12,agree,disagree,male,5
+71,12,.i,.i,female,2
+25,16,disagree,agree,male,3
+43,13,.i,.i,female,3
+84,12,agree,disagree,female,0
+55,12,agree,disagree,female,3
+29,16,.i,.i,male,1
+21,13,agree,agree,female,3
+34,18,strongly agree,strongly disagree,female,2
+34,18,strongly agree,agree,female,1
+83,10,strongly agree,neither agree or disagree,female,10
+77,7,.i,.i,female,3
+28,16,strongly agree,strongly disagree,female,2
+78,13,agree,agree,female,1
+61,14,agree,disagree,male,3
+62,17,.i,.i,male,5
+40,8,.i,.i,female,3
+27,12,strongly agree,disagree,male,7
+59,16,agree,disagree,male,4
+22,16,strongly agree,neither agree or disagree,male,1
+60,20,strongly disagree,don't know,male,2
+61,16,.i,.i,female,1
+31,16,strongly agree,disagree,female,2
+38,18,.i,.i,female,0
+26,16,disagree,agree,female,2
+25,12,strongly agree,agree,female,4
+78,11,.i,.i,female,2
+39,20,.i,.i,female,2
+40,17,disagree,agree,male,3
+52,13,disagree,disagree,male,3
+70,20,.i,.i,male,1
+36,16,agree,agree,female,3
+41,16,.i,.i,female,3
+58,16,strongly agree,agree,male,2
+29,9,strongly agree,disagree,male,4
+34,15,agree,agree,male,1
+84,10,.i,.i,male,4
+54,10,agree,disagree,female,10
+33,14,disagree,agree,male,2
+26,14,agree,agree,female,2
+47,10,.i,.i,female,4
+59,13,agree,agree,female,3
+46,12,.i,.i,male,3
+88,8,dk,don't know,male,5
+46,10,strongly agree,agree,female,2
+23,15,agree,agree,male,1
+24,16,agree,neither agree or disagree,male,1
+63,12,.i,.i,female,4
+67,17,strongly agree,neither agree or disagree,female,1
+28,19,.i,.i,female,2
+30,16,agree,strongly disagree,female,6
+19,11,agree,disagree,male,2
+42,12,disagree,neither agree or disagree,female,3
+57,14,disagree,disagree,male,3
+64,18,agree,neither agree or disagree,male,2
+63,14,agree,strongly disagree,male,2
+22,14,agree,neither agree or disagree,female,5
+28,12,agree,disagree,male,2
+28,8,disagree,disagree,male,1
+51,13,.i,.i,male,3
+37,16,strongly agree,neither agree or disagree,female,16
+37,14,strongly agree,disagree,female,5
+28,11,disagree,agree,female,6
+60,12,.i,.i,female,1
+31,12,agree,don't know,male,5
+57,12,.i,.i,female,7
+na,12,agree,strongly disagree,female,1
+30,20,.i,.i,male,2
+51,16,agree,disagree,female,2
+31,18,.i,.i,female,1
+56,12,agree,neither agree or disagree,female,4
+49,14,.i,.i,male,1
+19,12,agree,strongly disagree,female,4
+48,12,.i,.i,male,1
+33,17,strongly agree,disagree,female,1
+46,12,.i,.i,female,1
+31,12,agree,agree,female,1
+35,12,.i,.i,male,4
+42,9,strongly agree,disagree,female,3
+30,14,.i,.i,female,1
+38,11,strongly agree,disagree,female,2
+52,15,.i,.i,female,2
+49,12,agree,disagree,female,13
+62,12,disagree,agree,female,6
+54,12,.i,.i,female,dk
+38,3,agree,disagree,female,7
+30,16,strongly agree,neither agree or disagree,female,0
+53,11,agree,agree,male,5
+40,17,strongly disagree,agree,female,1
+67,18,strongly agree,agree,male,2
+78,18,agree,strongly disagree,male,3
+66,12,strongly agree,agree,female,1
+57,12,.i,.i,female,2
+42,11,agree,disagree,male,3
+32,16,.i,.i,male,1
+20,12,agree,disagree,female,1
+61,15,agree,agree,male,0
+55,9,.i,.i,male,7
+23,10,strongly disagree,agree,male,4
+33,9,agree,neither agree or disagree,male,2
+62,9,agree,strongly disagree,female,6
+59,12,strongly agree,disagree,female,4
+62,17,disagree,neither agree or disagree,male,0
+65,12,strongly agree,disagree,female,1
+30,16,.i,.i,male,2
+32,14,agree,agree,female,1
+40,12,agree,neither agree or disagree,female,3
+25,16,disagree,neither agree or disagree,female,4
+53,20,agree,disagree,male,3
+72,17,dk,agree,female,1
+26,16,.i,.i,female,0
+33,14,disagree,neither agree or disagree,male,4
+65,12,agree,no answer,female,4
+40,12,.i,.i,female,3
+32,20,disagree,neither agree or disagree,male,0
+52,10,disagree,disagree,male,1
+50,12,.i,.i,female,3
+70,10,agree,disagree,female,9
+73,14,disagree,neither agree or disagree,female,1
+53,16,.i,.i,female,3
+72,14,strongly agree,strongly disagree,female,9
+66,16,.i,.i,male,4
+89 or older,20,disagree,neither agree or disagree,male,8
+63,14,.i,.i,female,5
+26,16,agree,disagree,female,1
+43,6,.i,.i,male,11
+56,13,agree,agree,male,4
+69,14,.i,.i,female,6
+27,14,.i,.i,female,4
+43,16,.i,.i,female,3
+82,10,disagree,agree,female,7
+53,12,.i,.i,female,7
+39,15,agree,disagree,female,3
+51,18,disagree,agree,female,3
+63,10,agree,agree,female,4
+43,16,strongly agree,neither agree or disagree,female,1
+38,13,disagree,disagree,female,4
+41,11,.i,.i,female,0
+68,16,agree,agree,female,0
+23,13,agree,disagree,female,3
+77,12,agree,disagree,male,1
+30,17,agree,neither agree or disagree,female,1
+27,11,agree,don't know,male,8
+49,8,.i,.i,male,5
+36,14,agree,neither agree or disagree,male,2
+67,8,.i,.i,male,9
+70,12,agree,disagree,male,6
+43,11,.i,.i,female,2
+58,12,agree,disagree,female,3
+35,14,agree,disagree,female,3
+27,14,strongly agree,strongly disagree,female,1
+32,12,.i,.i,female,13
+40,12,disagree,neither agree or disagree,female,17
+54,12,strongly agree,neither agree or disagree,female,1
+73,14,.i,.i,female,5
+55,12,agree,neither agree or disagree,female,8
+23,12,agree,agree,female,5
+21,12,strongly agree,disagree,male,3
+20,15,agree,neither agree or disagree,male,5
+47,13,strongly agree,strongly disagree,female,2
+62,16,.i,.i,male,2
+31,15,strongly agree,agree,male,1
+64,12,agree,neither agree or disagree,male,3
+52,16,strongly agree,disagree,female,4
+83,16,.i,.i,female,4
+56,12,disagree,disagree,male,8
+30,12,agree,agree,male,2
+61,12,strongly agree,neither agree or disagree,female,2
+75,18,strongly agree,neither agree or disagree,female,2
+73,14,.i,.i,male,1
+68,14,strongly disagree,agree,male,1
+69,16,agree,disagree,male,2
+52,15,disagree,agree,female,1
+59,12,strongly agree,strongly disagree,female,6
+39,11,agree,neither agree or disagree,male,2
+57,11,.i,.i,female,5
+63,16,.i,.i,female,2
+29,12,disagree,strongly disagree,male,8
+19,10,agree,disagree,female,8
+30,10,.i,.i,male,4
+38,12,disagree,don't know,female,6
+28,12,agree,don't know,male,1
+41,14,agree,disagree,female,1
+56,16,.i,.i,male,4
+24,16,agree,disagree,male,5
+58,14,.i,.i,female,13
+28,16,disagree,don't know,male,2
+55,12,.i,.i,female,3
+41,14,strongly agree,disagree,female,1
+29,14,agree,disagree,male,2
+65,12,agree,agree,female,4
+64,13,agree,disagree,female,4
+41,14,.i,.i,female,2
+39,8,.i,.i,male,2
+29,13,strongly agree,agree,male,3
+54,13,disagree,disagree,male,7
+47,14,.i,.i,female,2
+44,12,agree,disagree,female,2
+24,12,disagree,disagree,female,5
+33,13,strongly agree,strongly disagree,female,1
+60,15,.i,.i,female,2
+60,14,disagree,disagree,male,2
+53,16,agree,disagree,male,1
+19,8,.i,.i,male,2
+46,12,agree,disagree,female,2
+84,na,disagree,no answer,male,1
+37,14,agree,agree,female,1
+35,16,.i,.i,female,2
+60,14,agree,agree,female,2
+46,12,.i,.i,female,4
+26,8,disagree,agree,male,2
+31,16,agree,agree,male,1
+67,14,.i,.i,female,1
+67,17,.i,.i,female,6
+88,15,strongly agree,disagree,male,1
+40,18,agree,strongly agree,female,6
+70,16,.i,.i,female,2
+44,9,disagree,strongly disagree,female,4
+39,14,.i,.i,male,2
+65,12,.i,.i,male,1
+33,11,disagree,disagree,female,22
+63,17,strongly agree,agree,male,0
+31,13,.i,.i,male,1
+23,12,strongly agree,disagree,female,8
+71,12,.i,.i,female,1
+32,12,disagree,agree,male,3
+52,14,.i,.i,female,3
+77,12,strongly agree,disagree,female,8
+63,15,agree,disagree,female,5
+42,12,disagree,agree,male,0
+52,16,.i,.i,female,0
+70,16,agree,agree,female,4
+23,8,.i,.i,female,4
+84,16,disagree,disagree,male,2
+30,12,agree,strongly agree,male,2
+59,11,dk,don't know,male,5
+61,12,agree,agree,female,4
+37,12,.i,.i,male,15
+41,12,disagree,disagree,female,3
+55,12,disagree,agree,female,2
+31,14,.i,.i,female,2
+21,10,agree,neither agree or disagree,male,2
+28,12,.i,.i,female,4
+35,16,disagree,neither agree or disagree,male,1
+52,16,agree,neither agree or disagree,male,2
+63,20,strongly agree,disagree,male,4
+46,12,strongly agree,disagree,female,7
+64,14,disagree,agree,male,5
+29,13,.i,.i,female,3
+41,19,strongly agree,disagree,female,5
+60,16,.i,.i,female,0
+38,8,disagree,disagree,male,7
+81,10,disagree,agree,female,3
+52,12,agree,agree,male,1
+62,12,strongly agree,disagree,female,10
+46,15,disagree,strongly disagree,male,5
+27,12,.i,.i,male,1
+43,16,disagree,disagree,male,1
+48,12,strongly disagree,don't know,female,4
+37,12,agree,strongly disagree,female,10
+55,20,strongly agree,neither agree or disagree,male,1
+19,11,.i,.i,male,3
+59,12,disagree,disagree,female,6
+37,18,strongly agree,disagree,female,2
+na,13,agree,disagree,female,2
+37,17,.i,.i,female,0
+47,20,.i,.i,female,3
+77,11,disagree,disagree,female,10
+21,11,disagree,disagree,male,8
+71,15,agree,disagree,female,3
+59,18,.i,.i,female,3
+28,12,agree,agree,female,1
+57,12,.i,.i,male,6
+37,17,strongly disagree,disagree,male,4
+37,12,disagree,agree,male,3
+49,12,agree,agree,male,10
+63,12,.i,.i,male,8
+22,9,.i,.i,male,5
+45,15,disagree,disagree,male,2
+82,18,agree,agree,female,3
+59,16,.i,.i,female,3
+41,13,agree,strongly disagree,male,3
+47,13,.i,.i,female,4
+29,10,.i,.i,female,4
+52,13,disagree,disagree,male,1
+24,13,.i,.i,female,1
+72,13,.i,.i,female,8
+52,14,.i,.i,female,7
+54,19,.i,.i,male,6
+61,17,strongly agree,neither agree or disagree,female,2
+37,16,agree,disagree,female,3
+65,16,.i,.i,female,1
+33,16,strongly agree,disagree,female,1
+64,12,agree,disagree,female,2
+52,16,.i,.i,male,10
+71,12,.i,.i,female,5
+65,12,agree,disagree,female,6
+19,11,disagree,neither agree or disagree,female,6
+60,16,.i,.i,male,5
+60,12,.i,.i,male,0
+25,12,disagree,disagree,female,1
+51,12,disagree,disagree,male,4
+66,12,.i,.i,female,10
+68,12,.i,.i,male,2
+52,12,.i,.i,male,4
+37,19,agree,agree,female,2
+87,16,agree,neither agree or disagree,female,5
+26,16,disagree,agree,male,2
+76,18,strongly agree,agree,female,4
+47,16,agree,don't know,female,4
+52,16,agree,agree,male,2
+68,16,agree,agree,male,3
+53,12,strongly agree,neither agree or disagree,female,3
+60,5,disagree,strongly agree,female,7
+30,12,disagree,disagree,male,8
+82,12,disagree,disagree,male,8
+34,12,strongly agree,disagree,female,3
+65,12,.i,.i,female,5
+57,14,strongly disagree,disagree,male,1
+65,12,strongly agree,disagree,female,6
+73,12,disagree,disagree,male,3
+50,12,disagree,disagree,female,3
+41,16,agree,don't know,male,2
+44,16,.i,.i,male,0
+74,20,agree,disagree,male,3
+19,12,disagree,agree,male,1
+69,15,.i,.i,male,3
+62,14,agree,disagree,male,1
+28,15,agree,neither agree or disagree,female,0
+44,18,.i,.i,male,3
+66,16,agree,disagree,female,0
+84,8,disagree,agree,male,5
+29,14,.i,.i,female,11
+87,12,agree,disagree,male,3
+75,9,.i,.i,male,7
+47,14,strongly agree,disagree,female,7
+86,12,.i,.i,female,3
+55,12,agree,disagree,male,5
+76,13,disagree,agree,female,0
+84,16,.i,.i,female,3
+80,14,strongly disagree,strongly disagree,female,9
+63,13,.i,.i,male,4
+42,18,agree,disagree,female,1
+59,19,.i,.i,female,3
+55,16,agree,agree,female,2
+44,20,agree,agree,female,6
+50,16,.i,.i,female,4
+47,20,strongly agree,disagree,male,2
+51,17,strongly agree,strongly disagree,male,3
+50,9,strongly disagree,strongly disagree,female,8
+70,15,strongly agree,neither agree or disagree,male,2
+30,17,agree,disagree,male,2
+25,14,.i,.i,female,6
+25,16,strongly agree,agree,male,3
+54,12,.i,.i,female,7
+68,15,agree,disagree,female,0
+47,12,agree,disagree,male,1
+88,17,.i,.i,female,1
+77,20,disagree,strongly disagree,male,2
+28,16,agree,strongly disagree,female,1
+58,10,.i,.i,male,4
+60,6,strongly agree,strongly disagree,female,3
+62,12,agree,disagree,male,2
+38,15,.i,.i,female,2
+25,12,agree,disagree,female,7
+34,15,strongly agree,agree,female,1
+89 or older,10,.i,.i,male,8
+36,10,.i,.i,male,7
+53,14,strongly agree,disagree,female,2
+46,12,disagree,agree,male,8
+69,8,.i,.i,female,4
+63,12,agree,agree,female,3
+59,13,.i,.i,female,3
+19,12,agree,neither agree or disagree,female,1
+26,12,strongly agree,disagree,female,1
+42,14,strongly agree,disagree,female,3
+52,14,.i,.i,female,2
+31,14,agree,disagree,male,5
+46,20,.i,.i,female,6
+18,11,agree,agree,male,1
+26,13,agree,agree,female,3
+40,15,strongly agree,agree,female,2
+33,12,strongly agree,disagree,male,7
+57,14,disagree,neither agree or disagree,male,3
+20,14,dk,neither agree or disagree,female,2
+42,20,strongly agree,agree,female,0
+41,16,agree,agree,male,8
+73,11,agree,neither agree or disagree,female,3
+21,13,.i,.i,male,1
+21,14,strongly agree,disagree,female,5
+45,19,disagree,agree,female,1
+21,13,disagree,agree,male,3
+68,20,disagree,agree,female,5
+46,18,.i,.i,female,6
+53,10,disagree,disagree,male,9
+28,12,.i,.i,male,2
+34,15,agree,disagree,male,4
+68,12,.i,.i,female,2
+43,11,agree,disagree,male,3
+42,8,agree,neither agree or disagree,female,5
+59,13,disagree,disagree,male,2
+57,14,strongly agree,disagree,female,3
+24,10,.i,.i,female,1
+40,12,agree,disagree,female,1
+41,16,strongly agree,disagree,female,0
+59,14,disagree,agree,male,7
+64,15,.i,.i,male,2
+55,20,agree,disagree,female,3
+55,12,.i,.i,male,0
+35,12,agree,disagree,male,3
+33,15,agree,disagree,male,1
+83,13,.i,.i,male,5
+48,18,.i,.i,female,3
+68,17,disagree,neither agree or disagree,female,12
+60,12,agree,disagree,male,6
+38,12,strongly agree,strongly disagree,female,4
+24,12,agree,disagree,male,1
+77,12,agree,disagree,male,2
+46,14,.i,.i,female,4
+83,18,agree,disagree,female,3
+89 or older,8,.i,.i,female,1
+86,12,disagree,disagree,male,2
+34,12,disagree,disagree,female,7
+45,15,.i,.i,male,7
+81,8,dk,no answer,male,9
+45,16,.i,.i,male,3
+42,14,agree,agree,male,3
+43,12,.i,.i,male,4
+47,14,agree,disagree,male,1
+59,12,disagree,neither agree or disagree,female,15
+33,9,.i,.i,female,10
+22,12,strongly agree,agree,female,2
+30,12,disagree,agree,male,1
+32,12,disagree,disagree,male,7
+89 or older,8,.i,.i,male,9
+25,12,agree,strongly disagree,male,8
+62,12,disagree,agree,male,1
+35,12,strongly agree,strongly disagree,male,2
+62,12,strongly agree,disagree,male,0
+51,12,agree,agree,female,2
+61,16,.i,.i,male,2
+28,17,.i,.i,female,3
+86,8,disagree,disagree,female,3
+85,15,.i,.i,female,2
+60,16,disagree,agree,female,6
+44,16,strongly agree,strongly disagree,male,1
+21,15,.i,.i,female,2
+28,16,strongly disagree,agree,male,1
+47,12,.i,.i,male,1
+51,17,disagree,agree,male,4
+53,12,.i,.i,female,5
+41,12,strongly agree,strongly disagree,female,1
+39,16,strongly agree,strongly disagree,male,2
+42,13,.i,.i,male,3
+49,13,disagree,neither agree or disagree,male,0
+50,12,agree,agree,female,2
+54,12,.i,.i,male,1
+43,12,agree,strongly disagree,female,7
+22,15,strongly agree,strongly disagree,female,1
+37,12,.i,.i,female,4
+37,16,agree,agree,female,4
+41,12,disagree,disagree,male,3
+30,19,agree,agree,male,1
+55,14,disagree,strongly agree,female,11
+46,15,strongly agree,strongly disagree,female,7
+27,12,.i,.i,female,1
+65,13,agree,disagree,male,4
+65,12,agree,disagree,male,3
+70,11,agree,disagree,female,2
+27,16,agree,agree,male,1
+33,17,.i,.i,male,2
+37,19,disagree,agree,male,1
+23,16,.i,.i,female,1
+64,16,strongly agree,neither agree or disagree,male,2
+29,18,.i,.i,male,1
+43,16,agree,disagree,female,2
+45,16,agree,disagree,female,3
+64,16,.i,.i,female,1
+76,15,strongly agree,don't know,male,6
+47,16,strongly agree,disagree,male,1
+21,14,.i,.i,female,6
+36,12,strongly agree,strongly disagree,male,1
+39,16,.i,.i,female,2
+30,17,agree,strongly disagree,male,2
+53,12,.i,.i,female,14
+58,7,.i,.i,male,3
+47,12,agree,disagree,male,2
+34,17,agree,agree,male,2
+58,10,.i,.i,female,5
+64,10,agree,disagree,male,2
+30,11,disagree,disagree,male,3
+52,12,strongly agree,disagree,female,2
+72,12,.i,.i,male,3
+51,14,agree,agree,male,5
+39,20,agree,neither agree or disagree,male,2
+49,12,agree,agree,female,9
+22,15,strongly agree,disagree,female,4
+51,9,.i,.i,male,1
+33,12,strongly agree,neither agree or disagree,male,6
+69,19,.i,.i,female,10
+48,20,.i,.i,female,2
+28,14,strongly disagree,agree,female,2
+66,18,agree,agree,female,2
+55,12,strongly agree,strongly agree,female,2
+45,14,disagree,agree,female,1
+51,16,agree,disagree,male,3
+55,12,.i,.i,female,7
+39,11,agree,agree,male,12
+53,14,strongly agree,strongly disagree,female,8
+67,12,.i,.i,male,3
+37,11,strongly agree,neither agree or disagree,female,15
+20,13,strongly agree,disagree,female,1
+23,17,agree,neither agree or disagree,male,1
+64,14,.i,.i,female,3
+56,12,strongly agree,strongly disagree,female,3
+59,8,.i,.i,male,3
+26,8,strongly disagree,agree,male,3
+81,12,strongly disagree,disagree,female,10
+67,12,.i,.i,male,3
+53,15,strongly agree,disagree,female,1
+39,13,strongly agree,disagree,female,1
+38,12,agree,agree,male,5
+89 or older,13,strongly disagree,neither agree or disagree,female,2
+53,10,strongly agree,disagree,female,4
+60,1,.i,.i,female,18
+22,14,disagree,neither agree or disagree,female,3
+49,12,agree,don't know,male,4
+59,15,.i,.i,female,7
+33,12,agree,disagree,female,1
+33,15,agree,agree,male,3
+77,3,disagree,neither agree or disagree,female,4
+34,11,agree,neither agree or disagree,female,3
+55,8,.i,.i,female,5
+29,13,strongly disagree,agree,female,4
+51,17,disagree,disagree,male,20
+26,13,strongly disagree,agree,female,3
+79,2,agree,disagree,female,9
+20,13,agree,don't know,female,2
+24,14,agree,agree,male,4
+22,12,strongly agree,agree,female,4
+26,13,disagree,disagree,male,1
+45,12,disagree,disagree,male,11
+44,15,agree,disagree,male,1
+55,16,.i,.i,male,2
+65,16,strongly agree,agree,female,2
+58,18,strongly agree,disagree,female,2
+20,14,disagree,disagree,female,1
+37,14,strongly agree,neither agree or disagree,male,8
+32,14,.i,.i,female,4
+58,18,.i,.i,male,3
+43,12,disagree,disagree,female,4
+57,18,agree,neither agree or disagree,male,3
+74,16,.i,.i,female,2
+67,18,.i,.i,male,3
+27,19,agree,strongly disagree,male,2
+55,14,.i,.i,female,2
+45,12,agree,disagree,male,2
+42,14,disagree,disagree,female,5
+21,14,disagree,strongly disagree,female,2
+28,14,.i,.i,male,2
+47,19,strongly agree,disagree,male,1
+25,14,.i,.i,female,1
+71,18,strongly disagree,strongly disagree,male,4
+46,14,strongly agree,agree,female,10
+26,13,.i,.i,female,3
+71,18,strongly agree,agree,male,1
+65,13,strongly agree,disagree,female,2
+35,14,.i,.i,male,4
+62,12,disagree,disagree,male,3
+88,13,.i,.i,female,2
+37,17,disagree,disagree,male,6
+46,17,agree,agree,female,5
+55,20,strongly agree,agree,female,4
+48,20,.i,.i,female,1
+36,14,strongly agree,neither agree or disagree,female,2
+25,12,.i,.i,male,4
+37,18,agree,agree,male,1
+59,8,disagree,agree,female,3
+61,20,agree,neither agree or disagree,female,3
+61,14,.i,.i,male,6
+25,15,agree,disagree,female,2
+63,18,agree,disagree,male,1
+54,12,.i,.i,female,4
+39,9,agree,disagree,male,3
+69,12,.i,.i,female,3
+28,12,disagree,strongly disagree,female,4
+29,12,strongly disagree,disagree,female,1
+85,12,.i,.i,female,1
+31,11,.i,.i,female,7
+34,19,strongly agree,strongly disagree,female,15
+37,6,strongly disagree,disagree,female,2
+46,2,disagree,strongly disagree,female,8
+30,16,agree,strongly agree,female,4
+75,12,disagree,agree,female,6
+55,5,strongly disagree,agree,male,5
+48,19,agree,agree,male,2
+82,14,.i,.i,male,9
+53,11,disagree,agree,male,2
+32,6,agree,agree,female,5
+32,13,agree,neither agree or disagree,female,10
+31,12,strongly agree,neither agree or disagree,female,2
+25,13,.i,.i,female,8
+44,11,strongly agree,disagree,female,10
+54,7,.i,.i,male,2
+30,15,agree,neither agree or disagree,female,5
+76,12,disagree,strongly agree,male,1
+48,16,agree,disagree,male,3
+33,6,agree,neither agree or disagree,male,4
+26,15,.i,.i,male,1
+26,12,disagree,disagree,male,9
+18,11,agree,strongly agree,female,3
+61,12,agree,disagree,male,4
+57,11,agree,disagree,male,6
+36,18,agree,disagree,female,9
+33,11,agree,neither agree or disagree,male,3
+50,4,.i,.i,female,10
+65,14,agree,disagree,female,4
+50,11,agree,disagree,female,9
+48,3,.i,.i,female,5
+80,12,agree,disagree,male,16
+80,12,.i,.i,female,4
+70,12,agree,disagree,female,6
+76,12,.i,.i,female,4
+69,14,strongly agree,disagree,female,2
+47,16,.i,.i,male,1
+68,14,agree,disagree,male,4
+79,12,agree,disagree,female,3
+67,16,strongly agree,neither agree or disagree,female,2
+62,14,.i,.i,female,2
+58,12,agree,neither agree or disagree,female,3
+19,13,.i,.i,female,2
+35,17,disagree,disagree,male,2
+36,12,agree,neither agree or disagree,female,4
+86,12,strongly agree,neither agree or disagree,male,3
+63,14,.i,.i,female,2
+22,14,.i,.i,male,1
+23,15,agree,agree,female,1
+19,13,agree,neither agree or disagree,female,2
+51,18,strongly agree,disagree,female,4
+82,8,agree,disagree,male,1
+27,15,agree,disagree,male,1
+68,12,.i,.i,male,3
+23,14,agree,agree,female,5
+38,13,strongly agree,neither agree or disagree,male,5
+65,20,disagree,strongly disagree,female,1
+72,12,disagree,agree,male,5
+80,9,.i,.i,male,3
+34,12,agree,agree,female,1
+56,13,strongly agree,disagree,male,4
+57,12,agree,agree,female,7
+61,16,dk,don't know,male,1
+53,10,.i,.i,male,10
+79,12,strongly disagree,disagree,male,3
+46,8,strongly agree,disagree,female,1
+45,15,agree,neither agree or disagree,female,3
+50,8,disagree,agree,female,3
+63,12,agree,agree,male,1
+38,13,disagree,strongly agree,female,3
+51,14,agree,disagree,female,22
+62,17,strongly agree,agree,female,3
+47,12,.i,.i,male,4
+29,11,strongly agree,disagree,female,3
+37,14,strongly agree,disagree,female,2
+39,14,strongly agree,disagree,male,2
+46,20,.i,.i,female,2
+55,14,disagree,agree,male,3
+27,12,strongly agree,disagree,male,4
+45,10,.i,.i,female,3
+71,12,strongly agree,disagree,female,2
+74,8,disagree,don't know,female,2
+18,11,disagree,agree,female,1
+67,13,.i,.i,female,1
+49,14,.i,.i,male,3
+74,12,strongly agree,disagree,male,1
+67,2,disagree,disagree,male,6
+35,7,.i,.i,female,7
+36,12,disagree,don't know,male,5
+58,12,.i,.i,female,6
+21,13,agree,strongly disagree,female,6
+21,11,agree,neither agree or disagree,male,1
+43,17,agree,disagree,female,2
+41,4,disagree,strongly agree,male,12
+44,1,.i,.i,male,4
+51,12,strongly agree,disagree,female,5
+22,12,strongly agree,disagree,male,2
+30,12,.i,.i,female,1
+18,11,disagree,neither agree or disagree,male,4
+73,8,agree,agree,female,7
+38,12,strongly disagree,agree,female,1
+87,12,.i,.i,male,5
+39,13,strongly agree,strongly disagree,female,12
+74,12,.i,.i,female,7
+31,14,strongly agree,neither agree or disagree,female,1
+37,15,agree,disagree,male,1
+31,14,.i,.i,female,2
+24,13,agree,agree,male,2
+32,19,.i,.i,male,1
+50,18,agree,strongly disagree,male,2
+20,11,strongly agree,agree,female,2
+71,14,agree,disagree,female,1
+88,16,agree,disagree,female,5
+24,14,.i,.i,female,1
+56,14,.i,.i,female,15
+56,18,disagree,agree,male,3
+49,16,disagree,agree,female,7
+48,14,.i,.i,male,9
+59,12,.i,.i,male,3
+82,9,disagree,no answer,female,4
+65,14,agree,disagree,female,3
+79,14,.i,.i,female,4
+49,12,agree,neither agree or disagree,male,2
+36,12,.i,.i,female,2
+55,20,disagree,strongly disagree,male,3
+59,12,disagree,strongly agree,male,6
+52,18,strongly agree,neither agree or disagree,female,3
+74,20,agree,agree,female,5
+33,16,.i,.i,male,1
+44,16,agree,neither agree or disagree,male,2
+48,16,.i,.i,female,1
+32,14,strongly agree,disagree,female,2
+39,20,.i,.i,female,1
+39,16,strongly agree,strongly disagree,female,3
+54,19,agree,agree,female,1
+71,17,.i,.i,female,3
+35,13,agree,neither agree or disagree,female,2
+38,12,disagree,agree,male,1
+52,13,agree,disagree,female,3
+73,12,agree,disagree,female,2
+75,13,agree,strongly disagree,female,6
+89 or older,12,.i,.i,female,8
+46,13,disagree,neither agree or disagree,male,8
+37,13,strongly agree,neither agree or disagree,female,2
+84,12,agree,strongly disagree,female,3
+55,8,strongly disagree,strongly agree,female,1
+73,12,.i,.i,male,2
+41,12,disagree,agree,male,5
+51,12,.i,.i,female,4
+65,12,agree,disagree,male,5
+58,12,agree,disagree,male,4
+71,10,agree,neither agree or disagree,female,4
+32,14,.i,.i,female,6
+43,14,agree,strongly disagree,female,14
+28,8,.i,.i,female,6
+46,11,strongly agree,disagree,female,15
+49,4,.i,.i,female,9
+75,12,agree,agree,female,3
+54,13,agree,disagree,female,15
+52,10,.i,.i,female,5
+21,14,agree,disagree,male,3
+32,17,agree,agree,male,5
+36,14,.i,.i,female,4
+80,12,agree,neither agree or disagree,female,3
+54,14,.i,.i,female,3
+63,11,disagree,disagree,male,3
+53,12,.i,.i,male,5
+62,9,agree,neither agree or disagree,female,2
+61,6,agree,agree,female,3
+75,12,agree,disagree,female,4
+65,14,disagree,agree,male,1
+70,13,agree,neither agree or disagree,female,4
+78,10,.i,.i,male,1
+35,12,strongly agree,strongly disagree,female,1
+70,15,.i,.i,male,1
+32,13,strongly agree,agree,female,2
+78,12,.i,.i,male,1
+86,12,disagree,agree,female,10
+59,12,agree,disagree,male,0
+27,11,agree,strongly agree,male,1
+60,12,agree,disagree,male,2
+23,12,.i,.i,female,5
+61,12,disagree,don't know,male,6
+65,12,disagree,agree,male,1
+51,12,.i,.i,male,2
+38,14,disagree,agree,male,7
+39,16,agree,neither agree or disagree,male,0
+25,12,.i,.i,female,3
+33,12,disagree,strongly disagree,male,3
+30,16,agree,agree,male,2
+30,12,strongly disagree,neither agree or disagree,male,1
+36,16,strongly disagree,agree,male,6
+35,12,strongly agree,strongly disagree,male,4
+23,12,disagree,agree,female,3
+27,17,agree,agree,male,3
+75,8,disagree,disagree,male,8
+31,16,.i,.i,female,9
+41,16,strongly agree,strongly disagree,female,1
+71,12,.i,.i,male,1
+80,9,agree,disagree,female,9
+33,14,agree,disagree,female,6
+37,13,agree,agree,male,1
+44,16,agree,disagree,male,1
+33,16,.i,.i,female,4
+45,12,strongly disagree,disagree,female,6
+25,12,.i,.i,female,2
+26,17,strongly agree,neither agree or disagree,female,2
+36,13,agree,disagree,male,2
+86,8,.i,.i,male,3
+72,12,disagree,neither agree or disagree,female,1
+36,14,.i,.i,female,5
+64,8,strongly agree,don't know,male,3
+49,13,.i,.i,female,11
+87,12,agree,disagree,female,4
+52,4,.i,.i,female,5
+24,13,strongly agree,disagree,female,4
+61,12,.i,.i,male,2
+32,13,strongly agree,disagree,female,2
+42,12,strongly agree,disagree,male,2
+89 or older,8,.i,.i,female,6
+59,12,.i,.i,female,8
+73,8,agree,neither agree or disagree,male,2
+70,12,.i,.i,female,4
+48,12,agree,disagree,male,1
+21,11,strongly agree,disagree,female,2
+26,12,.i,.i,female,3
+74,12,disagree,disagree,female,6
+68,12,.i,.i,male,3
+69,16,agree,agree,female,1
+59,12,.i,.i,female,2
+56,12,strongly agree,agree,male,3
+60,17,.i,.i,male,6
+54,12,strongly agree,disagree,female,4
+34,12,strongly agree,strongly disagree,female,2
+35,12,agree,agree,female,1
+61,16,.i,.i,female,4
+79,19,agree,agree,male,2
+78,12,agree,disagree,female,9
+33,14,.i,.i,female,6
+39,12,.i,.i,male,1
+36,14,.i,.i,male,6
+32,15,strongly agree,agree,female,9
+74,12,strongly agree,strongly disagree,female,5
+61,11,.i,.i,female,3
+29,18,disagree,agree,male,0
+32,17,agree,neither agree or disagree,male,2
+32,11,disagree,neither agree or disagree,female,7
+29,12,.i,.i,female,4
+46,20,agree,neither agree or disagree,female,2
+28,13,agree,disagree,female,2
+47,17,.i,.i,male,1
+26,13,.i,.i,male,5
+79,12,agree,disagree,female,5
+39,16,strongly agree,strongly disagree,female,0
+79,12,.i,.i,female,2
+57,15,agree,no answer,female,6
+49,12,.i,.i,male,16
+82,16,agree,disagree,female,7
+55,12,disagree,agree,male,6
+51,12,.i,.i,male,2
+73,12,agree,disagree,male,2
+78,16,agree,agree,male,9
+60,20,agree,agree,female,1
+62,14,strongly disagree,disagree,male,3
+65,14,.i,.i,female,2
+44,10,disagree,agree,female,8
+20,11,strongly agree,strongly disagree,female,10
+62,11,.i,.i,female,10
+55,17,disagree,disagree,male,6
+71,18,disagree,agree,male,5
+71,12,agree,neither agree or disagree,male,5
+33,16,strongly agree,disagree,female,3
+56,10,disagree,disagree,female,4
+44,14,.i,.i,female,2
+51,14,strongly disagree,disagree,female,11
+64,7,agree,agree,male,3
+76,12,agree,neither agree or disagree,male,5
+54,12,.i,.i,male,3
+56,14,disagree,disagree,female,1
+89 or older,12,disagree,disagree,male,2
+36,12,.i,.i,female,2
+87,18,agree,disagree,female,1
+44,12,.i,.i,female,2
+26,12,.i,.i,male,3
+25,16,agree,disagree,female,2
+60,4,.i,.i,female,9
+47,13,agree,disagree,female,6
+74,4,.i,.i,female,5
+28,19,agree,neither agree or disagree,female,5
+54,10,.i,.i,female,11
+66,16,agree,disagree,female,5
+66,6,.i,.i,male,9
+31,12,.i,.i,female,2
+44,11,agree,disagree,male,2
+45,12,.i,.i,male,3
+51,12,.i,.i,male,4
+61,12,.i,.i,male,21
+23,13,.i,.i,male,5
+33,14,agree,agree,male,3
+77,3,.i,.i,male,8
+28,15,strongly agree,disagree,male,1
+55,12,disagree,disagree,female,7
+56,12,agree,disagree,male,3
+29,6,.i,.i,male,12
+19,12,disagree,agree,female,2
+61,12,.i,.i,female,8
+31,4,agree,neither agree or disagree,male,8
+25,8,.i,.i,female,2
+68,10,strongly disagree,strongly disagree,male,4
+62,14,disagree,disagree,female,7
+56,16,disagree,neither agree or disagree,male,2
+52,13,.i,.i,female,9
+39,12,strongly agree,strongly disagree,female,5
+57,9,strongly agree,strongly agree,female,13
+65,12,strongly agree,strongly disagree,female,8
+24,14,agree,neither agree or disagree,female,6
+43,11,.i,.i,female,7
+23,12,agree,neither agree or disagree,male,2
+57,9,strongly agree,agree,female,7
+39,11,.i,.i,female,10
+21,11,agree,agree,female,30
+67,3,dk,don't know,female,10
+66,12,disagree,strongly disagree,female,1
+23,12,agree,strongly disagree,female,1
+41,12,.i,.i,female,4
+48,12,strongly agree,strongly disagree,female,1
+41,16,strongly agree,strongly disagree,female,1
+61,11,.i,.i,male,3
+56,12,agree,disagree,female,3
+34,14,disagree,strongly disagree,female,6
+56,12,agree,agree,male,8
+47,12,strongly agree,neither agree or disagree,male,3
+44,11,strongly agree,neither agree or disagree,female,9
+30,13,.i,.i,male,4
+73,11,agree,disagree,male,4
+81,7,.i,.i,female,5
+70,17,strongly agree,disagree,female,7
+33,12,disagree,disagree,male,2
+21,14,.i,.i,female,1
+39,12,disagree,agree,male,1
+65,16,strongly agree,neither agree or disagree,male,1
+34,17,.i,.i,male,1
+73,10,.i,.i,female,9
+32,16,strongly agree,agree,female,1
+44,15,.i,.i,female,3
+66,14,agree,disagree,male,3
+30,12,.i,.i,female,3
+31,12,strongly agree,strongly disagree,female,6
+21,11,strongly disagree,agree,male,6
+50,12,.i,.i,male,4
+49,12,strongly agree,strongly disagree,female,3
+71,11,.i,.i,male,11
+53,12,agree,don't know,male,12
+58,16,.i,.i,female,2
+40,20,strongly agree,agree,male,2
+45,16,agree,disagree,female,4
+62,14,strongly disagree,agree,female,6
+28,16,.i,.i,female,2
+74,14,agree,strongly disagree,male,1
+60,12,.i,.i,male,3
+42,16,agree,disagree,male,6
+36,20,.i,.i,female,1
+50,19,strongly agree,disagree,female,8
+63,16,.i,.i,male,4
+20,14,.i,.i,female,3
+71,12,agree,agree,male,2
+50,14,agree,disagree,male,5
+23,14,strongly agree,strongly disagree,female,3
+65,19,strongly agree,disagree,female,3
+60,8,.i,.i,male,4
+69,9,strongly disagree,neither agree or disagree,female,2
+78,9,.i,.i,male,2
+25,11,agree,neither agree or disagree,female,6
+61,16,strongly agree,strongly agree,female,3
+53,13,.i,.i,female,9
+48,13,agree,neither agree or disagree,male,2
+37,12,agree,neither agree or disagree,female,3
+22,12,.i,.i,male,3
