@@ -1,0 +1,1975 @@
+age,educ,happy,satfin,sex
+22,16,1,1,male
+21,12,1,1,male
+42,12,pretty happy,more or less,male
+49,13,1,1,female
+70,16,1,not at all sat,female
+50,19,1,not at all sat,female
+35,15,pretty happy,more or less,female
+24,11,pretty happy,more or less,female
+28,9,not too happy,more or less,female
+28,17,pretty happy,not at all sat,female
+55,10,1,not at all sat,male
+36,16,pretty happy,more or less,female
+28,12,not too happy,not at all sat,female
+59,12,1,more or less,female
+52,4,not too happy,not at all sat,male
+35,13,pretty happy,1,female
+36,12,pretty happy,more or less,male
+47,13,pretty happy,not at all sat,female
+55,12,pretty happy,not at all sat,male
+18,12,pretty happy,not at all sat,female
+76,0,not too happy,not at all sat,female
+39,10,pretty happy,1,male
+54,14,pretty happy,not at all sat,male
+45,16,1,1,female
+71,12,1,1,male
+42,17,pretty happy,more or less,female
+22,15,pretty happy,1,male
+50,10,1,more or less,male
+81,16,not too happy,more or less,female
+44,13,pretty happy,not at all sat,female
+78,16,pretty happy,more or less,male
+63,14,1,not at all sat,female
+73,19,1,1,male
+40,16,pretty happy,1,male
+42,14,pretty happy,more or less,female
+62,18,pretty happy,not at all sat,male
+52,11,pretty happy,not at all sat,male
+49,12,1,1,female
+27,17,pretty happy,more or less,female
+30,14,pretty happy,not at all sat,female
+29,18,1,more or less,female
+69,14,not too happy,more or less,female
+51,18,pretty happy,more or less,female
+57,16,1,1,female
+44,16,1,1,male
+73,16,1,1,female
+73,16,pretty happy,1,female
+68,16,1,1,male
+84,16,pretty happy,more or less,female
+63,19,1,1,male
+57,16,pretty happy,more or less,male
+42,16,pretty happy,more or less,female
+45,20,1,more or less,female
+38,14,1,not at all sat,male
+46,20,1,more or less,male
+51,20,pretty happy,not at all sat,female
+41,14,pretty happy,more or less,female
+75,12,not too happy,not at all sat,female
+81,8,pretty happy,not at all sat,female
+41,9,1,not at all sat,female
+67,19,not too happy,1,female
+71,19,pretty happy,1,male
+35,6,pretty happy,not at all sat,male
+45,17,not too happy,more or less,female
+35,16,not too happy,not at all sat,male
+21,14,not too happy,1,female
+52,11,pretty happy,not at all sat,female
+49,16,pretty happy,not at all sat,female
+46,16,not too happy,more or less,male
+51,14,pretty happy,not at all sat,female
+28,16,pretty happy,more or less,male
+81,16,pretty happy,more or less,female
+47,17,pretty happy,1,male
+48,14,not too happy,not at all sat,male
+46,16,pretty happy,more or less,male
+68,12,not too happy,not at all sat,male
+56,16,pretty happy,not at all sat,female
+43,14,pretty happy,more or less,female
+32,13,1,not at all sat,female
+23,12,not too happy,not at all sat,female
+59,12,not too happy,more or less,male
+32,18,pretty happy,more or less,female
+44,16,1,not at all sat,male
+49,20,pretty happy,1,female
+64,12,pretty happy,more or less,female
+30,19,1,1,female
+51,12,not too happy,not at all sat,female
+28,17,dk,not at all sat,female
+84,13,1,1,male
+32,14,1,1,male
+54,18,pretty happy,not at all sat,female
+34,20,pretty happy,more or less,female
+33,16,1,more or less,female
+48,12,pretty happy,more or less,female
+52,10,pretty happy,1,female
+na,14,not too happy,more or less,female
+54,16,1,more or less,male
+19,13,pretty happy,1,female
+41,16,1,more or less,male
+23,17,pretty happy,more or less,female
+51,12,not too happy,1,male
+75,16,pretty happy,more or less,female
+na,20,pretty happy,1,female
+27,12,pretty happy,more or less,male
+24,14,pretty happy,1,male
+26,20,pretty happy,more or less,male
+47,19,pretty happy,not at all sat,female
+55,13,pretty happy,not at all sat,female
+55,18,not too happy,more or less,female
+43,17,pretty happy,more or less,male
+46,14,pretty happy,more or less,female
+71,16,pretty happy,1,male
+32,16,pretty happy,1,female
+63,17,pretty happy,1,male
+50,12,pretty happy,more or less,female
+60,12,1,more or less,male
+33,14,not too happy,not at all sat,female
+40,18,pretty happy,more or less,female
+68,12,pretty happy,more or less,male
+69,14,pretty happy,more or less,female
+71,18,pretty happy,1,male
+23,15,1,1,male
+28,16,pretty happy,1,male
+49,12,pretty happy,not at all sat,male
+66,16,not too happy,not at all sat,female
+36,20,pretty happy,not at all sat,female
+53,19,pretty happy,1,male
+40,6,not too happy,not at all sat,female
+34,12,pretty happy,more or less,female
+58,6,pretty happy,not at all sat,male
+62,12,not too happy,1,male
+24,12,not too happy,more or less,female
+72,6,1,more or less,female
+32,12,not too happy,not at all sat,female
+29,16,pretty happy,more or less,male
+34,12,not too happy,not at all sat,male
+36,13,pretty happy,not at all sat,female
+74,8,pretty happy,1,male
+49,16,pretty happy,1,female
+60,16,pretty happy,more or less,male
+78,16,not too happy,not at all sat,male
+39,14,pretty happy,more or less,female
+73,16,not too happy,not at all sat,male
+67,16,pretty happy,more or less,female
+82,11,not too happy,more or less,female
+64,14,pretty happy,more or less,female
+61,14,pretty happy,more or less,female
+22,6,not too happy,more or less,male
+27,14,pretty happy,more or less,female
+41,14,pretty happy,not at all sat,male
+33,9,not too happy,not at all sat,female
+49,6,pretty happy,more or less,female
+22,11,pretty happy,not at all sat,male
+42,6,1,not at all sat,female
+28,11,pretty happy,not at all sat,female
+66,14,1,1,female
+35,13,not too happy,not at all sat,female
+52,12,pretty happy,more or less,male
+63,14,pretty happy,more or less,male
+31,13,1,more or less,male
+29,17,1,more or less,female
+50,17,1,more or less,male
+47,12,pretty happy,not at all sat,male
+65,12,pretty happy,not at all sat,female
+62,13,pretty happy,not at all sat,male
+18,13,pretty happy,more or less,female
+40,14,not too happy,more or less,female
+28,16,pretty happy,more or less,female
+24,16,pretty happy,more or less,male
+40,16,pretty happy,1,male
+77,15,1,more or less,female
+24,15,1,1,female
+21,14,pretty happy,more or less,female
+22,15,1,more or less,female
+24,16,1,1,male
+22,11,1,1,male
+21,15,1,1,male
+67,16,pretty happy,more or less,male
+32,19,1,more or less,female
+38,9,pretty happy,more or less,male
+55,12,pretty happy,1,female
+40,14,not too happy,not at all sat,male
+38,11,1,1,male
+52,13,pretty happy,not at all sat,male
+34,16,pretty happy,not at all sat,female
+22,16,pretty happy,not at all sat,female
+56,17,1,1,male
+60,12,pretty happy,more or less,female
+39,16,1,1,male
+33,16,pretty happy,more or less,female
+67,12,pretty happy,more or less,male
+51,12,pretty happy,more or less,male
+65,12,not too happy,more or less,male
+42,16,pretty happy,more or less,female
+65,12,not too happy,not at all sat,female
+25,13,1,not at all sat,female
+36,12,pretty happy,not at all sat,female
+38,14,1,more or less,female
+18,12,pretty happy,not at all sat,male
+38,9,1,not at all sat,male
+41,9,1,more or less,female
+20,14,pretty happy,more or less,male
+39,16,pretty happy,more or less,male
+25,17,pretty happy,more or less,female
+57,14,pretty happy,more or less,male
+61,13,pretty happy,not at all sat,female
+31,16,pretty happy,more or less,male
+62,19,pretty happy,not at all sat,female
+30,12,1,not at all sat,male
+68,14,1,more or less,female
+50,16,pretty happy,more or less,male
+27,12,pretty happy,not at all sat,male
+30,16,pretty happy,not at all sat,male
+65,14,pretty happy,1,female
+65,18,pretty happy,1,female
+36,19,pretty happy,1,male
+72,12,not too happy,not at all sat,male
+27,12,pretty happy,1,female
+22,12,1,more or less,male
+33,9,pretty happy,more or less,female
+35,6,pretty happy,not at all sat,male
+54,11,1,1,female
+18,11,1,1,male
+38,12,pretty happy,not at all sat,female
+67,12,pretty happy,1,female
+48,12,pretty happy,more or less,male
+64,19,pretty happy,not at all sat,male
+89 or older,19,pretty happy,more or less,female
+48,12,1,more or less,female
+44,6,1,more or less,female
+42,15,pretty happy,1,male
+26,16,1,more or less,female
+68,12,1,1,female
+61,14,1,more or less,female
+34,13,1,more or less,male
+35,6,1,more or less,female
+53,17,pretty happy,more or less,male
+32,12,1,not at all sat,male
+61,14,pretty happy,more or less,male
+28,10,pretty happy,1,male
+39,12,1,more or less,male
+61,16,1,1,male
+65,18,pretty happy,1,male
+34,18,1,more or less,male
+87,12,pretty happy,1,male
+24,16,pretty happy,1,male
+39,12,pretty happy,more or less,female
+76,0,pretty happy,more or less,female
+32,14,not too happy,not at all sat,male
+54,16,pretty happy,1,female
+55,14,not too happy,not at all sat,female
+53,16,pretty happy,not at all sat,female
+62,14,pretty happy,more or less,male
+39,6,not too happy,not at all sat,male
+30,12,pretty happy,more or less,female
+89 or older,8,pretty happy,1,female
+30,10,1,not at all sat,male
+35,12,1,more or less,female
+73,16,1,more or less,female
+69,16,pretty happy,more or less,female
+89 or older,12,pretty happy,more or less,female
+55,16,1,1,male
+78,12,pretty happy,not at all sat,female
+43,17,pretty happy,more or less,male
+68,16,1,1,female
+71,16,1,more or less,male
+47,16,1,1,female
+68,18,pretty happy,more or less,female
+76,12,pretty happy,1,female
+55,16,1,1,male
+49,12,1,more or less,female
+68,14,pretty happy,more or less,female
+47,11,1,more or less,male
+59,14,1,more or less,male
+74,16,pretty happy,more or less,female
+71,14,pretty happy,more or less,male
+32,12,pretty happy,1,female
+30,16,1,1,male
+38,16,1,more or less,female
+41,16,pretty happy,not at all sat,female
+62,20,1,1,female
+49,20,pretty happy,more or less,male
+52,16,pretty happy,more or less,female
+61,13,not too happy,more or less,female
+52,16,pretty happy,1,male
+33,14,pretty happy,more or less,male
+65,16,pretty happy,not at all sat,female
+55,12,not too happy,more or less,male
+45,14,1,1,female
+35,9,pretty happy,not at all sat,male
+36,14,pretty happy,1,female
+43,16,1,not at all sat,female
+83,13,not too happy,1,male
+64,14,not too happy,not at all sat,male
+38,18,pretty happy,not at all sat,male
+25,14,pretty happy,not at all sat,male
+81,18,not too happy,more or less,male
+23,12,not too happy,not at all sat,female
+21,12,not too happy,not at all sat,female
+56,12,pretty happy,more or less,female
+30,11,pretty happy,not at all sat,female
+69,12,not too happy,more or less,male
+62,12,pretty happy,more or less,female
+39,16,pretty happy,1,male
+25,18,not too happy,not at all sat,male
+75,20,not too happy,more or less,male
+46,18,pretty happy,more or less,male
+57,6,not too happy,not at all sat,male
+20,13,pretty happy,1,male
+53,16,pretty happy,more or less,female
+53,16,pretty happy,more or less,male
+42,8,1,1,female
+63,18,1,1,male
+55,20,pretty happy,1,male
+54,17,1,1,male
+77,20,1,1,male
+48,16,dk,more or less,female
+52,4,pretty happy,more or less,female
+31,13,pretty happy,not at all sat,male
+57,12,pretty happy,not at all sat,female
+21,12,not too happy,more or less,male
+50,15,pretty happy,1,female
+38,16,1,more or less,female
+33,12,1,1,male
+26,14,1,more or less,male
+33,14,not too happy,not at all sat,female
+44,17,pretty happy,not at all sat,female
+25,16,pretty happy,1,male
+27,16,pretty happy,more or less,female
+27,16,1,more or less,male
+28,16,1,more or less,female
+22,16,1,1,male
+48,17,pretty happy,1,female
+89 or older,8,not too happy,1,male
+49,17,pretty happy,more or less,female
+87,12,pretty happy,more or less,female
+64,17,pretty happy,1,male
+41,15,pretty happy,more or less,male
+57,9,not too happy,not at all sat,male
+46,16,pretty happy,not at all sat,female
+58,16,pretty happy,1,female
+78,16,1,1,female
+45,19,pretty happy,1,female
+38,14,pretty happy,not at all sat,female
+69,20,not too happy,1,female
+61,16,1,not at all sat,male
+48,16,pretty happy,more or less,female
+37,16,pretty happy,more or less,male
+47,12,pretty happy,not at all sat,male
+26,18,pretty happy,more or less,male
+41,13,pretty happy,1,female
+55,18,not too happy,not at all sat,female
+81,10,1,not at all sat,female
+32,17,pretty happy,1,male
+27,14,1,more or less,male
+32,13,pretty happy,not at all sat,female
+39,18,pretty happy,more or less,female
+55,16,pretty happy,more or less,female
+35,16,pretty happy,more or less,male
+64,17,1,more or less,male
+85,15,pretty happy,more or less,female
+52,12,pretty happy,not at all sat,male
+46,12,pretty happy,more or less,female
+34,5,not too happy,more or less,female
+55,10,pretty happy,more or less,female
+72,12,pretty happy,more or less,male
+34,16,pretty happy,not at all sat,female
+35,10,pretty happy,more or less,male
+61,12,pretty happy,more or less,female
+56,12,pretty happy,not at all sat,male
+60,15,pretty happy,not at all sat,female
+65,16,pretty happy,1,female
+85,9,1,more or less,male
+42,12,pretty happy,not at all sat,male
+27,14,1,more or less,female
+85,12,pretty happy,1,female
+63,14,pretty happy,more or less,female
+61,15,pretty happy,more or less,female
+27,20,pretty happy,more or less,female
+48,16,not too happy,more or less,male
+25,16,1,1,male
+34,13,1,more or less,male
+37,16,not too happy,1,female
+64,14,not too happy,not at all sat,female
+82,18,pretty happy,more or less,male
+43,16,pretty happy,more or less,female
+54,14,not too happy,not at all sat,female
+25,18,pretty happy,more or less,female
+78,17,pretty happy,1,female
+19,12,pretty happy,more or less,female
+64,11,pretty happy,not at all sat,male
+23,13,pretty happy,1,male
+31,16,pretty happy,1,female
+41,15,1,1,male
+29,12,pretty happy,not at all sat,female
+51,19,1,not at all sat,female
+55,18,pretty happy,more or less,male
+36,15,not too happy,not at all sat,female
+87,13,pretty happy,1,female
+28,17,pretty happy,1,male
+35,17,pretty happy,1,male
+37,18,1,more or less,male
+84,12,pretty happy,1,male
+21,13,1,more or less,male
+49,17,pretty happy,more or less,male
+42,12,1,more or less,female
+69,14,pretty happy,not at all sat,female
+32,16,1,1,female
+69,20,pretty happy,1,female
+48,16,pretty happy,1,female
+20,10,pretty happy,more or less,male
+51,19,1,more or less,female
+60,20,pretty happy,more or less,male
+59,16,pretty happy,not at all sat,female
+89 or older,16,not too happy,1,female
+18,12,pretty happy,not at all sat,female
+62,20,1,1,female
+54,13,pretty happy,more or less,female
+19,12,pretty happy,not at all sat,female
+38,10,pretty happy,1,female
+31,14,1,1,male
+51,18,pretty happy,not at all sat,female
+23,11,pretty happy,not at all sat,male
+48,16,pretty happy,more or less,female
+45,16,pretty happy,more or less,female
+20,12,pretty happy,1,male
+70,15,pretty happy,more or less,female
+58,16,1,more or less,female
+63,16,dk,1,male
+44,12,1,1,female
+87,14,1,1,female
+50,16,1,1,female
+52,11,1,1,female
+32,14,1,more or less,male
+43,20,pretty happy,more or less,male
+51,16,1,1,female
+58,20,pretty happy,more or less,male
+75,11,pretty happy,1,female
+71,16,1,1,female
+72,14,not too happy,more or less,female
+64,14,1,not at all sat,female
+35,12,not too happy,not at all sat,female
+34,15,not too happy,1,male
+71,11,1,more or less,male
+41,17,pretty happy,more or less,male
+34,13,pretty happy,1,male
+50,13,pretty happy,more or less,male
+23,12,pretty happy,more or less,female
+53,12,1,1,male
+64,13,pretty happy,not at all sat,male
+41,20,pretty happy,1,male
+46,14,pretty happy,more or less,male
+54,16,not too happy,more or less,male
+67,19,1,1,male
+53,16,not too happy,not at all sat,female
+59,12,1,more or less,female
+65,12,1,na,female
+51,14,1,1,male
+39,14,pretty happy,more or less,male
+49,12,pretty happy,1,female
+30,16,1,more or less,female
+57,19,pretty happy,not at all sat,female
+36,18,pretty happy,1,male
+39,18,1,more or less,female
+38,18,pretty happy,more or less,female
+46,16,pretty happy,more or less,male
+41,18,pretty happy,more or less,male
+29,18,pretty happy,more or less,male
+58,12,pretty happy,more or less,male
+48,17,pretty happy,1,female
+31,20,1,more or less,male
+54,14,not too happy,not at all sat,female
+37,9,pretty happy,more or less,female
+48,18,pretty happy,not at all sat,female
+58,12,pretty happy,more or less,male
+77,9,pretty happy,not at all sat,female
+44,14,pretty happy,more or less,female
+27,16,not too happy,more or less,female
+19,11,pretty happy,1,male
+55,13,pretty happy,more or less,male
+52,12,pretty happy,1,female
+63,13,pretty happy,not at all sat,male
+39,14,pretty happy,more or less,female
+68,10,1,more or less,female
+82,4,not too happy,not at all sat,male
+59,12,pretty happy,not at all sat,female
+64,15,1,1,female
+47,18,not too happy,more or less,female
+45,12,pretty happy,not at all sat,male
+37,12,not too happy,not at all sat,male
+20,11,not too happy,more or less,male
+31,20,pretty happy,more or less,male
+22,13,pretty happy,more or less,female
+61,16,pretty happy,more or less,female
+56,15,1,1,female
+34,8,pretty happy,more or less,male
+53,12,pretty happy,more or less,male
+22,12,pretty happy,more or less,male
+39,12,1,not at all sat,female
+25,6,1,more or less,male
+75,17,1,more or less,male
+44,18,pretty happy,more or less,male
+26,14,pretty happy,not at all sat,male
+40,13,1,1,female
+33,10,pretty happy,more or less,female
+49,12,pretty happy,more or less,male
+49,12,1,1,female
+48,20,pretty happy,more or less,male
+40,17,pretty happy,1,male
+80,14,pretty happy,1,male
+21,12,1,more or less,female
+38,0,1,1,male
+74,12,pretty happy,more or less,male
+75,16,pretty happy,more or less,male
+40,14,pretty happy,more or less,female
+50,16,1,more or less,female
+48,8,pretty happy,more or less,female
+32,9,pretty happy,more or less,male
+41,8,1,more or less,male
+26,9,pretty happy,more or less,female
+57,12,not too happy,more or less,female
+30,12,not too happy,more or less,female
+41,12,not too happy,1,female
+50,9,pretty happy,1,male
+30,15,pretty happy,not at all sat,male
+47,12,pretty happy,not at all sat,female
+65,7,pretty happy,not at all sat,female
+43,5,not too happy,more or less,male
+20,14,pretty happy,more or less,male
+47,18,pretty happy,more or less,female
+31,16,pretty happy,more or less,male
+35,12,pretty happy,not at all sat,male
+58,12,pretty happy,more or less,male
+66,14,pretty happy,1,female
+37,12,pretty happy,not at all sat,female
+40,15,pretty happy,more or less,female
+56,13,pretty happy,1,male
+49,12,pretty happy,more or less,female
+30,14,pretty happy,more or less,female
+45,18,pretty happy,more or less,female
+77,13,pretty happy,more or less,male
+30,11,pretty happy,more or less,female
+43,10,1,not at all sat,male
+31,13,pretty happy,not at all sat,female
+58,16,pretty happy,1,female
+62,12,pretty happy,not at all sat,male
+73,10,not too happy,more or less,male
+60,12,1,not at all sat,female
+32,11,1,more or less,male
+24,10,1,not at all sat,female
+71,14,not too happy,not at all sat,male
+31,15,pretty happy,more or less,male
+42,14,pretty happy,more or less,female
+80,10,pretty happy,1,female
+76,12,pretty happy,not at all sat,female
+40,11,pretty happy,more or less,female
+29,10,pretty happy,more or less,male
+86,10,1,1,female
+53,12,1,not at all sat,male
+48,12,pretty happy,more or less,female
+86,6,pretty happy,more or less,female
+71,12,not too happy,more or less,female
+50,6,1,more or less,female
+40,14,pretty happy,not at all sat,male
+30,12,1,1,male
+68,6,pretty happy,not at all sat,male
+37,17,pretty happy,more or less,female
+41,11,1,more or less,female
+64,15,not too happy,not at all sat,female
+72,13,pretty happy,more or less,male
+40,19,pretty happy,more or less,female
+43,16,1,more or less,female
+84,17,pretty happy,1,male
+34,16,1,more or less,male
+79,14,1,not at all sat,female
+60,10,not too happy,more or less,male
+59,12,pretty happy,not at all sat,male
+59,12,pretty happy,not at all sat,male
+63,13,1,more or less,female
+66,7,1,not at all sat,female
+49,12,pretty happy,1,male
+66,17,pretty happy,1,male
+42,19,pretty happy,1,male
+52,20,pretty happy,1,male
+42,20,pretty happy,more or less,male
+45,17,pretty happy,1,male
+37,18,pretty happy,1,female
+49,12,1,more or less,male
+31,11,pretty happy,1,male
+81,13,1,1,male
+30,20,not too happy,more or less,male
+29,13,1,more or less,male
+58,14,pretty happy,not at all sat,male
+76,12,not too happy,not at all sat,female
+49,16,pretty happy,not at all sat,male
+42,14,pretty happy,more or less,female
+56,16,pretty happy,more or less,male
+40,18,1,1,female
+35,18,1,1,female
+36,18,1,1,female
+56,16,1,more or less,female
+37,20,pretty happy,more or less,male
+35,13,1,1,female
+24,15,pretty happy,1,male
+70,12,not too happy,1,male
+28,11,pretty happy,not at all sat,male
+51,12,1,not at all sat,female
+30,14,pretty happy,more or less,female
+80,12,not too happy,1,female
+46,16,pretty happy,not at all sat,female
+78,18,pretty happy,not at all sat,female
+64,13,pretty happy,more or less,female
+50,20,pretty happy,1,female
+63,14,not too happy,1,male
+66,14,1,more or less,male
+35,16,1,1,female
+72,12,not too happy,not at all sat,male
+88,14,1,more or less,male
+na,12,not too happy,not at all sat,female
+19,9,pretty happy,not at all sat,male
+32,14,1,1,female
+33,12,1,1,female
+48,14,pretty happy,more or less,female
+67,14,pretty happy,more or less,female
+46,12,pretty happy,not at all sat,male
+50,18,pretty happy,not at all sat,male
+28,16,1,more or less,male
+28,15,1,1,female
+49,15,not too happy,1,male
+20,12,pretty happy,1,female
+51,14,pretty happy,1,male
+75,10,not too happy,not at all sat,female
+65,13,pretty happy,not at all sat,female
+58,12,pretty happy,not at all sat,female
+40,11,pretty happy,more or less,female
+32,14,1,more or less,female
+53,14,not too happy,not at all sat,female
+51,13,pretty happy,more or less,male
+48,12,1,more or less,female
+42,12,1,1,male
+39,15,pretty happy,not at all sat,female
+27,11,not too happy,not at all sat,female
+45,12,1,more or less,female
+42,15,pretty happy,more or less,male
+48,12,not too happy,more or less,male
+69,15,pretty happy,more or less,female
+18,12,pretty happy,more or less,male
+37,12,pretty happy,1,male
+33,16,1,more or less,female
+49,12,pretty happy,not at all sat,female
+39,16,pretty happy,not at all sat,female
+44,8,1,1,female
+53,6,not too happy,not at all sat,male
+25,12,pretty happy,more or less,male
+45,16,1,more or less,female
+24,12,pretty happy,not at all sat,male
+59,13,1,more or less,female
+27,14,pretty happy,more or less,female
+54,20,not too happy,not at all sat,male
+26,12,1,more or less,female
+86,12,pretty happy,more or less,female
+63,12,pretty happy,1,female
+27,13,1,more or less,female
+52,13,pretty happy,not at all sat,male
+50,12,not too happy,not at all sat,female
+36,12,pretty happy,1,female
+38,12,pretty happy,more or less,male
+73,12,not too happy,not at all sat,female
+51,17,pretty happy,not at all sat,male
+41,14,not too happy,not at all sat,female
+36,16,not too happy,not at all sat,male
+54,16,1,1,female
+39,18,pretty happy,more or less,female
+61,14,pretty happy,more or less,female
+21,12,pretty happy,more or less,male
+76,9,pretty happy,more or less,male
+23,16,pretty happy,not at all sat,female
+63,12,1,more or less,female
+45,18,pretty happy,1,female
+26,9,1,more or less,female
+36,9,not too happy,more or less,male
+64,14,pretty happy,more or less,male
+46,6,1,more or less,male
+69,12,1,more or less,female
+43,15,1,more or less,female
+57,16,not too happy,not at all sat,female
+34,12,1,more or less,male
+30,12,1,not at all sat,male
+28,16,1,1,male
+23,14,pretty happy,1,male
+29,12,pretty happy,more or less,male
+54,19,1,1,female
+57,15,pretty happy,na,male
+67,13,pretty happy,1,female
+27,13,1,more or less,female
+43,17,pretty happy,more or less,female
+42,14,pretty happy,1,male
+35,14,pretty happy,not at all sat,female
+30,16,1,1,female
+55,14,1,more or less,male
+53,14,pretty happy,not at all sat,female
+18,11,1,more or less,male
+40,20,not too happy,not at all sat,male
+25,14,pretty happy,more or less,male
+54,20,1,1,female
+52,16,pretty happy,1,male
+25,12,pretty happy,not at all sat,female
+28,13,1,more or less,male
+74,12,not too happy,1,male
+89 or older,16,pretty happy,more or less,male
+77,11,1,more or less,male
+24,13,pretty happy,more or less,female
+72,12,pretty happy,1,female
+70,12,pretty happy,not at all sat,female
+84,14,pretty happy,more or less,male
+73,12,not too happy,more or less,female
+57,13,pretty happy,more or less,male
+47,20,pretty happy,not at all sat,female
+49,15,pretty happy,not at all sat,female
+51,12,pretty happy,more or less,female
+53,11,pretty happy,not at all sat,female
+65,14,pretty happy,1,male
+55,13,pretty happy,not at all sat,female
+57,16,pretty happy,not at all sat,male
+38,15,pretty happy,not at all sat,male
+49,12,not too happy,more or less,female
+54,13,pretty happy,more or less,male
+21,12,1,more or less,male
+20,13,pretty happy,not at all sat,male
+76,12,pretty happy,1,female
+66,8,not too happy,not at all sat,male
+43,12,pretty happy,more or less,female
+55,14,pretty happy,not at all sat,female
+28,20,1,not at all sat,female
+45,16,pretty happy,1,female
+81,8,pretty happy,1,male
+76,12,pretty happy,more or less,female
+45,13,pretty happy,1,female
+62,12,pretty happy,not at all sat,male
+62,12,pretty happy,not at all sat,male
+29,16,pretty happy,more or less,female
+31,18,pretty happy,more or less,male
+32,14,pretty happy,more or less,male
+41,14,1,not at all sat,male
+30,16,1,more or less,female
+64,16,pretty happy,1,female
+50,13,pretty happy,1,male
+22,13,pretty happy,1,male
+22,11,pretty happy,not at all sat,female
+54,16,pretty happy,more or less,female
+76,12,not too happy,more or less,female
+66,14,not too happy,more or less,male
+64,16,not too happy,1,male
+56,16,pretty happy,not at all sat,female
+19,11,pretty happy,more or less,female
+45,14,pretty happy,1,female
+47,17,1,not at all sat,female
+20,14,pretty happy,not at all sat,male
+44,13,pretty happy,more or less,male
+24,15,pretty happy,more or less,male
+49,16,1,not at all sat,female
+67,12,pretty happy,more or less,female
+48,12,pretty happy,not at all sat,male
+47,12,not too happy,not at all sat,female
+75,15,pretty happy,more or less,female
+76,13,1,more or less,female
+51,11,pretty happy,1,female
+37,12,1,more or less,male
+43,12,not too happy,more or less,female
+22,13,1,more or less,female
+41,13,pretty happy,more or less,male
+24,14,pretty happy,not at all sat,male
+43,8,pretty happy,not at all sat,female
+66,14,1,more or less,female
+47,13,pretty happy,not at all sat,female
+50,15,pretty happy,not at all sat,male
+57,14,pretty happy,not at all sat,male
+56,13,pretty happy,more or less,male
+22,12,pretty happy,more or less,female
+61,16,pretty happy,not at all sat,male
+26,15,1,1,female
+42,16,pretty happy,more or less,female
+87,15,1,more or less,male
+32,16,pretty happy,more or less,male
+42,16,1,1,male
+89 or older,12,pretty happy,1,female
+55,13,pretty happy,more or less,female
+38,16,1,more or less,female
+62,15,pretty happy,more or less,male
+51,16,pretty happy,more or less,male
+27,14,not too happy,not at all sat,female
+36,11,pretty happy,not at all sat,male
+34,14,not too happy,not at all sat,female
+36,16,pretty happy,more or less,female
+29,14,1,1,male
+42,12,1,dk,female
+51,14,1,more or less,male
+25,13,1,1,male
+81,16,1,1,female
+22,12,pretty happy,more or less,female
+45,13,1,more or less,female
+61,13,1,1,male
+79,15,pretty happy,more or less,male
+63,12,pretty happy,more or less,male
+60,20,not too happy,1,male
+54,12,pretty happy,1,female
+56,12,pretty happy,1,female
+21,14,pretty happy,1,male
+67,11,pretty happy,more or less,male
+61,12,pretty happy,not at all sat,male
+51,12,1,not at all sat,male
+72,9,1,more or less,female
+63,9,pretty happy,more or less,male
+78,18,1,more or less,male
+45,16,1,1,female
+48,12,1,more or less,male
+79,16,1,more or less,male
+30,12,pretty happy,more or less,male
+32,12,1,not at all sat,female
+30,11,pretty happy,not at all sat,female
+44,16,pretty happy,not at all sat,male
+42,14,not too happy,not at all sat,female
+64,14,not too happy,not at all sat,female
+42,16,pretty happy,not at all sat,male
+42,16,pretty happy,more or less,female
+46,16,pretty happy,more or less,male
+26,13,pretty happy,more or less,male
+63,12,pretty happy,not at all sat,female
+45,16,pretty happy,not at all sat,female
+33,15,not too happy,not at all sat,female
+27,15,pretty happy,not at all sat,female
+50,16,1,1,male
+68,16,pretty happy,more or less,male
+55,12,1,more or less,female
+58,9,pretty happy,more or less,female
+19,13,pretty happy,more or less,female
+42,dk,not too happy,more or less,male
+38,12,pretty happy,not at all sat,female
+63,13,1,more or less,male
+27,16,pretty happy,not at all sat,female
+71,12,pretty happy,1,female
+38,12,pretty happy,more or less,male
+77,12,pretty happy,1,female
+48,12,1,not at all sat,female
+74,16,pretty happy,1,female
+56,10,1,more or less,female
+23,15,pretty happy,more or less,female
+51,10,not too happy,not at all sat,male
+47,12,pretty happy,not at all sat,female
+49,12,not too happy,not at all sat,female
+22,15,1,not at all sat,female
+36,17,pretty happy,more or less,male
+38,12,pretty happy,more or less,male
+22,12,1,more or less,male
+46,14,pretty happy,not at all sat,male
+63,10,1,more or less,male
+19,11,1,1,male
+52,12,1,more or less,male
+35,11,not too happy,not at all sat,male
+64,12,1,1,female
+49,12,pretty happy,more or less,female
+45,11,pretty happy,not at all sat,male
+68,11,pretty happy,not at all sat,female
+45,12,not too happy,1,female
+55,18,pretty happy,1,female
+62,11,pretty happy,not at all sat,male
+31,16,pretty happy,more or less,male
+54,12,pretty happy,1,male
+21,13,1,more or less,female
+23,12,pretty happy,1,male
+34,16,1,1,female
+45,14,not too happy,more or less,male
+28,13,1,not at all sat,male
+34,14,1,not at all sat,male
+74,12,not too happy,not at all sat,female
+25,13,pretty happy,1,male
+39,6,not too happy,more or less,female
+38,10,pretty happy,more or less,male
+80,3,1,1,male
+34,12,1,not at all sat,female
+71,12,pretty happy,1,male
+33,10,pretty happy,not at all sat,male
+32,9,pretty happy,more or less,female
+37,16,not too happy,not at all sat,male
+41,12,pretty happy,more or less,male
+32,14,not too happy,more or less,male
+35,13,pretty happy,not at all sat,male
+61,12,pretty happy,not at all sat,male
+57,16,1,1,male
+71,15,1,more or less,male
+39,18,not too happy,more or less,female
+30,13,not too happy,more or less,female
+42,16,pretty happy,more or less,female
+48,14,1,1,female
+32,19,pretty happy,not at all sat,male
+42,18,pretty happy,not at all sat,female
+37,13,pretty happy,more or less,male
+29,11,pretty happy,not at all sat,female
+74,12,pretty happy,1,female
+47,12,pretty happy,1,male
+41,16,1,1,male
+71,15,pretty happy,more or less,male
+31,12,pretty happy,1,female
+33,14,1,1,female
+32,20,pretty happy,not at all sat,male
+48,13,pretty happy,more or less,male
+50,18,1,more or less,female
+40,11,not too happy,not at all sat,male
+27,13,not too happy,not at all sat,female
+35,14,pretty happy,not at all sat,female
+40,9,1,more or less,male
+33,15,not too happy,not at all sat,female
+49,16,pretty happy,more or less,female
+30,12,not too happy,more or less,male
+22,16,pretty happy,more or less,female
+21,14,1,1,female
+21,14,pretty happy,more or less,female
+23,16,pretty happy,more or less,male
+67,12,pretty happy,1,male
+34,13,pretty happy,not at all sat,female
+18,12,1,1,male
+76,12,not too happy,more or less,female
+28,12,1,1,male
+84,13,pretty happy,1,female
+31,9,not too happy,not at all sat,male
+25,13,pretty happy,more or less,male
+38,12,not too happy,not at all sat,male
+37,12,pretty happy,more or less,female
+66,15,1,not at all sat,male
+72,12,pretty happy,more or less,male
+24,14,1,more or less,female
+49,14,1,more or less,female
+42,9,1,1,male
+48,11,1,1,female
+39,12,not too happy,not at all sat,male
+59,12,pretty happy,not at all sat,female
+63,14,1,not at all sat,male
+61,13,not too happy,not at all sat,male
+48,12,1,more or less,female
+39,12,1,not at all sat,female
+32,16,not too happy,more or less,male
+32,12,pretty happy,more or less,female
+27,14,pretty happy,not at all sat,male
+53,12,pretty happy,not at all sat,male
+88,12,pretty happy,1,female
+86,16,pretty happy,more or less,female
+44,16,pretty happy,1,male
+37,14,pretty happy,not at all sat,male
+70,12,pretty happy,more or less,female
+31,12,pretty happy,more or less,female
+57,12,not too happy,not at all sat,male
+63,12,1,more or less,female
+47,20,not too happy,1,female
+41,18,pretty happy,1,female
+41,18,pretty happy,more or less,female
+42,12,pretty happy,1,female
+31,12,pretty happy,not at all sat,female
+65,12,1,1,male
+79,16,pretty happy,not at all sat,female
+65,14,pretty happy,more or less,female
+38,18,1,1,male
+65,14,1,more or less,female
+19,12,pretty happy,more or less,female
+58,16,1,1,male
+31,16,1,more or less,female
+36,12,pretty happy,1,female
+29,16,1,not at all sat,female
+37,17,pretty happy,more or less,female
+42,17,1,more or less,female
+26,15,pretty happy,not at all sat,female
+24,12,1,more or less,male
+75,12,pretty happy,more or less,male
+40,20,1,more or less,male
+30,11,pretty happy,more or less,male
+65,16,pretty happy,more or less,male
+56,18,1,1,female
+40,16,pretty happy,more or less,male
+38,15,1,not at all sat,female
+69,16,1,1,female
+64,16,1,more or less,male
+29,14,pretty happy,not at all sat,male
+49,12,pretty happy,not at all sat,female
+32,12,1,1,male
+55,13,1,1,female
+55,14,pretty happy,more or less,male
+83,12,1,1,male
+35,18,1,1,male
+42,11,1,not at all sat,male
+39,14,pretty happy,more or less,female
+23,15,1,more or less,female
+49,12,pretty happy,more or less,female
+58,12,pretty happy,not at all sat,female
+50,12,pretty happy,1,female
+45,17,pretty happy,not at all sat,female
+77,9,pretty happy,not at all sat,female
+34,20,pretty happy,not at all sat,female
+32,14,1,1,female
+61,12,pretty happy,more or less,female
+69,18,1,1,female
+56,14,not too happy,not at all sat,male
+43,12,pretty happy,more or less,male
+20,12,pretty happy,1,male
+30,8,not too happy,not at all sat,male
+57,13,pretty happy,more or less,male
+24,16,not too happy,not at all sat,male
+57,16,pretty happy,not at all sat,female
+22,15,1,more or less,female
+23,13,pretty happy,more or less,male
+50,12,pretty happy,not at all sat,male
+71,12,not too happy,not at all sat,female
+25,16,1,1,male
+43,13,1,1,female
+84,12,not too happy,1,female
+55,12,1,more or less,female
+29,16,pretty happy,not at all sat,male
+21,13,1,more or less,female
+34,18,pretty happy,more or less,female
+34,18,1,more or less,female
+83,10,pretty happy,1,female
+77,7,1,1,female
+28,16,1,more or less,female
+78,13,1,1,female
+61,14,pretty happy,1,male
+62,17,not too happy,not at all sat,male
+40,8,1,1,female
+27,12,pretty happy,not at all sat,male
+59,16,pretty happy,more or less,male
+22,16,pretty happy,more or less,male
+60,20,1,more or less,male
+61,16,not too happy,more or less,female
+31,16,pretty happy,more or less,female
+38,18,pretty happy,more or less,female
+26,16,1,1,female
+25,12,pretty happy,not at all sat,female
+78,11,1,more or less,female
+39,20,pretty happy,1,female
+40,17,pretty happy,not at all sat,male
+52,13,1,more or less,male
+70,20,pretty happy,1,male
+36,16,pretty happy,not at all sat,female
+41,16,1,1,female
+58,16,pretty happy,not at all sat,male
+29,9,pretty happy,more or less,male
+34,15,pretty happy,not at all sat,male
+84,10,1,1,male
+54,10,1,more or less,female
+33,14,pretty happy,not at all sat,male
+26,14,1,more or less,female
+47,10,1,more or less,female
+59,13,pretty happy,more or less,female
+46,12,1,more or less,male
+88,8,pretty happy,not at all sat,male
+46,10,pretty happy,not at all sat,female
+23,15,pretty happy,more or less,male
+24,16,1,more or less,male
+63,12,1,more or less,female
+67,17,pretty happy,more or less,female
+28,19,1,not at all sat,female
+30,16,1,more or less,female
+19,11,not too happy,1,male
+42,12,pretty happy,more or less,female
+57,14,1,more or less,male
+64,18,not too happy,more or less,male
+63,14,1,1,male
+22,14,pretty happy,more or less,female
+28,12,pretty happy,not at all sat,male
+28,8,pretty happy,1,male
+51,13,pretty happy,more or less,male
+37,16,pretty happy,more or less,female
+37,14,pretty happy,more or less,female
+28,11,pretty happy,more or less,female
+60,12,1,not at all sat,female
+31,12,pretty happy,more or less,male
+57,12,not too happy,not at all sat,female
+na,12,not too happy,more or less,female
+30,20,pretty happy,more or less,male
+51,16,pretty happy,1,female
+31,18,pretty happy,more or less,female
+56,12,pretty happy,more or less,female
+49,14,1,1,male
+19,12,pretty happy,more or less,female
+48,12,pretty happy,not at all sat,male
+33,17,pretty happy,not at all sat,female
+46,12,1,more or less,female
+31,12,pretty happy,more or less,female
+35,12,not too happy,not at all sat,male
+42,9,pretty happy,not at all sat,female
+30,14,pretty happy,not at all sat,female
+38,11,1,not at all sat,female
+52,15,not too happy,not at all sat,female
+49,12,pretty happy,not at all sat,female
+62,12,not too happy,not at all sat,female
+54,12,1,1,female
+38,3,pretty happy,1,female
+30,16,not too happy,not at all sat,female
+53,11,pretty happy,not at all sat,male
+40,17,1,1,female
+67,18,1,more or less,male
+78,18,pretty happy,1,male
+66,12,not too happy,not at all sat,female
+57,12,pretty happy,more or less,female
+42,11,not too happy,not at all sat,male
+32,16,pretty happy,more or less,male
+20,12,pretty happy,not at all sat,female
+61,15,pretty happy,1,male
+55,9,1,more or less,male
+23,10,1,not at all sat,male
+33,9,not too happy,not at all sat,male
+62,9,pretty happy,more or less,female
+59,12,not too happy,not at all sat,female
+62,17,pretty happy,1,male
+65,12,pretty happy,1,female
+30,16,1,more or less,male
+32,14,1,more or less,female
+40,12,pretty happy,more or less,female
+25,16,1,more or less,female
+53,20,pretty happy,1,male
+72,17,1,more or less,female
+26,16,1,1,female
+33,14,pretty happy,more or less,male
+65,12,not too happy,more or less,female
+40,12,pretty happy,1,female
+32,20,pretty happy,1,male
+52,10,not too happy,not at all sat,male
+50,12,1,not at all sat,female
+70,10,1,1,female
+73,14,pretty happy,more or less,female
+53,16,pretty happy,1,female
+72,14,pretty happy,not at all sat,female
+66,16,pretty happy,1,male
+89 or older,20,pretty happy,1,male
+63,14,pretty happy,more or less,female
+26,16,1,1,female
+43,6,pretty happy,not at all sat,male
+56,13,1,not at all sat,male
+69,14,pretty happy,not at all sat,female
+27,14,1,more or less,female
+43,16,1,more or less,female
+82,10,pretty happy,not at all sat,female
+53,12,1,more or less,female
+39,15,pretty happy,not at all sat,female
+51,18,1,1,female
+63,10,1,not at all sat,female
+43,16,pretty happy,more or less,female
+38,13,1,more or less,female
+41,11,pretty happy,not at all sat,female
+68,16,pretty happy,more or less,female
+23,13,1,more or less,female
+77,12,pretty happy,more or less,male
+30,17,1,1,female
+27,11,1,more or less,male
+49,8,not too happy,not at all sat,male
+36,14,1,more or less,male
+67,8,1,not at all sat,male
+70,12,1,1,male
+43,11,pretty happy,not at all sat,female
+58,12,pretty happy,not at all sat,female
+35,14,not too happy,more or less,female
+27,14,not too happy,more or less,female
+32,12,pretty happy,not at all sat,female
+40,12,pretty happy,not at all sat,female
+54,12,pretty happy,not at all sat,female
+73,14,pretty happy,not at all sat,female
+55,12,pretty happy,not at all sat,female
+23,12,pretty happy,more or less,female
+21,12,pretty happy,more or less,male
+20,15,pretty happy,more or less,male
+47,13,pretty happy,more or less,female
+62,16,pretty happy,more or less,male
+31,15,pretty happy,more or less,male
+64,12,pretty happy,more or less,male
+52,16,not too happy,more or less,female
+83,16,1,more or less,female
+56,12,1,more or less,male
+30,12,1,more or less,male
+61,12,pretty happy,more or less,female
+75,18,1,1,female
+73,14,pretty happy,1,male
+68,14,pretty happy,more or less,male
+69,16,1,1,male
+52,15,1,more or less,female
+59,12,pretty happy,not at all sat,female
+39,11,pretty happy,more or less,male
+57,11,not too happy,1,female
+63,16,pretty happy,1,female
+29,12,pretty happy,not at all sat,male
+19,10,1,not at all sat,female
+30,10,1,not at all sat,male
+38,12,pretty happy,not at all sat,female
+28,12,1,more or less,male
+41,14,pretty happy,not at all sat,female
+56,16,pretty happy,more or less,male
+24,16,pretty happy,more or less,male
+58,14,pretty happy,not at all sat,female
+28,16,pretty happy,more or less,male
+55,12,not too happy,not at all sat,female
+41,14,pretty happy,not at all sat,female
+29,14,pretty happy,not at all sat,male
+65,12,pretty happy,more or less,female
+64,13,1,1,female
+41,14,pretty happy,more or less,female
+39,8,not too happy,more or less,male
+29,13,pretty happy,more or less,male
+54,13,pretty happy,not at all sat,male
+47,14,1,more or less,female
+44,12,1,not at all sat,female
+24,12,pretty happy,more or less,female
+33,13,1,1,female
+60,15,1,1,female
+60,14,1,more or less,male
+53,16,not too happy,not at all sat,male
+19,8,1,more or less,male
+46,12,pretty happy,not at all sat,female
+84,na,na,1,male
+37,14,pretty happy,not at all sat,female
+35,16,1,more or less,female
+60,14,not too happy,not at all sat,female
+46,12,pretty happy,more or less,female
+26,8,pretty happy,not at all sat,male
+31,16,pretty happy,not at all sat,male
+67,14,pretty happy,1,female
+67,17,1,1,female
+88,15,pretty happy,more or less,male
+40,18,pretty happy,more or less,female
+70,16,1,1,female
+44,9,not too happy,not at all sat,female
+39,14,1,more or less,male
+65,12,pretty happy,more or less,male
+33,11,pretty happy,not at all sat,female
+63,17,not too happy,not at all sat,male
+31,13,not too happy,more or less,male
+23,12,1,1,female
+71,12,pretty happy,more or less,female
+32,12,pretty happy,more or less,male
+52,14,pretty happy,more or less,female
+77,12,not too happy,not at all sat,female
+63,15,pretty happy,more or less,female
+42,12,pretty happy,not at all sat,male
+52,16,pretty happy,more or less,female
+70,16,pretty happy,1,female
+23,8,not too happy,more or less,female
+84,16,1,1,male
+30,12,pretty happy,more or less,male
+59,11,pretty happy,1,male
+61,12,pretty happy,1,female
+37,12,1,1,male
+41,12,1,more or less,female
+55,12,not too happy,1,female
+31,14,pretty happy,not at all sat,female
+21,10,1,not at all sat,male
+28,12,pretty happy,not at all sat,female
+35,16,pretty happy,not at all sat,male
+52,16,1,1,male
+63,20,pretty happy,not at all sat,male
+46,12,pretty happy,not at all sat,female
+64,14,pretty happy,1,male
+29,13,pretty happy,more or less,female
+41,19,pretty happy,more or less,female
+60,16,pretty happy,not at all sat,female
+38,8,1,not at all sat,male
+81,10,pretty happy,not at all sat,female
+52,12,pretty happy,more or less,male
+62,12,1,na,female
+46,15,pretty happy,more or less,male
+27,12,pretty happy,not at all sat,male
+43,16,pretty happy,1,male
+48,12,pretty happy,not at all sat,female
+37,12,pretty happy,not at all sat,female
+55,20,pretty happy,1,male
+19,11,pretty happy,1,male
+59,12,pretty happy,not at all sat,female
+37,18,1,1,female
+na,13,1,1,female
+37,17,1,1,female
+47,20,pretty happy,more or less,female
+77,11,1,1,female
+21,11,pretty happy,more or less,male
+71,15,pretty happy,more or less,female
+59,18,pretty happy,1,female
+28,12,1,not at all sat,female
+57,12,1,1,male
+37,17,pretty happy,more or less,male
+37,12,pretty happy,more or less,male
+49,12,pretty happy,1,male
+63,12,1,more or less,male
+22,9,not too happy,not at all sat,male
+45,15,not too happy,more or less,male
+82,18,pretty happy,1,female
+59,16,not too happy,not at all sat,female
+41,13,not too happy,not at all sat,male
+47,13,not too happy,more or less,female
+29,10,pretty happy,not at all sat,female
+52,13,pretty happy,1,male
+24,13,pretty happy,more or less,female
+72,13,pretty happy,1,female
+52,14,1,more or less,female
+54,19,pretty happy,more or less,male
+61,17,pretty happy,1,female
+37,16,not too happy,more or less,female
+65,16,1,1,female
+33,16,pretty happy,1,female
+64,12,pretty happy,1,female
+52,16,1,1,male
+71,12,1,1,female
+65,12,pretty happy,1,female
+19,11,pretty happy,1,female
+60,16,1,more or less,male
+60,12,not too happy,more or less,male
+25,12,pretty happy,not at all sat,female
+51,12,1,more or less,male
+66,12,pretty happy,1,female
+68,12,pretty happy,more or less,male
+52,12,pretty happy,not at all sat,male
+37,19,pretty happy,more or less,female
+87,16,pretty happy,1,female
+26,16,1,more or less,male
+76,18,pretty happy,1,female
+47,16,pretty happy,1,female
+52,16,pretty happy,not at all sat,male
+68,16,pretty happy,more or less,male
+53,12,1,more or less,female
+60,5,pretty happy,more or less,female
+30,12,pretty happy,not at all sat,male
+82,12,pretty happy,1,male
+34,12,1,more or less,female
+65,12,1,more or less,female
+57,14,pretty happy,more or less,male
+65,12,1,1,female
+73,12,pretty happy,1,male
+50,12,1,more or less,female
+41,16,pretty happy,more or less,male
+44,16,pretty happy,more or less,male
+74,20,not too happy,more or less,male
+19,12,pretty happy,not at all sat,male
+69,15,pretty happy,not at all sat,male
+62,14,pretty happy,1,male
+28,15,not too happy,not at all sat,female
+44,18,pretty happy,1,male
+66,16,1,more or less,female
+84,8,pretty happy,more or less,male
+29,14,pretty happy,not at all sat,female
+87,12,pretty happy,1,male
+75,9,1,more or less,male
+47,14,pretty happy,more or less,female
+86,12,pretty happy,1,female
+55,12,pretty happy,more or less,male
+76,13,pretty happy,more or less,female
+84,16,pretty happy,1,female
+80,14,pretty happy,1,female
+63,13,1,more or less,male
+42,18,not too happy,more or less,female
+59,19,1,1,female
+55,16,pretty happy,1,female
+44,20,pretty happy,more or less,female
+50,16,pretty happy,more or less,female
+47,20,1,1,male
+51,17,pretty happy,1,male
+50,9,pretty happy,not at all sat,female
+70,15,pretty happy,more or less,male
+30,17,pretty happy,1,male
+25,14,pretty happy,not at all sat,female
+25,16,not too happy,not at all sat,male
+54,12,pretty happy,more or less,female
+68,15,pretty happy,more or less,female
+47,12,pretty happy,1,male
+88,17,1,1,female
+77,20,1,more or less,male
+28,16,pretty happy,1,female
+58,10,1,not at all sat,male
+60,6,pretty happy,more or less,female
+62,12,1,more or less,male
+38,15,1,more or less,female
+25,12,pretty happy,not at all sat,female
+34,15,not too happy,1,female
+89 or older,10,not too happy,1,male
+36,10,not too happy,not at all sat,male
+53,14,pretty happy,more or less,female
+46,12,not too happy,not at all sat,male
+69,8,not too happy,1,female
+63,12,not too happy,more or less,female
+59,13,1,1,female
+19,12,1,not at all sat,female
+26,12,pretty happy,1,female
+42,14,1,more or less,female
+52,14,pretty happy,not at all sat,female
+31,14,pretty happy,not at all sat,male
+46,20,pretty happy,more or less,female
+18,11,pretty happy,1,male
+26,13,1,1,female
+40,15,1,not at all sat,female
+33,12,1,more or less,male
+57,14,pretty happy,not at all sat,male
+20,14,1,1,female
+42,20,1,more or less,female
+41,16,pretty happy,1,male
+73,11,pretty happy,not at all sat,female
+21,13,1,1,male
+21,14,pretty happy,more or less,female
+45,19,pretty happy,not at all sat,female
+21,13,1,more or less,male
+68,20,1,more or less,female
+46,18,1,1,female
+53,10,pretty happy,1,male
+28,12,pretty happy,more or less,male
+34,15,pretty happy,more or less,male
+68,12,pretty happy,1,female
+43,11,pretty happy,not at all sat,male
+42,8,na,not at all sat,female
+59,13,1,1,male
+57,14,pretty happy,not at all sat,female
+24,10,not too happy,not at all sat,female
+40,12,1,not at all sat,female
+41,16,1,1,female
+59,14,1,1,male
+64,15,pretty happy,not at all sat,male
+55,20,pretty happy,1,female
+55,12,pretty happy,more or less,male
+35,12,pretty happy,1,male
+33,15,not too happy,not at all sat,male
+83,13,1,1,male
+48,18,not too happy,not at all sat,female
+68,17,pretty happy,1,female
+60,12,pretty happy,more or less,male
+38,12,pretty happy,not at all sat,female
+24,12,pretty happy,more or less,male
+77,12,pretty happy,more or less,male
+46,14,1,not at all sat,female
+83,18,pretty happy,1,female
+89 or older,8,not too happy,not at all sat,female
+86,12,pretty happy,1,male
+34,12,pretty happy,not at all sat,female
+45,15,not too happy,1,male
+81,8,dk,not at all sat,male
+45,16,pretty happy,more or less,male
+42,14,pretty happy,more or less,male
+43,12,not too happy,more or less,male
+47,14,pretty happy,not at all sat,male
+59,12,pretty happy,not at all sat,female
+33,9,pretty happy,more or less,female
+22,12,1,more or less,female
+30,12,pretty happy,not at all sat,male
+32,12,pretty happy,1,male
+89 or older,8,1,more or less,male
+25,12,pretty happy,more or less,male
+62,12,pretty happy,more or less,male
+35,12,1,more or less,male
+62,12,pretty happy,not at all sat,male
+51,12,pretty happy,1,female
+61,16,pretty happy,1,male
+28,17,1,more or less,female
+86,8,1,1,female
+85,15,pretty happy,1,female
+60,16,pretty happy,more or less,female
+44,16,pretty happy,not at all sat,male
+21,15,pretty happy,more or less,female
+28,16,pretty happy,not at all sat,male
+47,12,pretty happy,more or less,male
+51,17,1,1,male
+53,12,1,1,female
+41,12,pretty happy,more or less,female
+39,16,pretty happy,not at all sat,male
+42,13,pretty happy,not at all sat,male
+49,13,not too happy,not at all sat,male
+50,12,1,more or less,female
+54,12,1,more or less,male
+43,12,pretty happy,1,female
+22,15,pretty happy,1,female
+37,12,1,1,female
+37,16,pretty happy,not at all sat,female
+41,12,1,1,male
+30,19,pretty happy,more or less,male
+55,14,pretty happy,more or less,female
+46,15,pretty happy,more or less,female
+27,12,pretty happy,more or less,female
+65,13,pretty happy,more or less,male
+65,12,1,1,male
+70,11,1,more or less,female
+27,16,pretty happy,1,male
+33,17,1,more or less,male
+37,19,not too happy,not at all sat,male
+23,16,1,1,female
+64,16,1,1,male
+29,18,pretty happy,1,male
+43,16,1,more or less,female
+45,16,pretty happy,not at all sat,female
+64,16,1,1,female
+76,15,pretty happy,1,male
+47,16,not too happy,1,male
+21,14,1,more or less,female
+36,12,1,1,male
+39,16,1,more or less,female
+30,17,1,more or less,male
+53,12,pretty happy,not at all sat,female
+58,7,pretty happy,more or less,male
+47,12,pretty happy,1,male
+34,17,pretty happy,more or less,male
+58,10,not too happy,not at all sat,female
+64,10,not too happy,not at all sat,male
+30,11,1,more or less,male
+52,12,pretty happy,not at all sat,female
+72,12,pretty happy,more or less,male
+51,14,1,more or less,male
+39,20,pretty happy,not at all sat,male
+49,12,pretty happy,not at all sat,female
+22,15,pretty happy,more or less,female
+51,9,not too happy,not at all sat,male
+33,12,pretty happy,not at all sat,male
+69,19,pretty happy,more or less,female
+48,20,1,more or less,female
+28,14,pretty happy,more or less,female
+66,18,pretty happy,1,female
+55,12,pretty happy,more or less,female
+45,14,pretty happy,1,female
+51,16,pretty happy,more or less,male
+55,12,not too happy,not at all sat,female
+39,11,1,1,male
+53,14,1,not at all sat,female
+67,12,pretty happy,more or less,male
+37,11,1,not at all sat,female
+20,13,1,more or less,female
+23,17,1,1,male
+64,14,1,more or less,female
+56,12,pretty happy,not at all sat,female
+59,8,dk,more or less,male
+26,8,pretty happy,not at all sat,male
+81,12,pretty happy,1,female
+67,12,not too happy,more or less,male
+53,15,pretty happy,more or less,female
+39,13,1,1,female
+38,12,1,more or less,male
+89 or older,13,1,not at all sat,female
+53,10,pretty happy,more or less,female
+60,1,1,more or less,female
+22,14,1,more or less,female
+49,12,not too happy,1,male
+59,15,1,more or less,female
+33,12,1,1,female
+33,15,pretty happy,more or less,male
+77,3,not too happy,more or less,female
+34,11,pretty happy,not at all sat,female
+55,8,not too happy,more or less,female
+29,13,pretty happy,more or less,female
+51,17,1,more or less,male
+26,13,not too happy,more or less,female
+79,2,1,1,female
+20,13,1,more or less,female
+24,14,pretty happy,more or less,male
+22,12,pretty happy,1,female
+26,13,pretty happy,not at all sat,male
+45,12,1,1,male
+44,15,1,more or less,male
+55,16,1,more or less,male
+65,16,pretty happy,more or less,female
+58,18,1,1,female
+20,14,1,not at all sat,female
+37,14,pretty happy,not at all sat,male
+32,14,pretty happy,not at all sat,female
+58,18,1,1,male
+43,12,pretty happy,not at all sat,female
+57,18,1,not at all sat,male
+74,16,1,more or less,female
+67,18,1,1,male
+27,19,1,1,male
+55,14,not too happy,not at all sat,female
+45,12,pretty happy,more or less,male
+42,14,pretty happy,more or less,female
+21,14,pretty happy,more or less,female
+28,14,pretty happy,more or less,male
+47,19,pretty happy,1,male
+25,14,pretty happy,not at all sat,female
+71,18,1,1,male
+46,14,1,1,female
+26,13,1,more or less,female
+71,18,1,1,male
+65,13,1,not at all sat,female
+35,14,not too happy,more or less,male
+62,12,pretty happy,more or less,male
+88,13,1,more or less,female
+37,17,pretty happy,more or less,male
+46,17,1,1,female
+55,20,1,1,female
+48,20,1,not at all sat,female
+36,14,pretty happy,more or less,female
+25,12,1,1,male
+37,18,pretty happy,more or less,male
+59,8,pretty happy,1,female
+61,20,pretty happy,more or less,female
+61,14,pretty happy,1,male
+25,15,pretty happy,more or less,female
+63,18,pretty happy,more or less,male
+54,12,not too happy,not at all sat,female
+39,9,pretty happy,more or less,male
+69,12,1,not at all sat,female
+28,12,pretty happy,more or less,female
+29,12,pretty happy,not at all sat,female
+85,12,1,more or less,female
+31,11,not too happy,not at all sat,female
+34,19,pretty happy,not at all sat,female
+37,6,not too happy,not at all sat,female
+46,2,pretty happy,more or less,female
+30,16,pretty happy,not at all sat,female
+75,12,not too happy,not at all sat,female
+55,5,pretty happy,more or less,male
+48,19,1,1,male
+82,14,1,more or less,male
+53,11,not too happy,more or less,male
+32,6,1,more or less,female
+32,13,pretty happy,1,female
+31,12,pretty happy,not at all sat,female
+25,13,1,1,female
+44,11,pretty happy,not at all sat,female
+54,7,pretty happy,more or less,male
+30,15,pretty happy,1,female
+76,12,1,1,male
+48,16,1,not at all sat,male
+33,6,not too happy,not at all sat,male
+26,15,1,not at all sat,male
+26,12,not too happy,not at all sat,male
+18,11,pretty happy,more or less,female
+61,12,not too happy,not at all sat,male
+57,11,not too happy,not at all sat,male
+36,18,1,more or less,female
+33,11,pretty happy,more or less,male
+50,4,pretty happy,not at all sat,female
+65,14,1,not at all sat,female
+50,11,not too happy,not at all sat,female
+48,3,1,more or less,female
+80,12,pretty happy,1,male
+80,12,1,1,female
+70,12,pretty happy,not at all sat,female
+76,12,1,more or less,female
+69,14,1,1,female
+47,16,1,more or less,male
+68,14,1,not at all sat,male
+79,12,not too happy,1,female
+67,16,pretty happy,more or less,female
+62,14,not too happy,not at all sat,female
+58,12,pretty happy,not at all sat,female
+19,13,pretty happy,more or less,female
+35,17,pretty happy,more or less,male
+36,12,not too happy,not at all sat,female
+86,12,pretty happy,1,male
+63,14,pretty happy,more or less,female
+22,14,pretty happy,not at all sat,male
+23,15,pretty happy,more or less,female
+19,13,pretty happy,more or less,female
+51,18,pretty happy,not at all sat,female
+82,8,not too happy,not at all sat,male
+27,15,pretty happy,not at all sat,male
+68,12,pretty happy,more or less,male
+23,14,1,more or less,female
+38,13,pretty happy,more or less,male
+65,20,pretty happy,more or less,female
+72,12,pretty happy,1,male
+80,9,pretty happy,more or less,male
+34,12,1,more or less,female
+56,13,pretty happy,more or less,male
+57,12,1,not at all sat,female
+61,16,pretty happy,1,male
+53,10,pretty happy,more or less,male
+79,12,pretty happy,not at all sat,male
+46,8,pretty happy,not at all sat,female
+45,15,pretty happy,more or less,female
+50,8,pretty happy,not at all sat,female
+63,12,1,1,male
+38,13,pretty happy,more or less,female
+51,14,not too happy,more or less,female
+62,17,pretty happy,1,female
+47,12,1,not at all sat,male
+29,11,not too happy,not at all sat,female
+37,14,pretty happy,more or less,female
+39,14,1,more or less,male
+46,20,pretty happy,1,female
+55,14,pretty happy,1,male
+27,12,pretty happy,not at all sat,male
+45,10,1,not at all sat,female
+71,12,1,1,female
+74,8,not too happy,more or less,female
+18,11,not too happy,not at all sat,female
+67,13,pretty happy,not at all sat,female
+49,14,1,more or less,male
+74,12,1,1,male
+67,2,pretty happy,not at all sat,male
+35,7,not too happy,more or less,female
+36,12,pretty happy,more or less,male
+58,12,1,not at all sat,female
+21,13,pretty happy,more or less,female
+21,11,pretty happy,not at all sat,male
+43,17,pretty happy,1,female
+41,4,pretty happy,more or less,male
+44,1,not too happy,more or less,male
+51,12,not too happy,not at all sat,female
+22,12,pretty happy,not at all sat,male
+30,12,not too happy,not at all sat,female
+18,11,pretty happy,not at all sat,male
+73,8,pretty happy,more or less,female
+38,12,not too happy,not at all sat,female
+87,12,1,more or less,male
+39,13,pretty happy,not at all sat,female
+74,12,pretty happy,more or less,female
+31,14,1,more or less,female
+37,15,pretty happy,more or less,male
+31,14,na,more or less,female
+24,13,pretty happy,more or less,male
+32,19,1,1,male
+50,18,1,1,male
+20,11,not too happy,more or less,female
+71,14,pretty happy,1,female
+88,16,1,1,female
+24,14,1,more or less,female
+56,14,not too happy,not at all sat,female
+56,18,pretty happy,1,male
+49,16,pretty happy,not at all sat,female
+48,14,1,more or less,male
+59,12,pretty happy,more or less,male
+82,9,pretty happy,1,female
+65,14,pretty happy,not at all sat,female
+79,14,pretty happy,1,female
+49,12,1,1,male
+36,12,pretty happy,more or less,female
+55,20,pretty happy,not at all sat,male
+59,12,pretty happy,more or less,male
+52,18,1,not at all sat,female
+74,20,1,1,female
+33,16,1,more or less,male
+44,16,pretty happy,more or less,male
+48,16,1,more or less,female
+32,14,1,1,female
+39,20,1,1,female
+39,16,1,1,female
+54,19,pretty happy,1,female
+71,17,pretty happy,1,female
+35,13,pretty happy,more or less,female
+38,12,1,1,male
+52,13,1,1,female
+73,12,pretty happy,more or less,female
+75,13,pretty happy,more or less,female
+89 or older,12,pretty happy,1,female
+46,13,pretty happy,more or less,male
+37,13,pretty happy,more or less,female
+84,12,not too happy,1,female
+55,8,1,more or less,female
+73,12,1,more or less,male
+41,12,1,1,male
+51,12,pretty happy,more or less,female
+65,12,pretty happy,more or less,male
+58,12,pretty happy,not at all sat,male
+71,10,pretty happy,not at all sat,female
+32,14,not too happy,not at all sat,female
+43,14,pretty happy,more or less,female
+28,8,not too happy,not at all sat,female
+46,11,pretty happy,not at all sat,female
+49,4,pretty happy,more or less,female
+75,12,not too happy,more or less,female
+54,13,pretty happy,more or less,female
+52,10,not too happy,not at all sat,female
+21,14,1,more or less,male
+32,17,pretty happy,1,male
+36,14,pretty happy,not at all sat,female
+80,12,1,1,female
+54,14,1,not at all sat,female
+63,11,pretty happy,1,male
+53,12,not too happy,1,male
+62,9,not too happy,not at all sat,female
+61,6,not too happy,not at all sat,female
+75,12,1,1,female
+65,14,1,not at all sat,male
+70,13,1,1,female
+78,10,pretty happy,1,male
+35,12,1,1,female
+70,15,pretty happy,1,male
+32,13,1,more or less,female
+78,12,1,more or less,male
+86,12,1,more or less,female
+59,12,1,1,male
+27,11,not too happy,not at all sat,male
+60,12,1,more or less,male
+23,12,pretty happy,more or less,female
+61,12,not too happy,1,male
+65,12,pretty happy,not at all sat,male
+51,12,1,more or less,male
+38,14,1,more or less,male
+39,16,1,1,male
+25,12,not too happy,not at all sat,female
+33,12,pretty happy,more or less,male
+30,16,pretty happy,more or less,male
+30,12,pretty happy,more or less,male
+36,16,pretty happy,more or less,male
+35,12,pretty happy,not at all sat,male
+23,12,1,not at all sat,female
+27,17,pretty happy,1,male
+75,8,pretty happy,1,male
+31,16,pretty happy,more or less,female
+41,16,pretty happy,not at all sat,female
+71,12,pretty happy,more or less,male
+80,9,pretty happy,more or less,female
+33,14,pretty happy,not at all sat,female
+37,13,pretty happy,1,male
+44,16,pretty happy,1,male
+33,16,pretty happy,more or less,female
+45,12,1,1,female
+25,12,pretty happy,more or less,female
+26,17,pretty happy,more or less,female
+36,13,pretty happy,not at all sat,male
+86,8,pretty happy,1,male
+72,12,1,not at all sat,female
+36,14,not too happy,not at all sat,female
+64,8,not too happy,not at all sat,male
+49,13,pretty happy,1,female
+87,12,pretty happy,more or less,female
+52,4,1,more or less,female
+24,13,pretty happy,more or less,female
+61,12,pretty happy,1,male
+32,13,pretty happy,more or less,female
+42,12,1,more or less,male
+89 or older,8,pretty happy,1,female
+59,12,1,more or less,female
+73,8,1,more or less,male
+70,12,1,1,female
+48,12,1,1,male
+21,11,pretty happy,not at all sat,female
+26,12,pretty happy,more or less,female
+74,12,pretty happy,1,female
+68,12,pretty happy,more or less,male
+69,16,1,1,female
+59,12,1,more or less,female
+56,12,1,1,male
+60,17,pretty happy,more or less,male
+54,12,1,not at all sat,female
+34,12,pretty happy,more or less,female
+35,12,1,more or less,female
+61,16,1,1,female
+79,19,pretty happy,1,male
+78,12,pretty happy,more or less,female
+33,14,pretty happy,more or less,female
+39,12,1,1,male
+36,14,pretty happy,more or less,male
+32,15,pretty happy,more or less,female
+74,12,pretty happy,not at all sat,female
+61,11,pretty happy,1,female
+29,18,pretty happy,more or less,male
+32,17,1,1,male
+32,11,pretty happy,not at all sat,female
+29,12,1,1,female
+46,20,pretty happy,1,female
+28,13,pretty happy,more or less,female
+47,17,not too happy,1,male
+26,13,not too happy,not at all sat,male
+79,12,1,more or less,female
+39,16,pretty happy,not at all sat,female
+79,12,1,more or less,female
+57,15,pretty happy,1,female
+49,12,not too happy,not at all sat,male
+82,16,1,1,female
+55,12,1,more or less,male
+51,12,not too happy,not at all sat,male
+73,12,pretty happy,not at all sat,male
+78,16,pretty happy,not at all sat,male
+60,20,1,1,female
+62,14,1,1,male
+65,14,pretty happy,1,female
+44,10,not too happy,more or less,female
+20,11,1,more or less,female
+62,11,pretty happy,not at all sat,female
+55,17,pretty happy,more or less,male
+71,18,pretty happy,1,male
+71,12,pretty happy,na,male
+33,16,1,1,female
+56,10,pretty happy,more or less,female
+44,14,1,1,female
+51,14,not too happy,not at all sat,female
+64,7,1,more or less,male
+76,12,1,not at all sat,male
+54,12,not too happy,not at all sat,male
+56,14,pretty happy,more or less,female
+89 or older,12,1,more or less,male
+36,12,1,more or less,female
+87,18,pretty happy,more or less,female
+44,12,pretty happy,more or less,female
+26,12,pretty happy,more or less,male
+25,16,1,1,female
+60,4,not too happy,not at all sat,female
+47,13,pretty happy,1,female
+74,4,pretty happy,more or less,female
+28,19,not too happy,not at all sat,female
+54,10,pretty happy,more or less,female
+66,16,pretty happy,1,female
+66,6,not too happy,not at all sat,male
+31,12,pretty happy,more or less,female
+44,11,1,not at all sat,male
+45,12,pretty happy,more or less,male
+51,12,pretty happy,more or less,male
+61,12,1,more or less,male
+23,13,pretty happy,more or less,male
+33,14,1,not at all sat,male
+77,3,1,1,male
+28,15,pretty happy,not at all sat,male
+55,12,1,not at all sat,female
+56,12,1,not at all sat,male
+29,6,pretty happy,more or less,male
+19,12,not too happy,not at all sat,female
+61,12,pretty happy,not at all sat,female
+31,4,1,more or less,male
+25,8,1,more or less,female
+68,10,1,1,male
+62,14,pretty happy,not at all sat,female
+56,16,pretty happy,more or less,male
+52,13,not too happy,not at all sat,female
+39,12,pretty happy,1,female
+57,9,pretty happy,more or less,female
+65,12,pretty happy,not at all sat,female
+24,14,pretty happy,not at all sat,female
+43,11,pretty happy,more or less,female
+23,12,pretty happy,more or less,male
+57,9,pretty happy,more or less,female
+39,11,pretty happy,more or less,female
+21,11,pretty happy,1,female
+67,3,not too happy,not at all sat,female
+66,12,1,more or less,female
+23,12,pretty happy,1,female
+41,12,not too happy,not at all sat,female
+48,12,not too happy,not at all sat,female
+41,16,na,na,female
+61,11,not too happy,not at all sat,male
+56,12,pretty happy,more or less,female
+34,14,pretty happy,1,female
+56,12,pretty happy,more or less,male
+47,12,1,more or less,male
+44,11,pretty happy,1,female
+30,13,pretty happy,not at all sat,male
+73,11,pretty happy,1,male
+81,7,dk,dk,female
+70,17,not too happy,1,female
+33,12,pretty happy,more or less,male
+21,14,1,more or less,female
+39,12,pretty happy,1,male
+65,16,pretty happy,1,male
+34,17,1,more or less,male
+73,10,1,not at all sat,female
+32,16,pretty happy,1,female
+44,15,pretty happy,1,female
+66,14,pretty happy,1,male
+30,12,pretty happy,more or less,female
+31,12,pretty happy,not at all sat,female
+21,11,not too happy,more or less,male
+50,12,pretty happy,more or less,male
+49,12,pretty happy,more or less,female
+71,11,pretty happy,1,male
+53,12,pretty happy,more or less,male
+58,16,1,1,female
+40,20,not too happy,not at all sat,male
+45,16,1,more or less,female
+62,14,pretty happy,not at all sat,female
+28,16,1,1,female
+74,14,pretty happy,1,male
+60,12,1,more or less,male
+42,16,pretty happy,more or less,male
+36,20,pretty happy,more or less,female
+50,19,pretty happy,more or less,female
+63,16,pretty happy,1,male
+20,14,pretty happy,more or less,female
+71,12,1,1,male
+50,14,pretty happy,not at all sat,male
+23,14,pretty happy,more or less,female
+65,19,pretty happy,1,female
+60,8,pretty happy,more or less,male
+69,9,pretty happy,1,female
+78,9,pretty happy,not at all sat,male
+25,11,not too happy,more or less,female
+61,16,1,more or less,female
+53,13,not too happy,not at all sat,female
+48,13,1,more or less,male
+37,12,pretty happy,more or less,female
+22,12,pretty happy,more or less,male
