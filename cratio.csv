@@ -1,0 +1,1975 @@
+class,degree,sex,sibs
+upper class,bachelor,male,1
+middle class,high school,male,2
+middle class,high school,male,1
+upper class,high school,female,2
+lower class,bachelor,female,0
+middle class,bachelor,female,4
+working class,junior college,female,2
+working class,lt high school,female,2
+middle class,lt high school,female,2
+working class,bachelor,female,0
+lower class,lt high school,male,4
+working class,bachelor,female,2
+lower class,high school,female,6
+upper class,high school,female,7
+working class,lt high school,male,6
+middle class,high school,female,2
+working class,high school,male,5
+middle class,high school,female,2
+working class,high school,male,9
+lower class,high school,female,3
+working class,lt high school,female,10
+upper class,lt high school,male,6
+middle class,junior college,male,1
+working class,junior college,female,3
+middle class,high school,male,1
+middle class,bachelor,female,0
+middle class,high school,male,2
+middle class,lt high school,male,6
+middle class,bachelor,female,2
+working class,high school,female,3
+middle class,bachelor,male,2
+lower class,junior college,female,5
+upper class,graduate,male,0
+working class,bachelor,male,4
+working class,high school,female,1
+working class,graduate,male,1
+working class,high school,male,5
+working class,high school,female,2
+middle class,bachelor,female,2
+working class,high school,female,2
+middle class,graduate,female,1
+middle class,high school,female,2
+middle class,graduate,female,1
+upper class,bachelor,female,2
+upper class,bachelor,male,2
+upper class,bachelor,female,1
+upper class,bachelor,female,0
+upper class,graduate,male,2
+middle class,bachelor,female,1
+upper class,graduate,male,2
+working class,bachelor,male,4
+working class,bachelor,female,3
+upper class,graduate,female,0
+middle class,junior college,male,10
+middle class,graduate,male,2
+working class,graduate,female,2
+working class,high school,female,3
+working class,high school,female,2
+middle class,lt high school,female,5
+lower class,lt high school,female,7
+middle class,graduate,female,4
+middle class,graduate,male,15
+working class,lt high school,male,4
+working class,bachelor,female,3
+working class,bachelor,male,6
+middle class,high school,female,1
+working class,lt high school,female,7
+working class,bachelor,female,1
+middle class,bachelor,male,2
+working class,high school,female,0
+working class,bachelor,male,1
+middle class,graduate,female,0
+middle class,bachelor,male,3
+working class,junior college,male,3
+middle class,bachelor,male,3
+middle class,high school,male,3
+middle class,bachelor,female,5
+working class,high school,female,1
+lower class,high school,female,8
+working class,lt high school,female,6
+middle class,high school,male,0
+working class,graduate,female,1
+middle class,graduate,male,2
+middle class,graduate,female,0
+middle class,high school,female,5
+working class,graduate,female,2
+working class,high school,female,10
+working class,bachelor,female,5
+middle class,high school,male,4
+working class,high school,male,2
+working class,graduate,female,1
+working class,bachelor,female,5
+lower class,graduate,female,0
+lower class,high school,female,3
+lower class,lt high school,female,5
+working class,high school,female,4
+middle class,bachelor,male,2
+middle class,high school,female,2
+middle class,bachelor,male,3
+working class,high school,female,0
+working class,high school,male,3
+middle class,bachelor,female,2
+upper class,graduate,female,1
+working class,high school,male,6
+middle class,high school,male,0
+working class,graduate,male,0
+middle class,graduate,female,2
+lower class,high school,female,6
+working class,graduate,female,2
+middle class,bachelor,male,4
+middle class,high school,female,4
+middle class,bachelor,male,1
+middle class,bachelor,female,1
+middle class,graduate,male,1
+middle class,high school,female,5
+middle class,high school,male,1
+lower class,junior college,female,0
+middle class,graduate,female,1
+middle class,high school,male,3
+middle class,junior college,female,5
+middle class,graduate,male,0
+middle class,high school,male,5
+upper class,bachelor,male,1
+middle class,high school,male,5
+middle class,graduate,female,2
+working class,bachelor,female,2
+middle class,graduate,male,2
+middle class,lt high school,female,13
+working class,high school,female,1
+working class,lt high school,male,6
+middle class,high school,male,4
+working class,high school,female,2
+working class,lt high school,female,4
+working class,high school,female,2
+middle class,bachelor,male,0
+working class,high school,male,3
+working class,high school,female,2
+middle class,lt high school,male,10
+middle class,bachelor,female,3
+middle class,bachelor,male,2
+working class,bachelor,male,2
+working class,high school,female,4
+upper class,bachelor,male,1
+middle class,junior college,female,4
+working class,lt high school,female,8
+middle class,high school,female,4
+working class,high school,female,12
+middle class,lt high school,male,7
+working class,junior college,female,3
+working class,high school,male,5
+working class,lt high school,female,5
+working class,lt high school,female,7
+working class,lt high school,male,1
+lower class,lt high school,female,11
+lower class,lt high school,female,8
+middle class,high school,female,2
+working class,high school,female,1
+working class,high school,male,5
+working class,high school,male,2
+working class,high school,male,1
+middle class,bachelor,female,1
+middle class,bachelor,male,6
+working class,high school,male,3
+upper class,high school,female,7
+lower class,high school,male,1
+working class,high school,female,1
+lower class,high school,female,1
+middle class,bachelor,female,3
+middle class,bachelor,male,1
+middle class,graduate,male,1
+middle class,bachelor,female,2
+lower class,junior college,female,3
+middle class,high school,female,2
+upper class,high school,female,2
+middle class,junior college,male,2
+middle class,high school,male,1
+upper class,high school,male,1
+middle class,graduate,male,8
+middle class,bachelor,female,5
+working class,lt high school,male,3
+working class,high school,female,3
+working class,high school,male,3
+working class,high school,male,2
+middle class,high school,male,0
+middle class,bachelor,female,2
+middle class,bachelor,female,2
+middle class,bachelor,male,1
+working class,high school,female,4
+middle class,bachelor,male,1
+middle class,bachelor,female,3
+middle class,high school,male,6
+working class,high school,male,4
+working class,high school,male,1
+middle class,bachelor,female,6
+working class,high school,female,4
+lower class,high school,female,6
+working class,high school,female,0
+working class,high school,female,1
+working class,high school,male,2
+working class,lt high school,male,9
+middle class,lt high school,female,8
+middle class,high school,male,0
+upper class,bachelor,male,1
+working class,bachelor,female,1
+working class,junior college,male,8
+middle class,lt high school,female,5
+middle class,bachelor,male,2
+middle class,graduate,female,3
+working class,high school,male,8
+working class,junior college,female,3
+working class,high school,male,6
+lower class,high school,male,1
+working class,bachelor,male,3
+middle class,junior college,female,0
+middle class,graduate,female,1
+middle class,graduate,male,2
+dk,high school,male,1
+working class,high school,female,4
+working class,high school,male,4
+working class,lt high school,female,9
+working class,lt high school,male,7
+working class,lt high school,female,2
+working class,lt high school,male,3
+working class,high school,female,2
+middle class,high school,female,3
+working class,high school,male,5
+middle class,graduate,male,3
+middle class,graduate,female,2
+working class,high school,female,2
+working class,lt high school,female,10
+middle class,high school,male,1
+working class,bachelor,female,3
+middle class,lt high school,female,1
+upper class,high school,female,11
+middle class,high school,male,11
+working class,lt high school,female,dk
+middle class,bachelor,male,1
+working class,high school,male,3
+working class,high school,male,2
+lower class,high school,male,2
+middle class,high school,male,5
+upper class,bachelor,male,7
+middle class,graduate,male,4
+upper class,graduate,male,2
+working class,high school,male,1
+middle class,high school,male,1
+working class,high school,female,3
+lower class,lt high school,female,5
+working class,junior college,male,4
+working class,bachelor,female,5
+middle class,junior college,female,4
+middle class,bachelor,female,6
+working class,high school,male,7
+working class,lt high school,male,10
+working class,high school,female,4
+middle class,lt high school,female,9
+lower class,high school,male,11
+working class,high school,female,6
+middle class,bachelor,female,4
+middle class,bachelor,female,1
+middle class,high school,female,0
+middle class,bachelor,male,1
+middle class,high school,female,6
+middle class,bachelor,male,2
+middle class,bachelor,female,1
+middle class,bachelor,male,3
+upper class,bachelor,female,5
+middle class,graduate,female,1
+working class,high school,female,1
+middle class,bachelor,male,3
+working class,high school,female,5
+working class,high school,female,4
+middle class,lt high school,male,3
+middle class,junior college,male,5
+middle class,bachelor,female,2
+middle class,junior college,male,9
+working class,high school,female,2
+middle class,bachelor,male,2
+middle class,graduate,female,2
+middle class,bachelor,female,0
+middle class,graduate,female,0
+middle class,graduate,male,2
+working class,junior college,female,4
+middle class,high school,female,5
+middle class,bachelor,male,2
+middle class,junior college,male,0
+working class,bachelor,female,1
+middle class,lt high school,male,4
+middle class,junior college,female,na
+working class,lt high school,male,5
+working class,junior college,female,1
+middle class,graduate,female,3
+working class,high school,male,4
+lower class,high school,male,3
+middle class,graduate,male,3
+working class,high school,male,1
+middle class,graduate,male,8
+working class,high school,female,2
+middle class,high school,female,1
+middle class,high school,female,4
+working class,high school,female,7
+middle class,high school,male,3
+middle class,high school,female,3
+middle class,bachelor,male,2
+middle class,bachelor,male,1
+middle class,graduate,male,7
+middle class,graduate,male,1
+working class,lt high school,male,7
+middle class,high school,male,4
+working class,bachelor,female,2
+middle class,bachelor,male,2
+working class,lt high school,female,6
+upper class,graduate,male,7
+middle class,graduate,male,4
+middle class,graduate,male,2
+middle class,graduate,male,1
+middle class,bachelor,female,6
+working class,lt high school,female,6
+middle class,high school,male,3
+lower class,high school,female,7
+lower class,high school,male,7
+working class,junior college,female,1
+working class,bachelor,female,1
+working class,lt high school,male,8
+middle class,high school,male,2
+lower class,high school,female,1
+working class,bachelor,female,0
+upper class,bachelor,male,1
+middle class,bachelor,female,1
+middle class,bachelor,male,1
+middle class,bachelor,female,1
+middle class,bachelor,male,1
+middle class,graduate,female,2
+working class,lt high school,male,11
+working class,bachelor,female,2
+working class,high school,female,3
+lower class,bachelor,male,5
+middle class,junior college,male,3
+middle class,lt high school,male,12
+middle class,bachelor,female,5
+upper class,graduate,female,1
+middle class,bachelor,female,3
+middle class,graduate,female,2
+working class,high school,female,3
+middle class,graduate,female,2
+working class,junior college,male,2
+middle class,graduate,female,3
+middle class,bachelor,male,3
+working class,high school,male,3
+working class,graduate,male,0
+working class,high school,female,2
+working class,graduate,female,2
+middle class,lt high school,female,3
+middle class,bachelor,male,2
+working class,high school,male,2
+lower class,high school,female,2
+middle class,graduate,female,4
+middle class,bachelor,female,1
+middle class,bachelor,male,1
+middle class,bachelor,male,0
+working class,high school,female,4
+working class,high school,male,1
+middle class,high school,female,6
+working class,lt high school,female,4
+lower class,lt high school,female,12
+working class,high school,male,12
+working class,junior college,female,1
+working class,lt high school,male,3
+working class,high school,female,4
+lower class,high school,male,3
+middle class,high school,female,6
+middle class,bachelor,female,2
+working class,high school,male,9
+working class,high school,male,0
+working class,high school,female,1
+working class,high school,female,6
+middle class,high school,female,7
+middle class,bachelor,female,4
+middle class,graduate,female,2
+middle class,bachelor,male,4
+middle class,bachelor,male,0
+working class,high school,male,3
+middle class,bachelor,female,3
+working class,high school,female,2
+middle class,graduate,male,1
+middle class,bachelor,female,0
+middle class,high school,female,2
+working class,high school,female,3
+middle class,bachelor,female,1
+working class,high school,female,3
+lower class,high school,male,3
+middle class,high school,male,0
+middle class,bachelor,female,1
+middle class,junior college,male,1
+working class,high school,female,4
+working class,graduate,female,3
+working class,bachelor,male,3
+working class,high school,female,3
+lower class,high school,female,2
+upper class,bachelor,male,1
+middle class,bachelor,male,1
+working class,graduate,male,8
+lower class,high school,male,4
+working class,high school,male,2
+upper class,bachelor,male,2
+middle class,high school,female,5
+middle class,high school,female,2
+middle class,bachelor,female,1
+middle class,graduate,female,6
+middle class,bachelor,female,1
+working class,lt high school,male,3
+middle class,graduate,female,3
+middle class,graduate,male,6
+working class,bachelor,female,2
+working class,bachelor,female,1
+working class,high school,female,2
+middle class,bachelor,female,3
+working class,high school,female,2
+working class,high school,female,3
+working class,high school,female,4
+middle class,high school,male,2
+middle class,graduate,female,1
+working class,high school,male,3
+middle class,bachelor,female,1
+working class,junior college,female,2
+middle class,high school,male,0
+middle class,high school,female,5
+working class,bachelor,female,3
+upper class,bachelor,male,3
+upper class,high school,female,0
+middle class,high school,female,2
+middle class,bachelor,female,3
+middle class,high school,female,12
+working class,junior college,male,0
+middle class,graduate,male,1
+middle class,bachelor,female,1
+middle class,graduate,male,0
+middle class,lt high school,female,8
+upper class,bachelor,female,3
+middle class,high school,female,4
+working class,high school,female,1
+lower class,high school,female,5
+working class,high school,male,1
+working class,lt high school,male,5
+working class,bachelor,male,2
+middle class,high school,male,3
+working class,high school,male,4
+working class,high school,female,3
+working class,high school,male,3
+middle class,high school,male,4
+middle class,graduate,male,3
+working class,high school,male,2
+middle class,bachelor,male,3
+middle class,graduate,male,3
+working class,bachelor,female,2
+middle class,high school,female,2
+working class,high school,female,5
+working class,high school,male,4
+middle class,junior college,male,2
+middle class,high school,female,2
+middle class,bachelor,female,0
+middle class,bachelor,female,5
+middle class,graduate,male,0
+middle class,graduate,female,0
+middle class,bachelor,female,1
+middle class,bachelor,male,1
+middle class,bachelor,male,4
+working class,graduate,male,1
+working class,high school,male,3
+middle class,graduate,female,2
+middle class,graduate,male,1
+working class,junior college,female,8
+lower class,lt high school,female,1
+working class,graduate,female,9
+working class,high school,male,2
+lower class,lt high school,female,6
+middle class,high school,female,1
+working class,junior college,female,1
+lower class,lt high school,male,4
+working class,high school,male,4
+middle class,high school,female,2
+lower class,high school,male,7
+working class,junior college,female,5
+middle class,lt high school,female,5
+lower class,lt high school,male,5
+working class,high school,female,6
+upper class,high school,female,5
+working class,graduate,female,6
+working class,high school,male,2
+middle class,high school,male,1
+working class,lt high school,male,8
+middle class,graduate,male,3
+working class,high school,female,2
+middle class,bachelor,female,0
+middle class,junior college,female,4
+working class,lt high school,male,3
+middle class,lt high school,male,7
+working class,high school,male,3
+working class,high school,female,7
+working class,lt high school,male,7
+middle class,graduate,male,2
+working class,graduate,male,4
+lower class,high school,male,4
+working class,junior college,female,4
+working class,high school,female,5
+working class,lt high school,male,15
+middle class,high school,female,5
+middle class,graduate,male,2
+middle class,bachelor,male,0
+working class,high school,male,3
+working class,high school,female,3
+dk,lt high school,male,7
+lower class,high school,male,8
+middle class,bachelor,male,7
+working class,high school,female,0
+middle class,bachelor,female,2
+middle class,lt high school,female,2
+lower class,lt high school,male,5
+working class,lt high school,male,11
+working class,lt high school,female,9
+working class,high school,female,3
+lower class,high school,female,4
+upper class,high school,female,2
+working class,lt high school,male,6
+middle class,high school,male,3
+lower class,high school,female,0
+working class,lt high school,female,5
+working class,lt high school,male,8
+middle class,high school,male,8
+working class,graduate,female,1
+working class,bachelor,male,1
+middle class,high school,male,8
+working class,high school,male,3
+middle class,high school,female,2
+lower class,high school,female,4
+middle class,junior college,female,10
+middle class,high school,male,1
+middle class,high school,female,1
+working class,junior college,female,2
+middle class,graduate,female,2
+middle class,high school,male,7
+middle class,lt high school,female,3
+working class,lt high school,male,3
+working class,high school,female,10
+working class,bachelor,female,2
+working class,high school,male,9
+working class,lt high school,male,3
+middle class,high school,female,2
+middle class,lt high school,male,4
+working class,lt high school,female,6
+lower class,high school,male,3
+middle class,junior college,male,5
+working class,junior college,female,6
+middle class,lt high school,female,5
+middle class,high school,female,6
+middle class,lt high school,female,3
+middle class,lt high school,male,13
+lower class,lt high school,female,9
+middle class,high school,male,2
+working class,high school,female,6
+working class,lt high school,female,6
+lower class,high school,female,8
+working class,lt high school,female,8
+working class,high school,male,5
+middle class,high school,male,2
+working class,lt high school,male,4
+middle class,graduate,female,4
+working class,high school,female,1
+working class,junior college,female,8
+working class,high school,male,3
+working class,bachelor,female,3
+middle class,bachelor,female,3
+middle class,graduate,male,1
+middle class,bachelor,male,1
+middle class,junior college,female,10
+working class,lt high school,male,7
+middle class,high school,male,3
+lower class,high school,male,13
+middle class,high school,female,3
+lower class,lt high school,female,4
+working class,high school,male,10
+upper class,bachelor,male,1
+working class,graduate,male,5
+upper class,graduate,male,1
+middle class,graduate,male,5
+middle class,bachelor,male,1
+middle class,graduate,female,2
+middle class,high school,male,2
+lower class,high school,male,3
+middle class,high school,male,4
+lower class,graduate,male,3
+lower class,junior college,male,6
+middle class,junior college,male,3
+working class,high school,female,3
+working class,junior college,male,2
+working class,junior college,female,10
+working class,bachelor,male,3
+upper class,graduate,female,1
+middle class,bachelor,female,6
+middle class,graduate,female,1
+middle class,bachelor,female,3
+middle class,graduate,male,2
+middle class,high school,female,5
+working class,high school,male,2
+working class,high school,male,4
+middle class,high school,male,1
+working class,high school,female,2
+working class,junior college,female,2
+middle class,high school,female,2
+working class,bachelor,female,5
+middle class,graduate,female,1
+working class,high school,female,1
+middle class,graduate,female,1
+working class,junior college,male,3
+working class,high school,male,9
+middle class,bachelor,female,2
+working class,high school,male,11
+working class,high school,male,9
+working class,high school,female,1
+lower class,high school,male,14
+working class,junior college,female,10
+middle class,high school,female,1
+middle class,junior college,female,11
+lower class,high school,female,7
+working class,high school,male,6
+middle class,graduate,male,4
+upper class,bachelor,male,2
+middle class,bachelor,female,2
+middle class,bachelor,male,0
+working class,high school,female,4
+middle class,high school,male,4
+lower class,lt high school,female,5
+lower class,high school,female,1
+lower class,high school,female,2
+middle class,high school,female,6
+working class,junior college,female,1
+working class,junior college,female,8
+middle class,high school,male,1
+working class,high school,female,7
+working class,high school,male,4
+working class,high school,female,1
+middle class,lt high school,female,0
+working class,high school,female,4
+working class,high school,male,3
+working class,high school,male,2
+working class,high school,female,2
+working class,high school,male,3
+working class,high school,male,1
+middle class,junior college,female,6
+working class,high school,female,5
+working class,bachelor,female,5
+working class,lt high school,female,6
+lower class,lt high school,male,6
+working class,high school,male,5
+middle class,bachelor,female,1
+working class,high school,male,4
+lower class,high school,female,2
+working class,high school,female,7
+working class,graduate,male,10
+middle class,high school,female,2
+middle class,high school,female,0
+upper class,high school,female,5
+working class,high school,female,6
+working class,high school,male,4
+middle class,lt high school,female,9
+middle class,high school,female,8
+working class,high school,male,1
+working class,high school,female,2
+middle class,bachelor,male,4
+working class,high school,female,3
+middle class,high school,male,7
+middle class,graduate,female,1
+working class,bachelor,female,4
+middle class,junior college,female,7
+working class,high school,male,2
+working class,high school,male,8
+working class,high school,female,1
+middle class,high school,female,6
+middle class,graduate,female,1
+working class,lt high school,female,5
+working class,lt high school,male,3
+working class,bachelor,male,14
+working class,lt high school,male,7
+middle class,high school,female,1
+middle class,high school,female,3
+lower class,bachelor,female,8
+middle class,high school,male,2
+middle class,lt high school,male,2
+middle class,bachelor,male,2
+middle class,high school,male,0
+working class,high school,male,4
+middle class,graduate,female,1
+middle class,high school,male,3
+middle class,high school,female,3
+working class,high school,female,2
+middle class,bachelor,female,2
+middle class,high school,male,5
+working class,junior college,female,7
+working class,bachelor,female,2
+middle class,junior college,male,6
+lower class,junior college,female,1
+middle class,lt high school,male,0
+working class,graduate,male,1
+middle class,high school,male,1
+upper class,graduate,female,3
+working class,bachelor,male,4
+working class,high school,female,3
+middle class,high school,male,4
+middle class,high school,male,7
+upper class,bachelor,male,4
+lower class,lt high school,male,1
+middle class,high school,female,2
+working class,high school,female,2
+working class,high school,female,2
+middle class,high school,male,1
+middle class,high school,female,2
+working class,high school,male,10
+middle class,graduate,female,2
+lower class,high school,female,8
+working class,high school,female,7
+working class,lt high school,female,6
+dk,high school,male,3
+working class,high school,female,5
+lower class,bachelor,male,5
+working class,high school,male,2
+working class,high school,female,5
+middle class,high school,male,4
+working class,high school,male,0
+working class,high school,male,1
+middle class,high school,female,4
+lower class,lt high school,male,7
+working class,high school,female,2
+working class,high school,female,7
+middle class,graduate,female,3
+working class,high school,female,7
+working class,lt high school,male,1
+working class,high school,female,2
+working class,high school,female,3
+working class,high school,male,0
+working class,high school,male,2
+working class,bachelor,female,2
+middle class,graduate,male,2
+working class,high school,male,2
+working class,high school,male,1
+middle class,bachelor,female,3
+lower class,bachelor,female,1
+middle class,high school,male,2
+middle class,high school,male,1
+working class,lt high school,female,6
+working class,bachelor,female,2
+middle class,high school,female,0
+middle class,junior college,male,1
+upper class,bachelor,male,7
+middle class,bachelor,female,2
+middle class,lt high school,female,2
+middle class,high school,female,3
+middle class,bachelor,female,2
+lower class,high school,male,2
+working class,high school,male,8
+middle class,junior college,male,2
+working class,bachelor,female,4
+working class,high school,female,5
+working class,high school,male,1
+working class,high school,female,0
+middle class,high school,female,1
+middle class,high school,female,1
+middle class,lt high school,female,4
+working class,high school,male,2
+working class,high school,female,3
+working class,high school,female,3
+working class,high school,male,5
+working class,high school,male,3
+working class,lt high school,female,5
+working class,high school,female,1
+working class,high school,female,3
+working class,bachelor,male,3
+working class,junior college,male,6
+working class,high school,male,2
+working class,high school,female,7
+middle class,bachelor,male,0
+upper class,high school,female,1
+working class,bachelor,female,2
+middle class,junior college,male,14
+middle class,bachelor,male,1
+middle class,bachelor,male,2
+working class,high school,female,2
+middle class,high school,female,6
+middle class,bachelor,female,1
+working class,junior college,male,6
+middle class,bachelor,male,5
+working class,junior college,female,2
+working class,lt high school,male,3
+working class,high school,female,3
+middle class,bachelor,female,7
+working class,junior college,male,3
+dk,high school,female,1
+middle class,junior college,male,1
+working class,high school,male,3
+middle class,bachelor,female,5
+working class,high school,female,4
+working class,high school,female,2
+middle class,high school,male,2
+middle class,high school,male,1
+working class,high school,male,5
+middle class,graduate,male,7
+middle class,high school,female,2
+middle class,high school,female,5
+middle class,high school,male,2
+lower class,lt high school,male,1
+working class,high school,male,7
+working class,high school,male,4
+lower class,lt high school,female,1
+middle class,lt high school,male,3
+working class,high school,male,4
+middle class,bachelor,female,3
+middle class,high school,male,6
+working class,bachelor,male,1
+working class,high school,male,0
+working class,high school,female,2
+lower class,lt high school,female,3
+working class,bachelor,male,2
+working class,junior college,female,3
+lower class,junior college,female,8
+working class,bachelor,male,1
+middle class,bachelor,female,1
+middle class,bachelor,male,1
+working class,high school,male,3
+middle class,high school,female,4
+working class,junior college,female,4
+working class,junior college,female,0
+lower class,high school,female,1
+middle class,bachelor,male,12
+middle class,bachelor,male,1
+middle class,high school,female,4
+working class,lt high school,female,8
+middle class,high school,female,1
+dk,lt high school,male,4
+lower class,high school,female,4
+lower class,high school,male,4
+working class,bachelor,female,3
+middle class,high school,female,2
+middle class,high school,male,2
+lower class,high school,female,0
+working class,high school,female,2
+middle class,bachelor,female,3
+middle class,high school,female,6
+working class,high school,female,3
+working class,lt high school,male,7
+working class,high school,female,2
+lower class,high school,female,3
+working class,bachelor,female,3
+working class,bachelor,male,1
+working class,high school,male,0
+middle class,lt high school,male,1
+working class,high school,male,2
+working class,lt high school,male,4
+middle class,lt high school,male,2
+working class,high school,male,3
+working class,lt high school,male,9
+middle class,high school,female,1
+working class,high school,female,5
+lower class,lt high school,male,3
+middle class,lt high school,female,3
+upper class,high school,female,7
+working class,graduate,female,3
+working class,high school,male,3
+middle class,bachelor,male,2
+middle class,high school,male,3
+working class,high school,female,1
+working class,high school,male,7
+middle class,bachelor,female,1
+middle class,high school,male,8
+working class,high school,male,2
+middle class,junior college,male,2
+lower class,high school,female,3
+working class,high school,male,2
+middle class,lt high school,female,6
+working class,lt high school,male,9
+middle class,lt high school,male,9
+working class,high school,female,5
+middle class,high school,male,15
+working class,lt high school,male,30
+working class,high school,female,4
+working class,bachelor,male,1
+working class,high school,male,7
+working class,high school,male,0
+working class,high school,male,1
+working class,high school,male,9
+middle class,bachelor,male,1
+middle class,high school,male,2
+middle class,graduate,female,2
+working class,high school,female,2
+middle class,bachelor,female,1
+middle class,high school,female,2
+middle class,graduate,male,1
+middle class,graduate,female,2
+working class,high school,male,4
+working class,high school,female,3
+working class,high school,female,0
+middle class,high school,male,2
+dk,bachelor,male,2
+middle class,high school,male,1
+working class,high school,female,4
+dk,junior college,female,1
+working class,high school,male,2
+working class,high school,male,3
+working class,graduate,female,4
+working class,high school,male,4
+working class,high school,female,3
+working class,high school,female,6
+working class,lt high school,male,3
+working class,high school,female,2
+working class,junior college,female,4
+middle class,high school,male,3
+working class,bachelor,female,1
+working class,high school,female,0
+working class,high school,female,3
+middle class,high school,male,2
+working class,high school,male,9
+working class,junior college,female,2
+working class,high school,male,1
+working class,high school,female,5
+middle class,high school,male,2
+middle class,high school,female,5
+working class,high school,male,2
+working class,high school,male,4
+lower class,high school,male,0
+working class,high school,female,2
+lower class,high school,male,2
+working class,high school,male,6
+middle class,high school,female,4
+working class,high school,female,1
+working class,high school,male,7
+working class,lt high school,female,5
+working class,high school,male,5
+working class,high school,female,7
+middle class,junior college,male,7
+working class,high school,male,3
+middle class,high school,female,2
+lower class,high school,female,2
+working class,bachelor,male,1
+middle class,high school,female,1
+working class,high school,male,7
+working class,high school,male,2
+middle class,high school,female,0
+working class,bachelor,female,0
+middle class,bachelor,male,2
+middle class,high school,male,1
+middle class,high school,female,4
+working class,high school,female,3
+working class,high school,male,2
+middle class,high school,female,1
+middle class,graduate,female,1
+middle class,graduate,female,6
+middle class,graduate,female,1
+middle class,high school,female,3
+working class,high school,female,4
+middle class,high school,male,3
+middle class,bachelor,female,0
+working class,junior college,female,7
+middle class,bachelor,male,6
+middle class,junior college,female,0
+middle class,high school,female,1
+middle class,graduate,male,2
+middle class,bachelor,female,2
+working class,high school,female,7
+working class,bachelor,female,3
+working class,bachelor,female,3
+middle class,junior college,female,2
+lower class,high school,female,3
+middle class,high school,male,4
+middle class,high school,male,11
+middle class,graduate,male,1
+middle class,high school,male,7
+working class,bachelor,male,2
+middle class,graduate,female,9
+middle class,bachelor,male,3
+working class,high school,female,2
+middle class,bachelor,female,8
+middle class,bachelor,male,4
+working class,high school,male,3
+middle class,high school,female,3
+working class,high school,male,1
+middle class,high school,female,2
+working class,high school,male,3
+middle class,high school,male,11
+middle class,graduate,male,2
+lower class,lt high school,male,5
+working class,high school,female,2
+working class,high school,female,2
+working class,lt high school,female,8
+middle class,high school,female,2
+middle class,high school,female,1
+working class,bachelor,female,2
+middle class,lt high school,female,3
+working class,graduate,female,0
+middle class,high school,female,1
+middle class,high school,female,3
+middle class,bachelor,female,1
+working class,junior college,male,4
+working class,high school,male,1
+working class,lt high school,male,1
+working class,lt high school,male,4
+working class,high school,male,2
+middle class,bachelor,male,1
+dk,high school,female,5
+working class,high school,female,2
+working class,high school,male,0
+lower class,high school,male,5
+working class,high school,female,2
+middle class,bachelor,male,3
+middle class,high school,female,3
+lower class,lt high school,female,0
+working class,high school,female,3
+working class,bachelor,male,1
+middle class,high school,female,3
+middle class,graduate,female,2
+middle class,bachelor,female,1
+middle class,lt high school,female,10
+middle class,lt high school,female,3
+middle class,bachelor,female,2
+middle class,high school,female,1
+working class,high school,male,3
+middle class,graduate,male,5
+working class,lt high school,female,3
+middle class,high school,male,7
+middle class,bachelor,male,4
+middle class,bachelor,male,1
+lower class,bachelor,male,2
+lower class,bachelor,female,1
+working class,bachelor,female,2
+middle class,graduate,female,0
+middle class,bachelor,female,2
+working class,high school,female,4
+middle class,lt high school,female,2
+middle class,graduate,female,2
+working class,bachelor,male,3
+working class,high school,male,3
+middle class,graduate,male,1
+working class,bachelor,female,3
+middle class,bachelor,female,3
+middle class,bachelor,male,2
+middle class,lt high school,male,4
+working class,junior college,male,1
+middle class,lt high school,male,4
+middle class,lt high school,female,10
+lower class,junior college,male,2
+working class,high school,female,2
+middle class,lt high school,female,4
+working class,high school,female,3
+middle class,high school,male,3
+working class,lt high school,male,5
+working class,high school,female,2
+middle class,high school,male,1
+middle class,bachelor,male,1
+working class,high school,female,4
+middle class,bachelor,female,1
+middle class,graduate,female,2
+middle class,junior college,female,6
+middle class,lt high school,male,2
+working class,high school,female,3
+middle class,high school,male,3
+middle class,graduate,male,2
+middle class,junior college,male,2
+working class,high school,female,5
+working class,high school,male,2
+working class,lt high school,male,1
+working class,high school,male,3
+upper class,junior college,female,16
+working class,junior college,female,5
+working class,high school,female,6
+working class,high school,female,1
+lower class,high school,male,5
+lower class,high school,female,7
+middle class,high school,female,1
+middle class,graduate,male,2
+middle class,bachelor,female,2
+middle class,graduate,female,1
+middle class,high school,female,4
+middle class,junior college,male,1
+working class,high school,female,4
+middle class,high school,male,1
+working class,bachelor,female,1
+working class,high school,female,1
+working class,high school,female,1
+lower class,high school,male,4
+middle class,high school,female,3
+middle class,high school,female,1
+middle class,lt high school,female,2
+working class,junior college,female,2
+middle class,high school,female,13
+working class,high school,female,6
+lower class,high school,female,dk
+working class,lt high school,female,7
+working class,bachelor,female,0
+working class,lt high school,male,5
+middle class,bachelor,female,1
+middle class,graduate,male,2
+middle class,graduate,male,3
+working class,high school,female,1
+working class,high school,female,2
+working class,lt high school,male,3
+working class,bachelor,male,1
+middle class,high school,female,1
+working class,high school,male,0
+working class,high school,male,7
+lower class,lt high school,male,4
+lower class,lt high school,male,2
+middle class,lt high school,female,6
+working class,high school,female,4
+middle class,bachelor,male,0
+middle class,high school,female,1
+working class,bachelor,male,2
+working class,junior college,female,1
+middle class,high school,female,3
+working class,bachelor,female,4
+middle class,graduate,male,3
+working class,high school,female,1
+middle class,bachelor,female,0
+working class,junior college,male,4
+working class,high school,female,4
+middle class,high school,female,3
+working class,graduate,male,0
+lower class,high school,male,1
+working class,high school,female,3
+middle class,lt high school,female,9
+middle class,junior college,female,1
+middle class,bachelor,female,3
+middle class,junior college,female,9
+working class,junior college,male,4
+na,graduate,male,8
+working class,high school,female,5
+middle class,bachelor,female,1
+working class,lt high school,male,11
+working class,high school,male,4
+middle class,junior college,female,6
+working class,junior college,female,4
+middle class,bachelor,female,3
+middle class,lt high school,female,7
+working class,high school,female,7
+middle class,junior college,female,3
+middle class,bachelor,female,3
+lower class,lt high school,female,4
+working class,bachelor,female,1
+upper class,high school,female,4
+lower class,lt high school,female,0
+middle class,bachelor,female,0
+working class,high school,female,3
+middle class,high school,male,1
+middle class,graduate,female,1
+middle class,lt high school,male,8
+working class,lt high school,male,5
+working class,junior college,male,2
+middle class,lt high school,male,9
+middle class,lt high school,male,6
+lower class,high school,female,2
+middle class,high school,female,3
+working class,high school,female,3
+working class,junior college,female,1
+working class,high school,female,13
+middle class,high school,female,17
+lower class,high school,female,1
+middle class,junior college,female,5
+middle class,high school,female,8
+working class,high school,female,5
+working class,high school,male,3
+middle class,junior college,male,5
+working class,high school,female,2
+middle class,bachelor,male,2
+lower class,high school,male,1
+middle class,high school,male,3
+working class,bachelor,female,4
+working class,bachelor,female,4
+working class,high school,male,8
+working class,high school,male,2
+working class,high school,female,2
+middle class,graduate,female,2
+middle class,high school,male,1
+middle class,junior college,male,1
+middle class,bachelor,male,2
+upper class,high school,female,1
+middle class,high school,female,6
+upper class,lt high school,male,2
+na,lt high school,female,5
+middle class,bachelor,female,2
+middle class,high school,male,8
+middle class,lt high school,female,8
+working class,lt high school,male,4
+middle class,high school,female,6
+working class,high school,male,1
+working class,high school,female,1
+middle class,junior college,male,4
+middle class,bachelor,male,5
+working class,high school,female,13
+working class,bachelor,male,2
+lower class,high school,female,3
+working class,high school,female,1
+lower class,high school,male,2
+middle class,high school,female,4
+middle class,junior college,female,4
+middle class,junior college,female,2
+working class,lt high school,male,2
+middle class,high school,male,3
+middle class,high school,male,7
+working class,high school,female,2
+middle class,high school,female,2
+working class,high school,female,5
+middle class,high school,female,1
+middle class,junior college,female,2
+middle class,high school,male,2
+upper class,bachelor,male,1
+middle class,lt high school,male,2
+working class,high school,female,2
+middle class,lt high school,male,1
+working class,high school,female,1
+working class,bachelor,female,2
+middle class,junior college,female,2
+working class,high school,female,4
+working class,lt high school,male,2
+lower class,bachelor,male,1
+middle class,high school,female,1
+middle class,graduate,female,6
+middle class,bachelor,male,1
+middle class,high school,female,6
+middle class,bachelor,female,2
+working class,lt high school,female,4
+working class,junior college,male,2
+middle class,high school,male,1
+working class,high school,female,22
+working class,bachelor,male,0
+working class,high school,male,1
+working class,high school,female,8
+working class,high school,female,1
+working class,high school,male,3
+middle class,junior college,female,3
+middle class,high school,female,8
+middle class,high school,female,5
+middle class,high school,male,0
+middle class,bachelor,female,0
+middle class,graduate,female,4
+working class,lt high school,female,4
+middle class,bachelor,male,2
+working class,high school,male,2
+middle class,lt high school,male,5
+working class,high school,female,4
+middle class,high school,male,15
+working class,lt high school,female,3
+lower class,high school,female,2
+lower class,junior college,female,2
+middle class,high school,male,2
+working class,high school,female,4
+working class,bachelor,male,1
+middle class,bachelor,male,2
+working class,graduate,male,4
+working class,high school,female,7
+middle class,high school,male,5
+working class,high school,female,3
+middle class,graduate,female,5
+lower class,bachelor,female,0
+lower class,lt high school,male,7
+middle class,lt high school,female,3
+working class,high school,male,1
+working class,high school,female,10
+working class,high school,male,5
+lower class,high school,male,1
+middle class,bachelor,male,1
+lower class,high school,female,4
+lower class,high school,female,10
+middle class,graduate,male,1
+working class,lt high school,male,3
+working class,high school,female,6
+middle class,graduate,female,2
+middle class,high school,female,2
+middle class,graduate,female,0
+middle class,graduate,female,3
+middle class,lt high school,female,10
+middle class,high school,male,8
+dk,high school,female,3
+middle class,graduate,female,3
+working class,high school,female,1
+middle class,high school,male,6
+middle class,graduate,male,4
+lower class,high school,male,3
+middle class,high school,male,10
+working class,high school,male,8
+lower class,lt high school,male,5
+working class,high school,male,2
+middle class,graduate,female,3
+middle class,graduate,female,3
+lower class,high school,male,3
+working class,high school,female,4
+lower class,lt high school,female,4
+working class,high school,male,1
+working class,high school,female,1
+middle class,high school,female,8
+working class,high school,female,7
+working class,bachelor,male,6
+middle class,graduate,female,2
+middle class,bachelor,female,3
+middle class,bachelor,female,1
+middle class,bachelor,female,1
+working class,lt high school,female,2
+working class,bachelor,male,10
+dk,high school,female,5
+working class,high school,female,6
+middle class,lt high school,female,6
+working class,high school,male,5
+middle class,high school,male,0
+working class,high school,female,1
+middle class,high school,male,4
+middle class,high school,female,10
+middle class,high school,male,2
+working class,high school,male,4
+middle class,graduate,female,2
+middle class,bachelor,female,5
+upper class,bachelor,male,2
+working class,bachelor,female,4
+middle class,bachelor,female,4
+upper class,bachelor,male,2
+middle class,graduate,male,3
+middle class,high school,female,3
+working class,lt high school,female,7
+working class,high school,male,8
+middle class,high school,male,8
+working class,high school,female,3
+working class,high school,female,5
+working class,high school,male,1
+working class,high school,female,6
+lower class,high school,male,3
+working class,high school,female,3
+working class,high school,male,2
+middle class,bachelor,male,0
+middle class,graduate,male,3
+middle class,high school,male,1
+working class,high school,male,3
+working class,high school,male,1
+lower class,high school,female,0
+working class,graduate,male,3
+middle class,bachelor,female,0
+middle class,lt high school,male,5
+lower class,high school,female,11
+working class,high school,male,3
+working class,lt high school,male,7
+working class,high school,female,7
+middle class,high school,female,3
+working class,high school,male,5
+middle class,high school,female,0
+upper class,bachelor,female,3
+middle class,high school,female,9
+working class,high school,male,4
+middle class,bachelor,female,1
+middle class,graduate,female,3
+middle class,bachelor,female,2
+middle class,bachelor,female,6
+middle class,bachelor,female,4
+upper class,graduate,male,2
+middle class,bachelor,male,3
+lower class,lt high school,female,8
+middle class,high school,male,2
+middle class,bachelor,male,2
+working class,high school,female,6
+working class,bachelor,male,3
+middle class,high school,female,7
+working class,high school,female,0
+working class,high school,male,1
+upper class,graduate,female,1
+middle class,graduate,male,2
+middle class,junior college,female,1
+working class,lt high school,male,4
+working class,lt high school,female,3
+middle class,high school,male,2
+working class,high school,female,2
+lower class,high school,female,7
+working class,high school,female,1
+middle class,lt high school,male,8
+working class,high school,male,7
+working class,high school,female,2
+middle class,high school,male,8
+working class,lt high school,female,4
+middle class,high school,female,3
+working class,high school,female,3
+middle class,high school,female,1
+middle class,high school,female,1
+working class,high school,female,3
+working class,high school,female,2
+middle class,junior college,male,5
+middle class,graduate,female,6
+working class,lt high school,male,1
+middle class,high school,female,3
+working class,high school,female,2
+working class,high school,male,7
+middle class,high school,male,3
+working class,high school,female,2
+middle class,graduate,female,0
+upper class,bachelor,male,8
+lower class,lt high school,female,3
+middle class,high school,male,1
+middle class,high school,female,5
+middle class,graduate,female,1
+upper class,high school,male,3
+middle class,graduate,female,5
+middle class,graduate,female,6
+working class,lt high school,male,9
+working class,high school,male,2
+middle class,junior college,male,4
+working class,high school,female,2
+lower class,lt high school,male,3
+working class,lt high school,female,5
+middle class,high school,male,2
+working class,junior college,female,3
+lower class,lt high school,female,1
+working class,high school,female,1
+middle class,bachelor,female,0
+middle class,junior college,male,7
+middle class,high school,male,2
+middle class,graduate,female,3
+middle class,high school,male,0
+middle class,high school,male,3
+working class,high school,male,1
+middle class,high school,male,5
+working class,bachelor,female,3
+middle class,graduate,female,12
+working class,high school,male,6
+working class,high school,female,4
+working class,high school,male,1
+lower class,high school,male,2
+working class,high school,female,4
+middle class,graduate,female,3
+middle class,lt high school,female,1
+middle class,high school,male,2
+lower class,high school,female,7
+middle class,junior college,male,7
+lower class,lt high school,male,9
+working class,bachelor,male,3
+middle class,junior college,male,3
+working class,high school,male,4
+middle class,high school,male,1
+middle class,high school,female,15
+working class,lt high school,female,10
+working class,high school,female,2
+working class,high school,male,1
+working class,high school,male,7
+working class,lt high school,male,9
+working class,high school,male,8
+middle class,high school,male,1
+working class,high school,male,2
+middle class,high school,male,0
+middle class,high school,female,2
+middle class,bachelor,male,2
+middle class,bachelor,female,3
+middle class,lt high school,female,3
+lower class,high school,female,2
+working class,bachelor,female,6
+working class,bachelor,male,1
+middle class,high school,female,2
+working class,bachelor,male,1
+working class,high school,male,1
+middle class,bachelor,male,4
+middle class,high school,female,5
+working class,high school,female,1
+working class,bachelor,male,2
+middle class,high school,male,3
+lower class,high school,male,0
+working class,high school,female,2
+working class,high school,male,1
+working class,high school,female,7
+middle class,high school,female,1
+working class,high school,female,4
+working class,bachelor,female,4
+lower class,high school,male,3
+working class,bachelor,male,1
+middle class,high school,female,11
+working class,junior college,female,7
+working class,high school,female,1
+working class,high school,male,4
+working class,high school,male,3
+middle class,high school,female,2
+middle class,bachelor,male,1
+middle class,bachelor,male,2
+working class,graduate,male,1
+middle class,bachelor,female,1
+middle class,bachelor,male,2
+middle class,graduate,male,1
+working class,bachelor,female,2
+working class,bachelor,female,3
+middle class,bachelor,female,1
+middle class,high school,male,6
+middle class,bachelor,male,1
+working class,high school,female,6
+working class,high school,male,1
+middle class,bachelor,female,2
+middle class,bachelor,male,2
+working class,high school,female,14
+lower class,lt high school,male,3
+upper class,high school,male,2
+middle class,bachelor,male,2
+middle class,lt high school,female,5
+lower class,lt high school,male,2
+working class,lt high school,male,3
+middle class,high school,female,2
+middle class,high school,male,3
+working class,high school,male,5
+middle class,graduate,male,2
+working class,high school,female,9
+working class,high school,female,4
+lower class,lt high school,male,1
+working class,high school,male,6
+middle class,bachelor,female,10
+middle class,graduate,female,2
+working class,high school,female,2
+middle class,graduate,female,2
+working class,high school,female,2
+working class,junior college,female,1
+middle class,bachelor,male,3
+working class,high school,female,7
+upper class,lt high school,male,12
+working class,high school,female,8
+working class,high school,male,3
+working class,lt high school,female,15
+middle class,high school,female,1
+middle class,high school,male,1
+working class,high school,female,3
+middle class,high school,female,3
+working class,lt high school,male,3
+lower class,lt high school,male,3
+middle class,high school,female,10
+working class,high school,male,3
+middle class,high school,female,1
+middle class,high school,female,1
+working class,high school,male,5
+middle class,junior college,female,2
+middle class,lt high school,female,4
+middle class,lt high school,female,18
+working class,high school,female,3
+lower class,high school,male,4
+working class,junior college,female,7
+working class,high school,female,1
+working class,junior college,male,3
+working class,lt high school,female,4
+working class,lt high school,female,3
+middle class,lt high school,female,5
+middle class,high school,female,4
+working class,bachelor,male,20
+middle class,high school,female,3
+working class,lt high school,female,9
+working class,high school,female,2
+working class,high school,male,4
+lower class,lt high school,female,4
+middle class,high school,male,1
+working class,high school,male,11
+working class,high school,male,1
+middle class,bachelor,male,2
+middle class,bachelor,female,2
+upper class,graduate,female,2
+working class,high school,female,1
+lower class,junior college,male,8
+working class,high school,female,4
+middle class,graduate,male,3
+middle class,high school,female,4
+middle class,graduate,male,3
+middle class,bachelor,female,2
+middle class,graduate,male,3
+middle class,graduate,male,2
+working class,junior college,female,2
+working class,high school,male,2
+working class,high school,female,5
+middle class,high school,female,2
+middle class,high school,male,2
+middle class,graduate,male,1
+working class,junior college,female,1
+middle class,bachelor,male,4
+working class,high school,female,10
+working class,high school,female,3
+middle class,graduate,male,1
+middle class,high school,female,2
+working class,high school,male,4
+dk,high school,male,3
+middle class,high school,female,2
+middle class,bachelor,male,6
+middle class,bachelor,female,5
+middle class,bachelor,female,4
+upper class,graduate,female,1
+lower class,high school,female,2
+middle class,high school,male,4
+working class,graduate,male,1
+middle class,lt high school,female,3
+middle class,graduate,female,3
+lower class,junior college,male,6
+working class,high school,female,2
+middle class,graduate,male,1
+working class,high school,female,4
+working class,lt high school,male,3
+working class,lt high school,female,3
+working class,high school,female,4
+lower class,high school,female,1
+middle class,high school,female,1
+working class,lt high school,female,7
+lower class,graduate,female,15
+middle class,lt high school,female,2
+middle class,lt high school,female,8
+lower class,high school,female,4
+lower class,high school,female,6
+middle class,lt high school,male,5
+middle class,graduate,male,2
+working class,high school,male,9
+lower class,lt high school,male,2
+middle class,lt high school,female,5
+middle class,high school,female,10
+working class,high school,female,2
+lower class,high school,female,8
+working class,lt high school,female,10
+middle class,lt high school,male,2
+middle class,high school,female,5
+lower class,high school,male,1
+working class,high school,male,3
+middle class,lt high school,male,4
+working class,high school,male,1
+lower class,high school,male,9
+lower class,lt high school,female,3
+working class,high school,male,4
+lower class,high school,male,6
+middle class,bachelor,female,9
+working class,lt high school,male,3
+lower class,lt high school,female,10
+lower class,high school,female,4
+lower class,lt high school,female,9
+upper class,lt high school,female,5
+working class,lt high school,male,16
+middle class,high school,female,4
+middle class,high school,female,6
+lower class,high school,female,4
+middle class,high school,female,2
+middle class,bachelor,male,1
+working class,junior college,male,4
+middle class,high school,female,3
+middle class,bachelor,female,2
+working class,high school,female,2
+lower class,high school,female,3
+middle class,high school,female,2
+working class,bachelor,male,2
+lower class,high school,female,4
+na,high school,male,3
+middle class,high school,female,2
+working class,high school,male,1
+middle class,junior college,female,1
+middle class,high school,female,2
+middle class,bachelor,female,4
+lower class,lt high school,male,1
+lower class,junior college,male,1
+working class,high school,male,3
+working class,high school,female,5
+working class,high school,male,5
+middle class,graduate,female,1
+working class,high school,male,5
+working class,lt high school,male,3
+working class,high school,female,1
+middle class,high school,male,4
+working class,high school,female,7
+middle class,bachelor,male,1
+middle class,high school,male,10
+middle class,high school,male,3
+working class,lt high school,female,1
+working class,junior college,female,3
+working class,lt high school,female,3
+upper class,high school,male,1
+working class,high school,female,3
+lower class,high school,female,22
+working class,bachelor,female,3
+lower class,high school,male,4
+working class,high school,female,3
+working class,junior college,female,2
+middle class,junior college,male,2
+middle class,bachelor,female,2
+middle class,junior college,male,3
+working class,high school,male,4
+lower class,lt high school,female,3
+working class,high school,female,2
+working class,lt high school,female,2
+middle class,lt high school,female,1
+middle class,high school,female,1
+working class,junior college,male,3
+middle class,high school,male,1
+working class,lt high school,male,6
+lower class,lt high school,female,7
+working class,high school,male,5
+working class,high school,female,6
+working class,high school,female,6
+working class,high school,male,1
+middle class,bachelor,female,2
+working class,lt high school,male,12
+working class,lt high school,male,4
+middle class,high school,female,5
+dk,high school,male,2
+middle class,high school,female,1
+working class,lt high school,male,4
+working class,lt high school,female,7
+working class,high school,female,1
+lower class,high school,male,5
+lower class,high school,female,12
+middle class,high school,female,7
+working class,high school,female,1
+working class,junior college,male,1
+middle class,high school,female,2
+working class,high school,male,2
+middle class,graduate,male,1
+middle class,graduate,male,2
+middle class,lt high school,female,2
+lower class,high school,female,1
+middle class,graduate,female,5
+working class,high school,female,1
+working class,high school,female,15
+middle class,graduate,male,3
+lower class,junior college,female,7
+working class,junior college,male,9
+middle class,high school,male,3
+middle class,lt high school,female,4
+lower class,junior college,female,3
+working class,high school,female,4
+working class,high school,male,2
+working class,high school,female,2
+upper class,graduate,male,3
+middle class,high school,male,6
+middle class,graduate,female,3
+middle class,graduate,female,5
+middle class,bachelor,male,1
+middle class,bachelor,male,2
+middle class,bachelor,female,1
+working class,junior college,female,2
+middle class,graduate,female,1
+working class,bachelor,female,3
+middle class,graduate,female,1
+middle class,bachelor,female,3
+working class,high school,female,2
+middle class,high school,male,1
+middle class,high school,female,3
+middle class,lt high school,female,2
+middle class,high school,female,6
+middle class,high school,female,8
+working class,high school,male,8
+middle class,high school,female,2
+middle class,high school,female,3
+middle class,lt high school,female,1
+working class,high school,male,2
+working class,high school,male,5
+middle class,high school,female,4
+working class,high school,male,5
+working class,high school,male,4
+middle class,high school,female,4
+working class,high school,female,6
+working class,high school,female,14
+middle class,lt high school,female,6
+working class,high school,female,15
+working class,lt high school,female,9
+middle class,high school,female,3
+working class,high school,female,15
+lower class,lt high school,female,5
+working class,high school,male,3
+working class,graduate,male,5
+working class,high school,female,4
+middle class,high school,female,3
+working class,high school,female,3
+working class,lt high school,male,3
+working class,high school,male,5
+lower class,lt high school,female,2
+lower class,lt high school,female,3
+middle class,high school,female,4
+middle class,high school,male,1
+middle class,high school,female,4
+lower class,lt high school,male,1
+middle class,high school,female,1
+middle class,junior college,male,1
+working class,high school,female,2
+upper class,high school,male,1
+middle class,high school,female,10
+working class,high school,male,0
+working class,high school,male,1
+working class,high school,male,2
+working class,high school,female,5
+middle class,high school,male,6
+lower class,high school,male,1
+working class,high school,male,2
+working class,high school,male,7
+working class,bachelor,male,0
+lower class,high school,female,3
+working class,high school,male,3
+lower class,bachelor,male,2
+working class,high school,male,1
+middle class,bachelor,male,6
+working class,high school,male,4
+lower class,high school,female,3
+middle class,bachelor,male,3
+working class,lt high school,male,8
+working class,bachelor,female,9
+middle class,bachelor,female,1
+working class,high school,male,1
+working class,lt high school,female,9
+working class,high school,female,6
+working class,high school,male,1
+middle class,graduate,male,1
+working class,bachelor,female,4
+middle class,high school,female,6
+lower class,high school,female,2
+working class,bachelor,female,2
+working class,high school,male,2
+middle class,lt high school,male,3
+working class,high school,female,1
+lower class,junior college,female,5
+lower class,lt high school,male,3
+upper class,high school,female,11
+middle class,high school,female,4
+working class,lt high school,female,5
+working class,high school,female,4
+middle class,high school,male,2
+middle class,high school,female,2
+middle class,high school,male,2
+middle class,lt high school,female,6
+working class,high school,female,8
+middle class,lt high school,male,2
+working class,high school,female,4
+working class,high school,male,1
+lower class,high school,female,2
+working class,high school,female,3
+working class,high school,female,6
+middle class,high school,male,3
+working class,bachelor,female,1
+working class,high school,female,2
+working class,high school,male,3
+middle class,graduate,male,6
+working class,high school,female,4
+working class,high school,female,2
+working class,high school,female,1
+middle class,bachelor,female,4
+middle class,graduate,male,2
+working class,high school,female,9
+working class,high school,female,6
+working class,high school,male,1
+working class,junior college,male,6
+working class,high school,female,9
+working class,high school,female,5
+middle class,high school,female,3
+working class,bachelor,male,0
+working class,bachelor,male,2
+lower class,high school,female,7
+working class,high school,female,4
+middle class,graduate,female,2
+working class,high school,female,2
+middle class,bachelor,male,1
+working class,high school,male,5
+middle class,high school,female,5
+working class,bachelor,female,0
+middle class,high school,female,2
+working class,junior college,female,6
+lower class,high school,male,16
+working class,bachelor,female,7
+working class,high school,male,6
+middle class,high school,male,2
+lower class,high school,male,2
+middle class,bachelor,male,9
+middle class,graduate,female,1
+working class,high school,male,3
+middle class,junior college,female,2
+lower class,high school,female,8
+working class,lt high school,female,10
+lower class,lt high school,female,10
+working class,high school,male,6
+middle class,graduate,male,5
+middle class,high school,male,5
+working class,bachelor,female,3
+middle class,lt high school,female,4
+working class,junior college,female,2
+lower class,junior college,female,11
+lower class,lt high school,male,3
+middle class,high school,male,5
+lower class,high school,male,3
+working class,junior college,female,1
+middle class,high school,male,2
+working class,high school,female,2
+middle class,graduate,female,1
+middle class,high school,female,2
+working class,high school,male,3
+working class,bachelor,female,2
+working class,lt high school,female,9
+middle class,high school,female,6
+middle class,lt high school,female,5
+working class,bachelor,female,5
+middle class,lt high school,female,11
+middle class,graduate,female,5
+lower class,lt high school,male,9
+working class,high school,female,2
+working class,high school,male,2
+working class,high school,male,3
+working class,high school,male,4
+middle class,high school,male,21
+working class,high school,male,5
+lower class,high school,male,3
+lower class,lt high school,male,8
+lower class,junior college,male,1
+middle class,high school,female,7
+working class,high school,male,3
+working class,lt high school,male,12
+middle class,high school,female,2
+working class,high school,female,8
+working class,lt high school,male,8
+middle class,lt high school,female,2
+middle class,high school,male,4
+lower class,high school,female,7
+middle class,bachelor,male,2
+lower class,high school,female,9
+middle class,high school,female,5
+middle class,lt high school,female,13
+middle class,high school,female,8
+lower class,high school,female,6
+working class,lt high school,female,7
+middle class,high school,male,2
+lower class,lt high school,female,7
+lower class,lt high school,female,10
+upper class,lt high school,female,30
+dk,lt high school,female,10
+working class,high school,female,1
+working class,high school,female,1
+working class,high school,female,4
+working class,high school,female,1
+working class,bachelor,female,1
+lower class,lt high school,male,3
+working class,high school,female,3
+middle class,junior college,female,6
+working class,high school,male,8
+working class,high school,male,3
+middle class,lt high school,female,9
+working class,high school,male,4
+middle class,lt high school,male,4
+dk,lt high school,female,5
+middle class,graduate,female,7
+working class,high school,male,2
+working class,junior college,female,1
+working class,high school,male,1
+middle class,graduate,male,1
+working class,bachelor,male,1
+working class,lt high school,female,9
+working class,junior college,female,1
+working class,high school,female,3
+lower class,high school,male,3
+middle class,high school,female,3
+working class,high school,female,6
+working class,high school,male,6
+working class,high school,male,4
+working class,high school,female,3
+working class,high school,male,11
+working class,high school,male,12
+middle class,bachelor,female,2
+working class,bachelor,male,2
+middle class,bachelor,female,4
+working class,junior college,female,6
+middle class,junior college,female,2
+working class,junior college,male,1
+working class,high school,male,3
+middle class,bachelor,male,6
+middle class,graduate,female,1
+working class,graduate,female,8
+middle class,bachelor,male,4
+middle class,high school,female,3
+working class,high school,male,2
+lower class,high school,male,5
+working class,high school,female,3
+middle class,graduate,female,3
+working class,lt high school,male,4
+lower class,lt high school,female,2
+working class,lt high school,male,2
+working class,lt high school,female,6
+working class,bachelor,female,3
+lower class,high school,female,9
+middle class,high school,male,2
+lower class,high school,female,3
+working class,high school,male,3
